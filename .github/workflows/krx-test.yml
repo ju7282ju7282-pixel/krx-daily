@@ -1,0 +1,18 @@
+name: krx-source-test
+on:
+  workflow_dispatch:
+  push:
+    paths: [".github/workflows/krx-test.yml", "scripts/test_sources.py"]
+permissions:
+  contents: write
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: python scripts/test_sources.py
+      - run: |
+          git config user.name "krx-bot"; git config user.email "krx-bot@users.noreply.github.com"
+          git add results && git commit -m "KRX 소스 시험 결과" && git push || echo "올릴 것 없음"
