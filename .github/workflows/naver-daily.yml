@@ -1,0 +1,19 @@
+name: naver-daily
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "40 7 * * 1-5"    # 한국 16:40 (장 마감 뒤)
+    - cron: "10 10 * * 1-5"   # 한국 19:10 (한 번 더)
+permissions:
+  contents: write
+jobs:
+  snap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: python scripts/naver_snapshot.py
+      - run: |
+          git config user.name "krx-bot"; git config user.email "krx-bot@users.noreply.github.com"
+          git add data && git commit -m "네이버 종가 $(cat data/naver/latest.json)" && git pull --rebase -q && git push || echo "올릴 것 없음"
