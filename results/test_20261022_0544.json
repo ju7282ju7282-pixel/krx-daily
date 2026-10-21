@@ -1,0 +1,194 @@
+{
+ "run_kst": "2026-10-22 05:44",
+ "tests": {
+  "krx_20261022": {
+   "error": "<HTTPError 400: 'Bad Request'>"
+  },
+  "krx_20261021": {
+   "error": "<HTTPError 400: 'Bad Request'>"
+  },
+  "krx_20261020": {
+   "error": "<HTTPError 400: 'Bad Request'>"
+  },
+  "krx_20261019": {
+   "error": "<HTTPError 400: 'Bad Request'>"
+  },
+  "krx_20261018": {
+   "error": "<HTTPError 400: 'Bad Request'>"
+  },
+  "naver_KOSPI": {
+   "status": 200,
+   "total": 2496,
+   "rows": 100,
+   "sample": [
+    {
+     "stockType": "domestic",
+     "stockEndType": "stock",
+     "itemCode": "005930",
+     "reutersCode": "005930",
+     "stockName": "삼성전자",
+     "sosok": "0",
+     "closePrice": "223,500",
+     "compareToPreviousClosePrice": "12,000",
+     "compareToPreviousPrice": {
+      "code": "2",
+      "text": "상승",
+      "name": "RISING"
+     },
+     "fluctuationsRatio": "5.67",
+     "accumulatedTradingVolume": "16,637,378",
+     "accumulatedTradingValue": "3,703,691",
+     "accumulatedTradingValueKrwHangeul": "3조 7,037억원",
+     "localTradedAt": "2026-10-21T20:20:22+09:00",
+     "marketValue": "13,066,433",
+     "marketValueHangeul": "1,306조 6,433억원",
+     "nav": "N/A",
+     "threeMonthEarningRate": "N/A",
+     "marketStatus": "CLOSE",
+     "tradeStopType": {
+      "code": "1",
+      "text": "운영.Trading",
+      "name": "TRADING"
+     },
+     "tradableStatus": "tradable",
+     "tradableStatusCode": "ok",
+     "tradableStatusUpdatedAt": "2026-10-21T08:01:45.433+09:00",
+     "stockExchangeType": {
+      "code": "KS",
+      "zoneId": "Asia/Seoul",
+      "nationType": "KOR",
+      "delayTime": 0,
+      "startTime": "0900",
+      "endTime": "1530",
+      "closePriceSendTime": "1630",
+      "nameKor": "코스피",
+      "nameEng": "KOSPI",
+      "stockType": "domestic",
+      "nationCode": "KOR",
+      "nationName": "대한민국",
+      "name": "KOSPI"
+     },
+     "endUrl": "https://m.stock.naver.com/domestic/stock/005930",
+     "newPcUrl": "https://stock.naver.com/domestic/stock/005930",
+     "overMarketPriceInfo": {
+      "tradingSessionType": "AFTER_MARKET",
+      "overMarketStatus": "CLOSE",
+      "overPrice": "224,000",
+      "compareToPreviousPrice": {
+       "code": "2",
+       "text": "상승",
+       "name": "RISING"
+      },
+      "compareToPreviousClosePrice": "12,500",
+      "fluctuationsRatio": "5.91",
+      "localTradedAt": "2026-10-21T20:00:00+09:00",
+      "tradeStopType": {
+       "code": "1",
+       "text": "운영.Trading",
+       "name": "TRADING"
+      },
+      "overPriceRaw": "224000",
+      "compareToPreviousClosePriceRaw": "12500"
+     },
+     "stockMiniImageChart": "https://financial-vn.pstatic.net/chart/mobile/mini/krx/005930_interest.png",
+     "itemLogoUrl": "https://ssl.pstatic.net/imgstock/fn/real/logo/stock/Stock005930.svg",
+     "itemLogoPngUrl": "https://ssl.pstatic.net/imgstock/fn/real/logo/png/stock/Stock005930.png",
+     "closePriceRaw": "223500",
+     "compareToPreviousClosePriceRaw": "12000",
+     "accumulatedTradingVolumeRaw": "16637378",
+     "accumulatedTradingValueRaw": "3703691000000",
+     "marketValueRaw": "1306643268888000"
+    }
+   ]
+  },
+  "naver_KOSDAQ": {
+   "status": 200,
+   "total": 1822,
+   "rows": 100,
+   "sample": [
+    {
+     "stockType": "domestic",
+     "stockEndType": "stock",
+     "itemCode": "196170",
+     "reutersCode": "196170",
+     "stockName": "알테오젠",
+     "sosok": "1",
+     "closePrice": "239,000",
+     "compareToPreviousClosePrice": "8,000",
+     "compareToPreviousPrice": {
+      "code": "2",
+      "text": "상승",
+      "name": "RISING"
+     },
+     "fluctuationsRatio": "3.46",
+     "accumulatedTradingVolume": "253,612",
+     "accumulatedTradingValue": "60,689",
+     "accumulatedTradingValueKrwHangeul": "607억원",
+     "localTradedAt": "2026-10-21T20:20:18+09:00",
+     "marketValue": "166,476",
+     "marketValueHangeul": "16조 6,476억원",
+     "nav": "N/A",
+     "threeMonthEarningRate": "N/A",
+     "marketStatus": "CLOSE",
+     "tradeStopType": {
+      "code": "1",
+      "text": "운영.Trading",
+      "name": "TRADING"
+     },
+     "tradableStatus": "tradable",
+     "tradableStatusCode": "ok",
+     "tradableStatusUpdatedAt": "2026-10-21T08:02:30.477+09:00",
+     "stockExchangeType": {
+      "code": "KQ",
+      "zoneId": "Asia/Seoul",
+      "nationType": "KOR",
+      "delayTime": 0,
+      "startTime": "0900",
+      "endTime": "1530",
+      "closePriceSendTime": "1630",
+      "nameKor": "코스닥",
+      "nameEng": "KOSDAQ",
+      "stockType": "domestic",
+      "nationCode": "KOR",
+      "nationName": "대한민국",
+      "name": "KOSDAQ"
+     },
+     "endUrl": "https://m.stock.naver.com/domestic/stock/196170",
+     "newPcUrl": "https://stock.naver.com/domestic/stock/196170",
+     "overMarketPriceInfo": {
+      "tradingSessionType": "AFTER_MARKET",
+      "overMarketStatus": "CLOSE",
+      "overPrice": "238,500",
+      "compareToPreviousPrice": {
+       "code": "2",
+       "text": "상승",
+       "name": "RISING"
+      },
+      "compareToPreviousClosePrice": "7,500",
+      "fluctuationsRatio": "3.25",
+      "localTradedAt": "2026-10-21T20:00:00+09:00",
+      "tradeStopType": {
+       "code": "1",
+       "text": "운영.Trading",
+       "name": "TRADING"
+      },
+      "overPriceRaw": "238500",
+      "compareToPreviousClosePriceRaw": "7500"
+     },
+     "stockMiniImageChart": "https://financial-vn.pstatic.net/chart/mobile/mini/krx/196170_interest.png",
+     "itemLogoUrl": "https://ssl.pstatic.net/imgstock/fn/real/logo/stock/Stock196170.svg",
+     "itemLogoPngUrl": "https://ssl.pstatic.net/imgstock/fn/real/logo/png/stock/Stock196170.png",
+     "closePriceRaw": "239000",
+     "compareToPreviousClosePriceRaw": "8000",
+     "accumulatedTradingVolumeRaw": "253612",
+     "accumulatedTradingValueRaw": "60689000000",
+     "marketValueRaw": "16647576787000"
+    }
+   ]
+  },
+  "naver_fchart_005930": {
+   "status": 200,
+   "text": "sion=\"1.0\" encoding=\"EUC-KR\" ?>\n\n<protocol>\n\n\n\n\t\n\t\n\t\t\t<chartdata symbol=\"005930\" name=\"삼성전자\" count=\"3\" timeframe=\"day\" precision=\"0\" origintime=\"19900103\">\n\t\t\t\n\t\t\t\t<item data=\"20261019|207000|224000|206500|223500|17617415\" />\n\t\t\t\n\t\t\t\t<item data=\"20261020|219500|219500|208000|209000|16561224\" />\n\t\t\t\n\t\t\t\t<item data=\"20261021|217000|228000|217000|223500|16637378\" />\n\t\t\t\n\t\n\n\n\t</chartdata>\n</protocol>\n"
+  }
+ }
+}
