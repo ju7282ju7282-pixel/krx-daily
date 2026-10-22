@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+
+
+<div class="tbLWrap">
+	<div class="tbLThBg"></div>
+	<div class="tbLInner">
+		<table class="tb" summary="회사명,대표자명,종목코드,업종명 순으로 구성되어 있습니다">
+			<caption>회사명 찾기</caption>
+			<thead>	
+				<tr>
+					<th scope="col" width="7%">
+						<div class="thName chk">
+							
+								
+									<input type="checkbox" id="allCheck" title="회사명은 동시에 최대 10개까지 선택 가능합니다." onclick="allChecks2(this, 'checkCorpSelect');">
+								
+							
+						</div>
+					</th>
+					<th scope="col" width="30%"><div class="thName">회사명</div></th>
+					<th scope="col" width="18%"><div class="thName">대표자</div></th>
+					<th scope="col" width="18%"><div class="thName">종목코드</div></th>
+					<th scope="col" width="27%"><div class="thName">업종명</div></th>
+				</tr>
+			</thead>
+			<tbody>
+				
+				
+					
+					
+						
+							
+								
+								
+							
+							
+							
+							
+						
+						
+						<tr>
+							<td title="회&nbsp;&nbsp;사&nbsp;&nbsp;명 :삼성전자&#10;영&nbsp;&nbsp;문&nbsp;&nbsp;명 :SAMSUNG ELECTRONICS CO,.LTD&#10;대표자&nbsp;&nbsp;명 :전영현, 노태문&#10;사업자번호 :124-81-00998&#10;업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;종 :통신 및 방송 장비 제조업">
+								<input type="checkbox" name="checkCorpSelect"  value='삼성전자' title="회사명은 동시에 최대 10개까지 선택 가능합니다." onclick="oneCheck(this, 'allCheck');" checked="checked">
+								<input type='hidden' name='hiddenCikCD1' value='00126380'>
+								<input type='hidden' name='hiddenCikNM1' value='삼성전자'>
+							</td>
+							<td class="tL ellipsis" title="회&nbsp;&nbsp;사&nbsp;&nbsp;명 :삼성전자&#10;영&nbsp;&nbsp;문&nbsp;&nbsp;명 :SAMSUNG ELECTRONICS CO,.LTD&#10;대표자&nbsp;&nbsp;명 :전영현, 노태문&#10;사업자번호 :124-81-00998&#10;업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;종 :통신 및 방송 장비 제조업"><span class="tagCom_kospi" title="유가증권시장">유</span>삼성전자</td>
+							<td class="tL ellipsis" title="전영현, 노태문">전영현, 노태문</td>
+							<td>005930</td>
+							<td class="tL ellipsis" title="통신 및 방송 장비 제조업">통신 및 방송 장비 제조업</td>
+						</tr>
+						
+						
+					
+			
+			
+		
+			</tbody>
+		</table>
+	</div>
+</div>
+
+<!-- psWrap -->
+
+	<div class="psWrap my corp">
+		<div class="pageInfo my">[1/1] [총 1건]</div>
+		<div class="pageSkip my">
+			<ul>
+				<li class="on"><a onClick="javascript:void(0);">1</a></li>
+
+			</ul>
+		</div>
+	</div>
