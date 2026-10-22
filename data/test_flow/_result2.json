@@ -1,0 +1,56 @@
+{
+ "?pageSize=60": [
+  60,
+  "20261022",
+  "20260724"
+ ],
+ "?pageSize=60&page=2": [
+  60,
+  "20261022",
+  "20260724"
+ ],
+ "?pageSize=60&bizdate=20260601": [
+  60,
+  "20260529",
+  "20260304"
+ ],
+ "?pageSize=60&endDate=20260601": [
+  60,
+  "20261022",
+  "20260724"
+ ],
+ "?pageSize=60&date=20260601": [
+  60,
+  "20261022",
+  "20260724"
+ ],
+ "?pageSize=60&startIdx=60": [
+  60,
+  "20261022",
+  "20260724"
+ ],
+ "?pageSize=60&offset=60": [
+  60,
+  "20261022",
+  "20260724"
+ ],
+ "?pageSize=60&lastBizdate=20260720": [
+  60,
+  "20261022",
+  "20260724"
+ ],
+ "?pageSize=60&nextBizdate=20260720": [
+  60,
+  "20261022",
+  "20260724"
+ ],
+ "?pageSize=60&bizDate=20260601": [
+  60,
+  "20261022",
+  "20260724"
+ ],
+ "https://m.stock.naver.com/api/stock/005930/investorTrend?pageSize=60": "<HTTPError 404: '404'>",
+ "https://m.stock.naver.com/api/stock/005930/trendByInvestor?pageSize=60": "<HTTPError 404: '404'>",
+ "https://api.stock.naver.com/stock/005930/trend?pageSize=60&bizdate=20260601": "<HTTPError 404: 'Not Found'>",
+ "https://api.stock.naver.com/stock/005930/trend?pageSize=60": "<HTTPError 404: 'Not Found'>"
+}
