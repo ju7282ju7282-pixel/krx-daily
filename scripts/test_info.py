@@ -14,7 +14,7 @@ try:
     if rcps:
         s2, m = get(f"https://dart.fss.or.kr/dsaf001/main.do?rcpNo={rcps[0]}")
         open("data/test_info/dart_main_doc.txt", "w").write(m)
-        v = re.search(r"viewDoc\('(\d+)',\s*'(\d+)',\s*'(\d*)',\s*'(\d*)',\s*'(\d*)',\s*'([^']*)'", m)
+        v = re.search(r'viewDoc\("(\d+)", "(\d+)", "(\d*)", "(\d*)", "(\d*)", "([^"]*)"', m)
         res["doc_main"] = {"status": s2, "bytes": len(m), "viewDoc": v.groups() if v else None}
         if v:
             a = v.groups()
