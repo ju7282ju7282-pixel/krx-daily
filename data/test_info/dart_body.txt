@@ -1,0 +1,769 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML style='border:0'>
+<HEAD>
+<TITLE></TITLE>
+<meta http-equiv="X-UA-Compatible" content="ie=edge" >
+<meta http-equiv="X-UA-TextLayoutMetrics" content="gdi" >
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/css/report_xml.css">
+</HEAD>
+<BODY bgcolor="#FFFFFF">
+<P><BR/></P>
+<P class='section-1'><A name='toc1'>주요사항보고서 / 거래소 신고의무 사항</A></P>
+<TABLE class='nb' width='600'>
+<COLGROUP>
+<COL width='141'></COL>
+<COL width='183'></COL>
+<COL width='276'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='591' height='23' colspan='3' valign='TOP'><BR/></TD>
+</TR>
+<TR height='53'>
+  <TD width='591' height='46' colspan='3' valign='TOP'><BR/><BR/></TD>
+</TR>
+<TR height='30'>
+  <TD width='315' height='23' colspan='2'>금융위원회 / 한국거래소 귀중</TD>
+  <TD width='267' height='23' align='RIGHT'>&nbsp;2026 년 &nbsp;10 월 &nbsp;22 일</TD>
+</TR>
+<TR height='30'>
+  <TD width='591' height='23' colspan='3' valign='TOP'><BR/></TD>
+</TR>
+<TR height='30'>
+  <TD width='132' height='23' valign='TOP'>회 &nbsp; &nbsp; 사 &nbsp; &nbsp; 명 &nbsp;:</TD>
+  <TD width='450' height='23' colspan='2' valign='TOP'>주식회사 에이팩트</TD>
+</TR>
+<TR height='30'>
+  <TD width='132' height='23' valign='TOP'>대 &nbsp;표 &nbsp; 이 &nbsp;사 &nbsp;:</TD>
+  <TD width='450' height='23' colspan='2' valign='TOP'>이성동</TD>
+</TR>
+<TR height='30'>
+  <TD width='132' height='23' valign='TOP'>본 점 &nbsp;소 재 지 :</TD>
+  <TD width='450' height='23' colspan='2' valign='TOP'>경기도 안성시 일죽면 서동대로 7280-26</TD>
+</TR>
+<TR height='30'>
+  <TD width='132' height='23' valign='TOP'><BR/></TD>
+  <TD width='450' height='23' colspan='2' valign='TOP'>(전 &nbsp;화) 031-8046-1700</TD>
+</TR>
+<TR height='30'>
+  <TD width='132' height='23' valign='TOP'><BR/></TD>
+  <TD width='450' height='23' colspan='2' valign='TOP'>(홈페이지)http://www.apact.co.kr</TD>
+</TR>
+<TR height='30'>
+  <TD width='132' height='23' valign='TOP'><BR/></TD>
+  <TD width='450' height='23' colspan='2' valign='TOP'><BR/></TD>
+</TR>
+<TR height='30'>
+  <TD width='591' height='23' colspan='3' valign='TOP'><BR/></TD>
+</TR>
+<TR height='30'>
+  <TD width='591' height='23' colspan='3' valign='TOP'><BR/></TD>
+</TR>
+<TR height='30'>
+  <TD width='132' height='23' valign='TOP'>작 성 책 임 자 :</TD>
+  <TD width='174' height='23' valign='TOP'>(직 &nbsp;책) 재무기획담당</TD>
+  <TD width='267' height='23' valign='TOP'>(성 &nbsp;명) 최시영</TD>
+</TR>
+<TR height='30'>
+  <TD width='132' height='23' valign='TOP'><BR/></TD>
+  <TD width='450' height='23' colspan='2' valign='TOP'>(전 &nbsp;화) 031-8046-1716</TD>
+</TR>
+<TR height='30'>
+  <TD width='591' height='23' colspan='3' valign='TOP'><BR/></TD>
+</TR>
+</TBODY>
+</TABLE>
+<P><BR/></P>
+<P class='pgbrk'></P>
+<P class='section-1'><A name='toc2'>유상증자 결정</A></P>
+<P><BR/></P>
+<TABLE border='1' width='600'>
+<COLGROUP>
+<COL width='160'></COL>
+<COL width='172'></COL>
+<COL width='268'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='151' height='53' rowspan='2'>1. 신주의 종류와 수</TD>
+  <TD width='163' height='23' align='CENTER' valign='TOP'>보통주식 (주)</TD>
+  <TD width='259' height='23' align='RIGHT' valign='TOP'>3,835,826</TD>
+</TR>
+<TR height='30'>
+  <TD width='163' height='23' align='CENTER' valign='TOP'>기타주식 (주)</TD>
+  <TD width='259' height='23' align='RIGHT' valign='TOP'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='323' height='23' colspan='2' valign='TOP'>2. 1주당 액면가액 (원)</TD>
+  <TD width='259' height='23' align='RIGHT' valign='TOP'>500</TD>
+</TR>
+<TR height='30'>
+  <TD width='151' height='53' rowspan='2'>3. 증자전 <BR/> &nbsp; &nbsp;발행주식총수 (주)</TD>
+  <TD width='163' height='23' align='CENTER' valign='TOP'>보통주식 (주)</TD>
+  <TD width='259' height='23' align='RIGHT' valign='TOP'>44,587,651</TD>
+</TR>
+<TR height='30'>
+  <TD width='163' height='23' align='CENTER' valign='TOP'>기타주식 (주)</TD>
+  <TD width='259' height='23' align='RIGHT' valign='TOP'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='151' height='196' rowspan='6'>4. 자금조달의 목적</TD>
+  <TD width='163' height='23' align='CENTER' valign='TOP'>시설자금 (원)</TD>
+  <TD width='259' height='23' align='RIGHT' valign='TOP'>29,999,995,146</TD>
+</TR>
+<TR height='30'>
+  <TD width='163' height='23' align='CENTER' valign='TOP'>영업양수자금 (원)</TD>
+  <TD width='259' height='23' align='RIGHT' valign='TOP'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='163' height='23' align='CENTER'>운영자금 (원)</TD>
+  <TD width='259' height='23' align='RIGHT' valign='TOP'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='163' height='23' align='CENTER'>채무상환자금 (원)</TD>
+  <TD width='259' height='23' align='RIGHT' valign='TOP'>-</TD>
+</TR>
+<TR height='53'>
+  <TD width='163' height='46' align='CENTER'>타법인 증권<BR/>취득자금 (원)</TD>
+  <TD width='259' height='46' align='RIGHT'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='163' height='23' align='CENTER' valign='TOP'>기타자금 (원)</TD>
+  <TD width='259' height='23' align='RIGHT' valign='TOP'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='323' height='23' colspan='2'>5. 증자방식</TD>
+  <TD width='259' height='23' align='CENTER' valign='TOP'>제3자배정증자</TD>
+</TR>
+</TBODY>
+</TABLE>
+<P>※ 기타주식에 관한 사항</P>
+<TABLE border='1' width='600'>
+<COLGROUP>
+<COL width='235'></COL>
+<COL width='365'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='226' height='23' valign='TOP'>정관의 근거</TD>
+  <TD width='356' height='23' align='RIGHT'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='226' height='23' valign='TOP'>주식의 내용</TD>
+  <TD width='356' height='23' align='RIGHT'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='226' height='23' valign='TOP'>기타</TD>
+  <TD width='356' height='23' align='RIGHT'>-</TD>
+</TR>
+</TBODY>
+</TABLE>
+<P><BR/></P>
+<TABLE border='1' width='599'>
+<COLGROUP>
+<COL width='149'></COL>
+<COL width='200'></COL>
+<COL width='89'></COL>
+<COL width='161'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='140' height='53' rowspan='2'>6. 신주 발행가액</TD>
+  <TD width='191' height='23' align='CENTER' valign='TOP'>보통주식 (원)</TD>
+  <TD width='241' height='23' colspan='2' align='RIGHT' valign='TOP'>7,821</TD>
+</TR>
+<TR height='30'>
+  <TD width='191' height='23' align='CENTER' valign='TOP'>기타주식 (원)</TD>
+  <TD width='241' height='23' colspan='2' align='RIGHT' valign='TOP'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='140' height='53' rowspan='2'>7. 기준주가</TD>
+  <TD width='191' height='23' align='CENTER' valign='TOP'>보통주식 (원)</TD>
+  <TD width='241' height='23' colspan='2' align='RIGHT' valign='TOP'>8,690</TD>
+</TR>
+<TR height='30'>
+  <TD width='191' height='23' align='CENTER' valign='TOP'>기타주식 (원)</TD>
+  <TD width='241' height='23' colspan='2' align='RIGHT' valign='TOP'>-</TD>
+</TR>
+<TR height='99'>
+  <TD width='340' height='92' colspan='2' valign='TOP'>7-1. 기준주가 산정방법</TD>
+  <TD width='241' height='92' colspan='2' valign='TOP'>최소값[이사회결의일 전일을 기산일로 하여 과거 1개월간ㆍ1주일간ㆍ최근일 가중산술평균주가의 단순평균, 최근일 가중산술평균주가]</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2' valign='TOP'>7-2. 기준주가에 대한 할인율 또는 할증율 (%)</TD>
+  <TD width='241' height='23' colspan='2' align='RIGHT' valign='TOP'>-10.0</TD>
+</TR>
+<TR height='53'>
+  <TD width='340' height='46' colspan='2' valign='TOP'>7-3. 할인율(할증률) 산정 근거</TD>
+  <TD width='241' height='46' colspan='2' align='CENTER'>증권의 발행 및 공시 등에 관한 규정 제5-18조 제1항 및 제2항</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2' valign='TOP'>8. 제3자배정에 대한 정관의 근거</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER'>정관 제10조 2항 8호</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2' valign='TOP'>9. 납입일</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>2026년 11월 13일</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2' valign='TOP'>10. 신주의 배당기산일</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>2026년 01월 01일</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2' valign='TOP'>11. 신주권교부예정일</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2' valign='TOP'>12. 신주의 상장 예정일</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>2026년 12월 04일</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2'>13. 현물출자로 인한 우회상장 해당여부</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>아니오</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2'>&nbsp; &nbsp;- 현물출자가 있는지 여부</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>아니오</TD>
+</TR>
+<TR height='53'>
+  <TD width='340' height='46' colspan='2'>&nbsp; &nbsp;- 현물출자 재산 중 주권비상장법인주식이 <BR/> &nbsp; &nbsp; &nbsp;있는지 여부</TD>
+  <TD width='241' height='46' colspan='2' align='CENTER' valign='TOP'>해당없음</TD>
+</TR>
+<TR height='30'>
+  <TD width='140' height='76' rowspan='2'>&nbsp; &nbsp;- 납입예정 주식의<BR/> &nbsp; &nbsp; &nbsp;현물출자 가액</TD>
+  <TD width='191' height='23' align='CENTER'>현물출자가액(원)</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>-</TD>
+</TR>
+<TR height='53'>
+  <TD width='191' height='46' align='CENTER'>당사 최근사업연도 <BR/>자산총액 대비(%)</TD>
+  <TD width='241' height='46' colspan='2' align='CENTER' valign='TOP'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2'>&nbsp; &nbsp;- 납입예정 주식수</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2'>14. 우회상장 요건 충족여부</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>해당없음</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2'>15. 이사회결의일(결정일)</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>2026년 10월 22일</TD>
+</TR>
+<TR height='30'>
+  <TD width='140' height='53' rowspan='2'>&nbsp; &nbsp;- 독립(사외)이사*<BR/> &nbsp; &nbsp; &nbsp;참석여부</TD>
+  <TD width='191' height='23' align='CENTER' valign='TOP'>참석 (명)</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>2</TD>
+</TR>
+<TR height='30'>
+  <TD width='191' height='23' align='CENTER' valign='TOP'>불참 (명)</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2' valign='TOP'>&nbsp; &nbsp;- 감사(감사위원) 참석여부</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>참석</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2' valign='TOP'>16. 증권신고서 제출대상 여부</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>아니오</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2' valign='TOP'>17. 제출을 면제받은 경우 그 사유</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER'>전량 1년간 보호예수</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='83' colspan='2' rowspan='3'>18. 청약이 금지되는 공매도 거래 기간</TD>
+  <TD width='80' height='23' align='CENTER' valign='TOP'>해당여부</TD>
+  <TD width='152' height='23' align='CENTER' valign='TOP'>아니오</TD>
+</TR>
+<TR height='30'>
+  <TD width='80' height='23' align='CENTER' valign='TOP'>시작일</TD>
+  <TD width='152' height='23' align='CENTER' valign='TOP'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='80' height='23' align='CENTER' valign='TOP'>종료일</TD>
+  <TD width='152' height='23' align='CENTER' valign='TOP'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='340' height='23' colspan='2' valign='TOP'>19. 공정거래위원회 신고대상 여부</TD>
+  <TD width='241' height='23' colspan='2' align='CENTER' valign='TOP'>미해당</TD>
+</TR>
+</TBODY>
+</TABLE>
+<P style='font-family:DartNBSP, "굴림", Gulim;font-size:10pt;'>* 상장회사는 독립이사, 비상장회사는 사외이사에 해당</P>
+<TABLE class='nb' width='600'>
+<COLGROUP>
+<COL width='600'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='591' height='23' valign='TOP'>20. 기타 투자판단에 참고할 사항</TD>
+</TR>
+</TBODY>
+</TABLE>
+<P><BR/></P>
+<P>1) 발행가액은 “증권의 발행 및 공시 등에 관한 규정” 제5-18조 제2항에 따라 본 신주 발행을 위한 이사회결의일 전일을 기산일로 하여 과거 1개월간의 가중산술평균주가, 1주일간의 가중산술평균주가 및 최근일 가중산술평균주가를 산술평균한 가격과, 최근일 가중산술평균주가 중 낮은 가액으로 하였으며, 할인율은 10%를 적용하였습니다.(호가 단위 미만은 호가단위 절상).<BR/>2) 본 유상증자로 발행되는 신주에 대해서는 발행일로부터 1년간 한국예탁결제원에 전량 보호 예수됩니다.<BR/>3) 상기 일정은 관계기관의 협의에 따라 변동될 수 있습니다<BR/>4) 위 각호에 명시되어있지 아니하거나 추후 결정될 사항은 대표이사 또는 대표이사가 지정하는 자가 관련 당사자들과 협의하여 결정하기로 합니다.</P>
+<P><BR/></P>
+<P>5) 신주의 청약에 관한 사항<BR/>- 청약일 : 2026년 11월 13일<BR/>- 청약처 : (주)에이팩트 본사<BR/>- 주금 납입처 : 산업은행 분당지점</P>
+<P><BR/></P>
+<P>▶기준주가로 최소값[이사회결의일 전일을 기산일로 하여 과거 1개월간ㆍ1주일간ㆍ최근일 가중산술평균주가의 단순평균, 최근일 가중산술평균주가] 이용시 다음표를 추가</P>
+<TABLE class='nb' width='601'>
+<COLGROUP>
+<COL width='302'></COL>
+<COL width='299'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='293' height='23' valign='BOTTOM'><BR/></TD>
+  <TD width='290' height='23' align='RIGHT' valign='BOTTOM'>(단위 : 주, 원)</TD>
+</TR>
+</TBODY>
+</TABLE>
+<TABLE border='1' width='600'>
+<COLGROUP>
+<COL width='276'></COL>
+<COL width='102'></COL>
+<COL width='134'></COL>
+<COL width='88'></COL>
+</COLGROUP>
+<THEAD>
+<TR height='53'>
+  <TH width='267' height='46'>구 분</TH>
+  <TH width='93' height='46'>거래량</TH>
+  <TH width='125' height='46'>거래대금</TH>
+  <TH width='79' height='46'>가중산술<BR/>평균주가</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR height='30'>
+  <TD width='267' height='23'>과거 1개월간의 가중산술평균주가(A)</TD>
+  <TD width='93' height='23' align='RIGHT'>22,406,826</TD>
+  <TD width='125' height='23' align='RIGHT'>209,702,885,845</TD>
+  <TD width='79' height='23' align='RIGHT'>9,358</TD>
+</TR>
+<TR height='30'>
+  <TD width='267' height='23'>과거 1주일간의 가중산술평균주가(B)</TD>
+  <TD width='93' height='23' align='RIGHT'>5,615,877</TD>
+  <TD width='125' height='23' align='RIGHT'>49,623,108,120</TD>
+  <TD width='79' height='23' align='RIGHT'>8,836</TD>
+</TR>
+<TR height='30'>
+  <TD width='267' height='23'>최근일 가중산술평균주가(C)</TD>
+  <TD width='93' height='23' align='RIGHT'>1,919,101</TD>
+  <TD width='125' height='23' align='RIGHT'>16,678,564,155</TD>
+  <TD width='79' height='23' align='RIGHT'>8,690</TD>
+</TR>
+<TR height='30'>
+  <TD width='503' height='23' colspan='3'>(A),(B),(C)의 산술평균주가(D)</TD>
+  <TD width='79' height='23' align='RIGHT'>8,961</TD>
+</TR>
+<TR height='30'>
+  <TD width='503' height='23' colspan='3'>기준주가 : (C)와(D)중 낮은 가액</TD>
+  <TD width='79' height='23' align='RIGHT'>8,690</TD>
+</TR>
+<TR height='30'>
+  <TD width='503' height='23' colspan='3'>할인율 또는 할증률 (%)</TD>
+  <TD width='79' height='23' align='RIGHT'>-10</TD>
+</TR>
+<TR height='30'>
+  <TD width='503' height='23' colspan='3'>발행가액</TD>
+  <TD width='79' height='23' align='RIGHT'>7,821</TD>
+</TR>
+</TBODY>
+</TABLE>
+<P>주1) 본 기준주가는 [에프터마켓을 포함한 전체 거래 기준 산정한 기준주가]를 기준으로 산정<BR/>주2) 호가 단위 미만 금액은 호가 단위 절상<BR/><BR/></P>
+<TABLE class='nb' width='600'>
+<COLGROUP>
+<COL width='600'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='591' height='23' valign='TOP'>【제3자배정 근거, 목적 등】</TD>
+</TR>
+</TBODY>
+</TABLE>
+<TABLE border='1' width='600'>
+<COLGROUP>
+<COL width='391'></COL>
+<COL width='209'></COL>
+</COLGROUP>
+<THEAD>
+<TR height='30'>
+  <TH width='382' height='23'>제3자배정 근거가 되는 정관규정</TH>
+  <TH width='200' height='23'>제3자배정 증자의 목적</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR height='996'>
+  <TD width='382' height='989'>
+<P>제10조 (신주인수권)&nbsp;</P>
+<P>① 이 회사의 주주는 신주발행에 있어서 그가 소유한 주식수에 비례하여 신주의 배정을 받을 권리를 가진다.</P>
+<P>② 제1항의 규정에 불구하고 다음 각호의 경우에는 주주 외의 자에게 이사회 결의로 신주를 배정할 수 있다.</P>
+<P>1. 발행주식총수의 100분의 50을 초과하지 않는 범위 내에서 신주를 모집하거나 모집을 위하여 인수인에게 인수하게 하는 경우</P>
+<P>2. 발행주식총수의 100분의 50을 초과하지 않는 범위 내에서 자본시장과 금융투자업에 관한 법률 제165조의 6의 규정에 의하여 이사회의 결의로 일반공모증자 방식으로 신주를 발행하는 경우</P>
+<P>3. 자본시장과 금융투자업에 관한 법률 제165조의 7의 규정에 의하여 우리사주조합원에게 신주를 우선배정하는 경우</P>
+<P>4. 상법 제542조의 3의 규정에 의하여 주식매수선택권의 행사로 인하여 신주를 발행하는 경우</P>
+<P>5. 발행주식총수의 100분의 50을 초과하지 않는 범위 내에서 자본시장과 금융투자업에 관한 법률 제165조의 16의 규정에 의하여 주식예탁증서(DR) 발행에 따라 신주를 발행하는 경우</P>
+<P>6. 발행주식총수의 100분의 50을 초과하지 않는 범위 내에서 경영상 필요로 외국인투자촉진법에 의한 외국인투자를 위하여 신주를 발행하는 경우</P>
+<P>7. 근로복지기본법 제39조의 규정에 의한 우리사주매수선택권의 행사로 인하여 신주를 발행하는 경우</P>
+<P>8. 발행주식총수의 100분의 50을 초과하지 않는 범위 내에서 긴급한 자금조달을 위하여 국내외 금융기관, 기관투자자 또는 집합투자기구에게 신주를 발행하는 경우</P>
+<P>9. 발행주식총수의 100분의 50을 초과하지 않는 범위 내에서 사업상 중요한 기술도입, 연구개발, 생산, 판매, 자본제휴를 위하여 그 상대방에게 신주를 발행하는 경우</P>
+<P>10. 발행주식총수의 100분의 30을 초과하지 않는 범위내에서 노사협력 증진을 도모하기 위하여 우리사주조합에 신주를 제3자 배정방식으로 발행하는 경우</P>
+<P>11. 주권을 상장하기 위하여 신주를 모집하거나 모집을 위하여 인수인에게 인수하게 하는 경우</P>
+<P>③ 제2항 각 호 중 어느 하나의 규정에 의해 신주를 발행할 경우에는 발행할 주식의 종류와 수 및 발행가격 등은 이사회의 결의로 정한다.</P>
+<P>④ 주주가 신주인수권을 포기 또는 상실하거나 신주배정에서 단주가 발생하는 경우에 그 처리방법은 이사회의 결의로 정한다.</P>
+</TD>
+  <TD width='200' height='989' align='CENTER'>생산능력 증설 등<BR/>투자재원 확보 및<BR/>재무구조 개선 등<BR/>회사의 경영상 목적 달성</TD>
+</TR>
+</TBODY>
+</TABLE>
+<P><BR/></P>
+<TABLE class='nb' width='600'>
+<COLGROUP>
+<COL width='600'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='591' height='23' valign='TOP'>【제3자배정 조달자금의 구체적 사용목적】</TD>
+</TR>
+</TBODY>
+</TABLE>
+<TABLE class='nb' width='600'>
+<COLGROUP>
+<COL width='600'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='591' height='23' valign='TOP'>【시설자금의 경우】</TD>
+</TR>
+</TBODY>
+</TABLE>
+<TABLE class='nb' width='600'>
+<COLGROUP>
+<COL width='459'></COL>
+<COL width='141'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='450' height='23'><BR/></TD>
+  <TD width='132' height='23' align='RIGHT'>(단위 : 백만원)</TD>
+</TR>
+</TBODY>
+</TABLE>
+<TABLE border='1' width='600'>
+<COLGROUP>
+<COL width='270'></COL>
+<COL width='214'></COL>
+<COL width='116'></COL>
+</COLGROUP>
+<THEAD>
+<TR height='35'>
+  <TH width='261' height='28'>세부내역*</TH>
+  <TH width='205' height='28'>투자기간</TH>
+  <TH width='107' height='28'>투자금액</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR height='53'>
+  <TD width='261' height='46' align='CENTER'>SOCAMM2/DRAM Module<BR/>테스트 클린룸 증설</TD>
+  <TD width='205' height='46' align='CENTER'>2026.10.01~2027.02.28</TD>
+  <TD width='107' height='46' align='RIGHT'>20,000</TD>
+</TR>
+<TR height='42'>
+  <TD width='261' height='35' align='CENTER'>테스트 장비 업그레이드</TD>
+  <TD width='205' height='35' align='CENTER'>2027.01.01~2027.06.30</TD>
+  <TD width='107' height='35' align='RIGHT'>10,000</TD>
+</TR>
+</TBODY>
+</TABLE>
+<P>* 다음 문구를 참고하여 시설자금의 세부내역을 구체적으로 기재한다.&nbsp;</P>
+<P>&nbsp; &nbsp;(작성예시) '□□ 제조 및 테스트 설비 구축'</P>
+<P><BR/></P>
+<TABLE class='nb' width='615'>
+<COLGROUP>
+<COL width='615'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='606' height='23' valign='TOP'>【제3자배정 대상자별 선정경위, 거래내역, 배정내역 등】</TD>
+</TR>
+</TBODY>
+</TABLE>
+<TABLE border='1' width='616'>
+<COLGROUP>
+<COL width='91'></COL>
+<COL width='89'></COL>
+<COL width='166'></COL>
+<COL width='116'></COL>
+<COL width='92'></COL>
+<COL width='62'></COL>
+</COLGROUP>
+<THEAD>
+<TR height='76'>
+  <TH width='82' height='69'>제3자배정 대상자</TH>
+  <TH width='80' height='69'>회사 또는<BR/>최대주주와의 관계</TH>
+  <TH width='157' height='69'>선정경위</TH>
+  <TH width='107' height='69'>증자결정 전후 6월이내 거래내역 및 계획</TH>
+  <TH width='83' height='69'>배정주식수 (주)</TH>
+  <TH width='53' height='69'>비 고</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR height='99'>
+  <TD width='82' height='92' align='CENTER'>다이내믹그로우쓰(유)</TD>
+  <TD width='80' height='92' align='CENTER'>최대주주</TD>
+  <TD width='157' height='92' align='CENTER'>회사 경영상 목적 달성, 투자자의 의향, 납입능력 및 시기 등을 고려하여 이사회에서 선정함</TD>
+  <TD width='107' height='92' align='CENTER'>-</TD>
+  <TD width='83' height='92' align='CENTER'>3,835,826</TD>
+  <TD width='53' height='92' align='CENTER'>-</TD>
+</TR>
+</TBODY>
+</TABLE>
+<P><BR/></P>
+<TABLE class='nb' width='600'>
+<COLGROUP>
+<COL width='600'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='591' height='23' valign='TOP'>【제3자배정 대상자 중 법인 또는 단체가 포함된 경우】</TD>
+</TR>
+</TBODY>
+</TABLE>
+<TABLE class='nb' width='600'>
+<COLGROUP>
+<COL width='300'></COL>
+<COL width='300'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='291' height='23'>(1) 법인 또는 단체의 기본정보</TD>
+  <TD width='291' height='23' align='RIGHT'><BR/></TD>
+</TR>
+</TBODY>
+</TABLE>
+<TABLE border='1' width='598'>
+<COLGROUP>
+<COL width='74'></COL>
+<COL width='73'></COL>
+<COL width='76'></COL>
+<COL width='75'></COL>
+<COL width='75'></COL>
+<COL width='75'></COL>
+<COL width='75'></COL>
+<COL width='75'></COL>
+</COLGROUP>
+<THEAD>
+<TR height='53'>
+  <TH width='65' height='76' rowspan='2'>명 칭</TH>
+  <TH width='64' height='76' rowspan='2'>출자자수<BR/>(명)</TH>
+  <TH width='142' height='46' colspan='2'>대표이사<BR/>(대표조합원)</TH>
+  <TH width='141' height='46' colspan='2'>업무집행자<BR/>(업무집행조합원)</TH>
+  <TH width='141' height='46' colspan='2'>최대주주<BR/>(최대출자자)</TH>
+</TR>
+<TR height='30'>
+  <TH width='67' height='23'>성명</TH>
+  <TH width='66' height='23'>지분(%)</TH>
+  <TH width='66' height='23'>성명</TH>
+  <TH width='66' height='23'>지분(%)</TH>
+  <TH width='66' height='23'>성명</TH>
+  <TH width='66' height='23'>지분(%)</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR height='145'>
+  <TD width='65' height='184' rowspan='2' align='CENTER'>다이내믹<BR/>그로우쓰(유)</TD>
+  <TD width='64' height='184' rowspan='2' align='RIGHT'>3</TD>
+  <TD width='67' height='138' align='CENTER'>정명근</TD>
+  <TD width='66' height='138' align='RIGHT'>0.00</TD>
+  <TD width='66' height='138' align='CENTER'>-</TD>
+  <TD width='66' height='138' align='RIGHT'>-</TD>
+  <TD width='66' height='138' align='CENTER'>오로라동반성장프로젝트펀드제3호사모투자합자회사</TD>
+  <TD width='66' height='138' align='RIGHT'>67.11</TD>
+</TR>
+<TR height='46'>
+  <TD width='67' height='39' align='CENTER'>-</TD>
+  <TD width='66' height='39' align='RIGHT'>-</TD>
+  <TD width='66' height='39' align='CENTER'>-</TD>
+  <TD width='66' height='39' align='RIGHT'>-</TD>
+  <TD width='66' height='39' align='CENTER'>-</TD>
+  <TD width='66' height='39' align='RIGHT'>-</TD>
+</TR>
+</TBODY>
+</TABLE>
+<P><BR/></P>
+<TABLE class='nb' width='600'>
+<COLGROUP>
+<COL width='459'></COL>
+<COL width='141'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='450' height='23'>(2) 법인 또는 단체의 최근 결산기 주요 재무사항</TD>
+  <TD width='132' height='23' align='RIGHT'>(단위 : 백만원)</TD>
+</TR>
+</TBODY>
+</TABLE>
+<TABLE border='1' width='598'>
+<COLGROUP>
+<COL width='150'></COL>
+<COL width='150'></COL>
+<COL width='149'></COL>
+<COL width='149'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='141' height='23' align='CENTER'>회계연도</TD>
+  <TD width='141' height='23' align='CENTER'>2026년 반기</TD>
+  <TD width='140' height='23' align='CENTER'>결산기</TD>
+  <TD width='140' height='23' align='CENTER'>12월</TD>
+</TR>
+<TR height='30'>
+  <TD width='141' height='23' align='CENTER'>자산총계</TD>
+  <TD width='141' height='23' align='RIGHT'>193,842</TD>
+  <TD width='140' height='23' align='CENTER'>매출액</TD>
+  <TD width='140' height='23' align='RIGHT'>68,002</TD>
+</TR>
+<TR height='30'>
+  <TD width='141' height='23' align='CENTER'>부채총계</TD>
+  <TD width='141' height='23' align='RIGHT'>50,980</TD>
+  <TD width='140' height='23' align='CENTER'>당기순손익</TD>
+  <TD width='140' height='23' align='RIGHT'>66,862</TD>
+</TR>
+<TR height='30'>
+  <TD width='141' height='23' align='CENTER'>자본총계</TD>
+  <TD width='141' height='23' align='RIGHT'>142,862</TD>
+  <TD width='140' height='23' align='CENTER'>외부감사인</TD>
+  <TD width='140' height='23' align='CENTER'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='141' height='23' align='CENTER'>자본금</TD>
+  <TD width='141' height='23' align='RIGHT'>76,000</TD>
+  <TD width='140' height='23' align='CENTER'>감사의견</TD>
+  <TD width='140' height='23' align='CENTER'>-</TD>
+</TR>
+</TBODY>
+</TABLE>
+<P>&nbsp;* 2026년 신설법인으로 보고서 제출일 현재 외부감사인이 정해지지 않았습니다.<BR/><BR/></P>
+<P><BR/><SPAN style='font-weight:bold;'>[제3자배정 대상 법인 또는 단체의 최대주주(최대출자자)가 법인인 경우]</SPAN><BR/>
+</P>
+<TABLE class='nb' width='600'>
+<COLGROUP>
+<COL width='300'></COL>
+<COL width='300'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='291' height='23'>(1) 법인 또는 단체의 기본정보</TD>
+  <TD width='291' height='23' align='RIGHT'><BR/></TD>
+</TR>
+</TBODY>
+</TABLE>
+<TABLE border='1' width='598'>
+<COLGROUP>
+<COL width='74'></COL>
+<COL width='73'></COL>
+<COL width='76'></COL>
+<COL width='75'></COL>
+<COL width='75'></COL>
+<COL width='75'></COL>
+<COL width='75'></COL>
+<COL width='75'></COL>
+</COLGROUP>
+<THEAD>
+<TR height='53'>
+  <TH width='65' height='76' rowspan='2'>명 칭</TH>
+  <TH width='64' height='76' rowspan='2'>출자자수<BR/>(명)</TH>
+  <TH width='142' height='46' colspan='2'>대표이사<BR/>(대표조합원)</TH>
+  <TH width='141' height='46' colspan='2'>업무집행자<BR/>(업무집행조합원)</TH>
+  <TH width='141' height='46' colspan='2'>최대주주<BR/>(최대출자자)</TH>
+</TR>
+<TR height='30'>
+  <TH width='67' height='23'>성명</TH>
+  <TH width='66' height='23'>지분(%)</TH>
+  <TH width='66' height='23'>성명</TH>
+  <TH width='66' height='23'>지분(%)</TH>
+  <TH width='66' height='23'>성명</TH>
+  <TH width='66' height='23'>지분(%)</TH>
+</TR>
+</THEAD>
+<TBODY>
+<TR height='76'>
+  <TD width='65' height='184' rowspan='2' align='CENTER'>오로라동반성장프로젝트펀드제3호사모투자합자회사</TD>
+  <TD width='64' height='184' rowspan='2' align='RIGHT'>4</TD>
+  <TD width='67' height='69' align='CENTER'>오로라파트너스(주)</TD>
+  <TD width='66' height='69' align='RIGHT'>8.52</TD>
+  <TD width='66' height='69' align='CENTER'>오로라파트너스(주)</TD>
+  <TD width='66' height='69' align='RIGHT'>8.52</TD>
+  <TD width='66' height='69' align='CENTER'>-</TD>
+  <TD width='66' height='69' align='RIGHT'>-</TD>
+</TR>
+<TR height='115'>
+  <TD width='67' height='108' align='CENTER'>-</TD>
+  <TD width='66' height='108' align='RIGHT'>-</TD>
+  <TD width='66' height='108' align='CENTER'>-</TD>
+  <TD width='66' height='108' align='RIGHT'>-</TD>
+  <TD width='66' height='108' align='CENTER'>-</TD>
+  <TD width='66' height='108' align='RIGHT'>-</TD>
+</TR>
+</TBODY>
+</TABLE>
+<P>(*) 오로라동반성장프로젝트펀드제3호사모투자합자회사는 자본시장과 금융투자업에 관한 법률에 따른 집합투자기구로서, 동 집합투자기구의 최대주주는 동 집합투자기구의 유한책임사원이며, 유한책임사원의 상호 및 지분율은 기재를 생략합니다.<BR/><BR/></P>
+<TABLE class='nb' width='600'>
+<COLGROUP>
+<COL width='459'></COL>
+<COL width='141'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='450' height='23'>(2) 법인 또는 단체의 최근 결산기 주요 재무사항</TD>
+  <TD width='132' height='23' align='RIGHT'>(단위 : 백만원)</TD>
+</TR>
+</TBODY>
+</TABLE>
+<TABLE border='1' width='598'>
+<COLGROUP>
+<COL width='150'></COL>
+<COL width='150'></COL>
+<COL width='149'></COL>
+<COL width='149'></COL>
+</COLGROUP>
+<TBODY>
+<TR height='30'>
+  <TD width='141' height='23' align='CENTER'>회계연도</TD>
+  <TD width='141' height='23' align='CENTER'>2026년 반기</TD>
+  <TD width='140' height='23' align='CENTER'>결산기</TD>
+  <TD width='140' height='23' align='CENTER'>12월</TD>
+</TR>
+<TR height='30'>
+  <TD width='141' height='23' align='CENTER'>자산총계</TD>
+  <TD width='141' height='23' align='RIGHT'>57,500</TD>
+  <TD width='140' height='23' align='CENTER'>매출액</TD>
+  <TD width='140' height='23' align='RIGHT'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='141' height='23' align='CENTER'>부채총계</TD>
+  <TD width='141' height='23' align='RIGHT'>-</TD>
+  <TD width='140' height='23' align='CENTER'>당기순손익</TD>
+  <TD width='140' height='23' align='RIGHT'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='141' height='23' align='CENTER'>자본총계</TD>
+  <TD width='141' height='23' align='RIGHT'>57,500</TD>
+  <TD width='140' height='23' align='CENTER'>외부감사인</TD>
+  <TD width='140' height='23' align='CENTER'>-</TD>
+</TR>
+<TR height='30'>
+  <TD width='141' height='23' align='CENTER'>자본금</TD>
+  <TD width='141' height='23' align='RIGHT'>57,500</TD>
+  <TD width='140' height='23' align='CENTER'>감사의견</TD>
+  <TD width='140' height='23' align='CENTER'>-</TD>
+</TR>
+</TBODY>
+</TABLE>
+<P>&nbsp;* 2026년 신설법인으로 보고서 제출일 현재 외부감사인이 정해지지 않았습니다.<BR/><BR/><BR/></P>
+<P><BR/></P>
+<P><BR/></P>
+</BODY>
+</HTML>
