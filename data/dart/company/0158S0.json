@@ -1,0 +1,231 @@
+{
+"code": "0158S0",
+"name": "엘리스",
+"from": "2023-10-24",
+"to": "2026-10-22",
+"rows": [
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20261022900726",
+"title": "신규시설투자등",
+"by": "엘리스",
+"date": "2026-10-22",
+"code": "0158S0",
+"kind": "imp",
+"body": ".xforms * { font-family: ����ü;}\r\n.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}\r\n\r\n.xforms table {\r\nfont-size: 10px;\r\npadding:0px;\r\nborder-collapse:collapse;\r\ncolor: #3D3D3D;\r\n}\r\n.xforms td {\r\npadding-left:0px;\r\npadding-top:0px;\r\nborder-collapse:collapse;\r\nline-height:22px;\r\ncolor: #3D3D3D;\r\n/*text-align:right;*/\r\nvertical-align:middle;\r\nborder: 1px solid #7f7f7f;\r\n}\r\n\r\n.xforms span {\r\n/*display: inline-block;*/\r\npadding-left:3px;\r\npadding-right: 1px;\r\nline-height:22px;\r\npadding-top:0px;\r\npadding-bottom:0px;\r\ntext-align:left;\r\nvertical-align:middle;\r\nborder: 0px solid #DBDBDB;\r\n}\r\n\r\n.xforms.img{\r\nborder : 0px;\r\n}\r\n\r\n.xforms a:link {\r\n\r\ncolor: #194866;\r\ntext-decoration: none;\r\n}\r\n.xforms a:active {\r\n\r\ncolor: #194866;\r\ntext-decoration: none;\r\n}\r\n.xforms a:visited {\r\ncolor: #194866;\r\ntext-decoration: none;\r\n}\r\n\r\n.xforms A:hover {\r\ncolor:008BE3;\r\ntext-decoration: none;\r\n}\r\n\r\n.xforms_input{\r\nborder: 0px solid #DBDBDB;\r\npadding-left:3px;\r\npadding-right: 1px;\r\nheight:22px;\r\npadding-top:0px;\r\npadding-bottom:0px;\r\ntext-align:left;\r\n}\r\n\r\n������/�űԽü����ڵ�/(2026.10.22)�űԽü����ڵ� \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n�ű� �ü����� �� \r\n\r\n\r\n\r\n\r\n\r\n\r\n1. ���ڱ��� | \r\n�ű� �ü����� | \r\n\r\n\r\n2. ���ڳ��� | \r\n���ڱݾ�(��) | \r\n330,000,000,000 | \r\n\r\n\r\n�ڱ��ں�(��) | \r\n289,463,636,497 | \r\n\r\n\r\n�ڱ��ں����(%) | \r\n114.0 | \r\n\r\n\r\n��Ը���ο��� | \r\n���ش� | \r\n\r\n\r\n3. ���ڸ��� | \r\n���� ���� ������ ���� AI PMDC �� ������ ���� | \r\n\r\n\r\n4. ���ڱⰣ | \r\n������ | \r\n2026-11-02 | \r\n\r\n\r\n������ | \r\n2027-06-30 | \r\n\r\n\r\n5. �̻�ȸ������(������) | \r\n2026-10-22 | \r\n\r\n\r\n-����̻� �������� | \r\n����(��) | \r\n3 | \r\n\r\n\r\n����(��) | \r\n0 | \r\n\r\n\r\n6. ����(��������) �������� | \r\n���� | \r\n\r\n\r\n7. �������� ���ó��� | \r\n�������� | \r\n- | \r\n\r\n\r\n�������� | \r\n- | \r\n\r\n\r\n8. ��Ÿ �����Ǵܿ� ������ ���� | \r\n- ��� \"2.���ڳ���\"�� ���ڱݾ��� �����ѵ��ݾ��̸�, ���� �� ȯ������ ���� �����Ͽ� ����ݾ��� �� 110% �������� �����Ͽ����ϴ�. - ��� \"2.���ڳ���\"�� ȣ���� AI PMDC ��ݽü� �� GPU �� AI ������ ������ ���Դϴ�. - ��� \"2.���ڳ���\"�� ���ڱݾ��� ����������� �濵ȯ�� ��ȭ�� ���� ������ �� �ֽ��ϴ�. - ��� \"2.���ڳ���\"�� �ڱ��ں��� ���ñ��� ��2����6�׿� ���� �ֱ� ���������(2025.12.31) �����繫��ǥ�� �ڱ��ں��� �ֱ� ��������� ��� �� �ں��� �� �ں��׿����� �������� �����Ͽ� �����Ͽ�����, 2026�� 10�� 20�� �ڽ��ڽ��� ���� �� ������ �����Դϴ�. - ��� \"4. ���ڱⰣ\"�� �������� �����Ϸμ� ���� ���� ���� �������� ������ �� �ֽ��ϴ�. |"
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20261021000099",
+"title": "주식등의대량보유상황보고서(약식)",
+"by": "한국산업은행",
+"date": "2026-10-21",
+"code": "0158S0",
+"kind": "imp",
+"body": "주식등의 대량보유상황보고서 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n(약식서식 : 자본시장과 금융투자업에 관한 법률 제147조에 의한 보고 중 '경영권에 영향을 주기 위한 목적'이 아닌 경우 및 보고자가 동조 제1항 후단에 따른 전문투자자인 경우) \r\n\r\n\r\n\r\n\r\n\r\n금융위원회 귀중 \r\n보고의무발생일　 : \r\n2026년 10월 20일 \r\n\r\n\r\n한국거래소 귀중 \r\n보고서작성기준일 : \r\n2026년 10월 20일 \r\n\r\n\r\n\r\n보고자 : \r\n한국산업은행 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n요약정보 \r\n\r\n\r\n보고특례 적용 전문투자자 구분 \r\n- \r\n\r\n\r\n발행회사명 \r\n㈜엘리스그룹 \r\n발행회사와의 관계 \r\n주주 \r\n\r\n\r\n보고구분 \r\n신규 \r\n\r\n\r\n보유주식등의 수 및 보유비율 \r\n\r\n보유주식등의 수 \r\n보유비율 \r\n\r\n\r\n직전 보고서 \r\n- \r\n- \r\n\r\n\r\n이번 보고서 \r\n580,000 \r\n5.21 \r\n\r\n\r\n의결권의 수 및 보유비율 \r\n\r\n의결권의 수 \r\n보유비율 \r\n\r\n\r\n직전 보고서 \r\n- \r\n- \r\n\r\n\r\n이번 보고서 \r\n- \r\n- \r\n\r\n\r\n보고사유 \r\n코스닥 신규 상장에 따른 신규 보고 \r\n\r\n\r\n보유목적 \r\n단순투자 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n※ 보고자 본인은 보고서작성기준일 현재 본인과 특별관계자의 주식등의 보유상황을 관련 법규 및 기재상의 주의에 따라 정확하게 작성하였고, 중요한 사항의 허위기재 또는 기재누락이 없음을 확인합니다."
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20261013000356",
+"title": "증권발행실적보고서",
+"by": "엘리스",
+"date": "2026-10-13",
+"code": "0158S0",
+"kind": "over",
+"body": "증권발행실적보고서 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n금융감독원장 귀하 \r\n2026년 10월 13일 \r\n\r\n\r\n\r\n\r\n\r\n\r\n회 사 명 : \r\n주식회사 엘리스그룹 \r\n\r\n\r\n대 표 이 사 : \r\n김 재 원 \r\n\r\n\r\n본 점 소 재 지 : \r\n서울특별시 강남구 테헤란로 445(본솔빌딩), 5-9층 \r\n\r\n\r\n\r\n(전 화) 1833-2677 \r\n\r\n\r\n\r\n(홈페이지) https://elice.io/ \r\n\r\n\r\n\r\n\r\n\r\n\r\n작 성 책 임 자 : \r\n(직 책) COO (성 명) 국승명 \r\n\r\n\r\n\r\n(전 화) 1833-2677"
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20261006000451",
+"title": "투자설명서",
+"by": "엘리스",
+"date": "2026-10-06",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20261006000447",
+"title": "증권신고서(지분증권)",
+"by": "엘리스",
+"date": "2026-10-06",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20260930000007",
+"title": "투자설명서",
+"by": "엘리스",
+"date": "2026-09-30",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20260929000656",
+"title": "증권신고서(지분증권)",
+"by": "엘리스",
+"date": "2026-09-29",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20260921000386",
+"title": "증권신고서(지분증권)",
+"by": "엘리스",
+"date": "2026-09-21",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20260904000517",
+"title": "증권신고서(지분증권)",
+"by": "엘리스",
+"date": "2026-09-04",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20260821000670",
+"title": "증권신고서(지분증권)",
+"by": "엘리스",
+"date": "2026-08-21",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20260410001874",
+"title": "연결감사보고서",
+"by": "안진회계법인",
+"date": "2026-04-10",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20260410001872",
+"title": "감사보고서",
+"by": "안진회계법인",
+"date": "2026-04-10",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20260331004834",
+"title": "연결감사보고서",
+"by": "삼일회계법인",
+"date": "2026-03-31",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20260331004833",
+"title": "감사보고서",
+"by": "삼일회계법인",
+"date": "2026-03-31",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20260331004828",
+"title": "연결감사보고서",
+"by": "삼일회계법인",
+"date": "2026-03-31",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20260331004826",
+"title": "감사보고서",
+"by": "삼일회계법인",
+"date": "2026-03-31",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20250402003226",
+"title": "연결감사보고서",
+"by": "삼일회계법인",
+"date": "2025-04-02",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20250402003224",
+"title": "감사보고서",
+"by": "삼일회계법인",
+"date": "2025-04-02",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20240409003086",
+"title": "연결감사보고서",
+"by": "삼일회계법인",
+"date": "2024-04-09",
+"code": "0158S0",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01754737",
+"corp": "엘리스",
+"rcpNo": "20240409003084",
+"title": "감사보고서",
+"by": "삼일회계법인",
+"date": "2024-04-09",
+"code": "0158S0",
+"kind": ""
+}
+]
+}
