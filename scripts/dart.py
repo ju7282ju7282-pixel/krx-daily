@@ -39,6 +39,7 @@ def search(**kw):
         q = {"currentPage": page, "maxResults": 100, "maxLinks": 10, "sort": "date", "series": "desc", **kw}
         t = req(BASE + "/dsab007/detailSearch.ax", urllib.parse.urlencode(q).encode())
         r, pages = parse_list(t); rows += r
+        print("… 목록", page, "/", pages, len(rows), flush=True)
         if page >= pages or not r or page >= 60: break
         page += 1
     return rows
@@ -70,12 +71,14 @@ def daily(days=4):
     rows = [r for r in rows if r["market"] in ("KOSPI", "KOSDAQ")]
     print("목록", len(rows), "새것", sum(r["rcpNo"] not in seen for r in rows))
     by = {}
+    nb = 0
     for r in rows:
         if r["rcpNo"] in seen: continue
         r["code"] = N.get(nz(r["corp"]), ""); r["kind"], getb = want(r["title"])
-        if getb:
-            try: r["body"] = body(r["rcpNo"])
+        if getb and (r["kind"] == "over" or r["code"]):   # 본문은 오버행 공시 전부 + 그 밖엔 상장 종목(코드 찾은 것)만
+            try: r["body"] = body(r["rcpNo"]); nb += 1
             except Exception as e: r["body_error"] = repr(e)[:200]
+            if nb % 25 == 0: print("… 본문", nb, flush=True)
         by.setdefault(r["date"], []).append(r)
     for d, xs in by.items():
         f = f"data/dart/{d}.json"; old = json.load(open(f)) if os.path.exists(f) else []

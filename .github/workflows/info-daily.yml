@@ -2,7 +2,7 @@ name: info-daily
 on:
   workflow_dispatch:
     inputs:
-      mode: { description: "daily | company | info", default: "daily" }
+      mode: { description: "daily | company | info | quick(코드들: 기업 정보 + 3년 공시)", default: "daily" }
       args: { description: "company: 회사 이름/코드(띄어쓰기로) · info: new|all|코드…", default: "" }
   schedule:
     - cron: "55 7 * * 1-5"    # 한국 16:55 — 공시 + 새 종목 기업 정보
@@ -14,7 +14,7 @@ concurrency: { group: info-daily, cancel-in-progress: false }
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
+    timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -25,7 +25,8 @@ jobs:
           if [ "${{ github.event.schedule }}" = "0 1 * * 6" ]; then python scripts/company_info.py all
           elif [ "$M" = "company" ]; then python scripts/dart.py company $A
           elif [ "$M" = "info" ]; then python scripts/company_info.py ${A:-new}
-          else python scripts/dart.py daily 4 || echo "공시 실패"; python scripts/company_info.py new || echo "기업정보 실패"; fi
+          elif [ "$M" = "quick" ]; then python scripts/company_info.py $A; python scripts/dart.py company $A
+          else python scripts/dart.py daily 2 || echo "공시 실패"; python scripts/company_info.py new || echo "기업정보 실패"; fi
       - run: |
           git config user.name "krx-bot"; git config user.email "krx-bot@users.noreply.github.com"
           git add data && git commit -q -m "공시·기업 정보 $(date +%F)" && (git pull --rebase -q -X ours || git pull --rebase -q) && git push || echo "올릴 것 없음"

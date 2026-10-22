@@ -74,12 +74,19 @@ if __name__ == "__main__":
         R = latest_rows()
         codes = [c for c, v in R.items() if v.get("market") in ("KOSPI", "KOSDAQ") and "스팩" not in (v.get("name") or "") and re.fullmatch(r"[0-9A-Z]{6}", c)]
         codes = [c for c in codes if not c.endswith(("5", "7", "8", "9", "K", "L"))] if False else codes   # 우선주도 받음(자료 없으면 ok=false)
-        if a[0] == "new": codes = [c for c in codes if not os.path.exists(f"{OUT}/{c}.json")]
+        if a[0] == "new":   # 새로 생긴 종목만: 오늘 네이버 파일에 있는데 5거래일 전 파일에는 없던 것 (+ 아직 못 받은 것 중 최대 150개)
+            fs = sorted(glob.glob("data/naver/????-??-??.json.gz")); old = set(json.load(gzip.open(fs[max(0, len(fs) - 6)]))["rows"]) if len(fs) > 1 else set()
+            fresh = [c for c in codes if c not in old]
+            rest = [c for c in codes if c not in fresh and not os.path.exists(f"{OUT}/{c}.json")][:150]
+            codes = fresh + rest
     else:
         codes = a
     print("받을 종목", len(codes))
-    with cf.ThreadPoolExecutor(4) as ex:
-        res = list(ex.map(one, codes))
+    res = []
+    with cf.ThreadPoolExecutor(6) as ex:
+        for i, r in enumerate(ex.map(one, codes), 1):
+            res.append(r)
+            if i % 100 == 0 or i == len(codes): print("…", i, "/", len(codes), flush=True)
     print("됨", sum(1 for r in res if r.get("ok")), "/", len(res))
     idx = {}
     for f in glob.glob(f"{OUT}/*.json"):
