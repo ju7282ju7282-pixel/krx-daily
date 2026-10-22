@@ -76,7 +76,7 @@ def codes_by_name():
     f = sorted(glob.glob("data/naver/????-??-??.json.gz"))[-1]
     R = json.load(gzip.open(f))["rows"]; nz = lambda s: re.sub(r"\s|\(주\)|㈜|주식회사", "", s or "")
     return {nz(v["name"]): c for c, v in R.items()}, nz
-def repair(limit=60):
+def repair(limit=150):
     n = 0
     for f in sorted(glob.glob("data/dart/????-??-??.json"))[-5:]:
         xs = json.load(open(f)); ch = False
