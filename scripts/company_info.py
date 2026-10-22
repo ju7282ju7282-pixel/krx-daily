@@ -42,7 +42,8 @@ def parse(code, h1, h2):
         m = re.search(re.escape(k) + r"\s+(.*?)\s+(?:" + "|".join(map(re.escape, nxt)) + r")\s", t2); return m.group(1).strip() if m else ""
     KEYS = ["본사주소", "홈페이지", "대표전화", "설립일", "대표이사", "계열", "종업원수", "발행주식수(보통/우선)", "감사인", "명의개서", "주거래은행", "최근연혁"]
     for k, n in [("본사주소", KEYS[1:]), ("설립일", KEYS[4:]), ("대표이사", KEYS[5:]), ("계열", KEYS[6:]), ("종업원수", KEYS[7:]), ("발행주식수(보통/우선)", KEYS[8:])]:
-        o[k] = fld(k, n)
+        v = fld(k, n)
+        o[k] = "" if any(v.startswith(x) for x in KEYS) else v   # 칸이 비어 다음 칸 이름이 잡힌 경우
     m = re.search(r"상장일\s*:\s*([\d/]+)", t2); o["상장일"] = m.group(1) if m else ""
     o["설립일"] = re.sub(r"\s*\(상장일.*", "", o["설립일"])
     sales = []
