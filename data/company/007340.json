@@ -1,0 +1,6 @@
+{
+"code": "007340",
+"ok": false,
+"error": "URLError(TimeoutError('timed out'))",
+"got": "2026-10-22"
+}
