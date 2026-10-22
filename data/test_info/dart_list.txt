@@ -1,0 +1,1350 @@
+
+
+
+
+
+
+
+
+
+
+
+<div class="tbListInner" >
+<table class="tbList" summary="공시서류검색에 대한 번호, 공시대상회사, 보고서명, 제출인, 접수일자, 비고 등을 알리는 표입니다.">
+	<caption>공시서류검색 목록</caption>
+	<colgroup id="colgropup">
+		<col style="width:6%">
+		<col style="width:20%">
+		<col style="width:auto">
+		
+		<col style="width:13%">
+		<col style="width:11%">
+		<col style="width:8%">
+		
+	</colgroup>
+	<thead >
+		<tr id="tr">
+			<th scope="row"><label for="inpSample00">번호</label></th>
+			<th scope="row"><label for="inpSample00">공시대상회사</label></th>
+			<th scope="row"><label for="inpSample00">보고서명</label></th>
+			
+			<th scope="row"><label for="inpSample00">제출인</label></th>
+			<th scope="row"><label for="inpSample00">접수일자</label></th>
+			<th scope="row"><label for="inpSample00">비고</label></th>
+			
+		</tr>
+	</thead>
+	<tbody id="tbody">
+	
+		
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						1
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20261022000194" id="r_20261022000194" onclick="openReportViewer('20261022000194',''); return false;" title="주요사항보고서(유상증자결정) 공시뷰어 새창">
+							주요사항보고서(유상증자결정) 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.10.22</td>
+					<td></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						2
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260929900667" id="r_20260929900667" onclick="openReportViewer('20260929900667',''); return false;" title="단기차입금증가결정 공시뷰어 새창">
+							단기차입금증가결정 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.09.29</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						3
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260917900508" id="r_20260917900508" onclick="openReportViewer('20260917900508',''); return false;" title="전환청구권행사 공시뷰어 새창">
+							전환청구권행사 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.09.17</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						4
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260826000113" id="r_20260826000113" onclick="openReportViewer('20260826000113',''); return false;" title="독립이사의선임ㆍ해임또는중도퇴임에관한신고 공시뷰어 새창">
+							독립이사의선임ㆍ해임또는중도퇴임에관한신고 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.08.26</td>
+					<td></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						5
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260825900293" id="r_20260825900293" onclick="openReportViewer('20260825900293',''); return false;" title="임시주주총회결과 공시뷰어 새창">
+							임시주주총회결과 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.08.25</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						6
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260818900338" id="r_20260818900338" onclick="openReportViewer('20260818900338',''); return false;" title="영업실적등에대한전망(공정공시) 공시뷰어 새창">
+							영업실적등에대한전망(공정공시) 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.08.18</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						7
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260814000068" id="r_20260814000068" onclick="openReportViewer('20260814000068',''); return false;" title="반기보고서 공시뷰어 새창">
+							반기보고서 
+							(2026.06)
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						     <!-- xbrl대상여부 -->
+						    	<img src="/images/xbrl/btn_xbrlviewer.png" style="cursor:pointer;" alt="반기보고서 XBRL뷰어 새창" title="반기보고서 XBRL뷰어 새창" onclick="openXbrlViewerNew('https://opendart.fss.or.kr','20260814000068','Y','Y');">							
+							
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.08.14</td>
+					<td></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						8
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260812900485" id="r_20260812900485" onclick="openReportViewer('20260812900485',''); return false;" title="전환청구권행사 공시뷰어 새창">
+							<span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>전환청구권행사 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.08.12</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						9
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260812900482" id="r_20260812900482" onclick="openReportViewer('20260812900482',''); return false;" title="전환청구권행사 공시뷰어 새창">
+							<span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>전환청구권행사 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.08.12</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						10
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260810000181" id="r_20260810000181" onclick="openReportViewer('20260810000181',''); return false;" title="의결권대리행사권유참고서류 공시뷰어 새창">
+							의결권대리행사권유참고서류 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.08.10</td>
+					<td></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						11
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260810000180" id="r_20260810000180" onclick="openReportViewer('20260810000180',''); return false;" title="주주총회소집공고 공시뷰어 새창">
+							주주총회소집공고 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.08.10</td>
+					<td></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						12
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260724900820" id="r_20260724900820" onclick="openReportViewer('20260724900820',''); return false;" title="전환청구권행사 공시뷰어 새창">
+							전환청구권행사 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.07.24</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						13
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260722900570" id="r_20260722900570" onclick="openReportViewer('20260722900570',''); return false;" title="전환청구권행사 공시뷰어 새창">
+							전환청구권행사 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.07.22</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						14
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260716900577" id="r_20260716900577" onclick="openReportViewer('20260716900577',''); return false;" title="주주명부폐쇄기간또는기준일설정 공시뷰어 새창">
+							주주명부폐쇄기간또는기준일설정 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.07.16</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						15
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260716900535" id="r_20260716900535" onclick="openReportViewer('20260716900535',''); return false;" title="주주총회소집결의(임시주주총회) 공시뷰어 새창">
+							주주총회소집결의 
+							
+							(임시주주총회)
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.07.16</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						16
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260629000291" id="r_20260629000291" onclick="openReportViewer('20260629000291',''); return false;" title="주식등의대량보유상황보고서(일반) 공시뷰어 새창">
+							주식등의대량보유상황보고서(일반) 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="다이내믹그로우쓰">
+						다이내믹그로우쓰
+					</td>
+					<td>2026.06.29</td>
+					<td></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						17
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260629000245" id="r_20260629000245" onclick="openReportViewer('20260629000245',''); return false;" title="주식등의대량보유상황보고서(일반) 공시뷰어 새창">
+							주식등의대량보유상황보고서(일반) 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="뮤츄얼그로우쓰">
+						뮤츄얼그로우쓰
+					</td>
+					<td>2026.06.29</td>
+					<td></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						18
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260626000678" id="r_20260626000678" onclick="openReportViewer('20260626000678',''); return false;" title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창">
+							임원ㆍ주요주주특정증권등소유상황보고서 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="다이내믹그로우쓰">
+						다이내믹그로우쓰
+					</td>
+					<td>2026.06.26</td>
+					<td></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						19
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260626000440" id="r_20260626000440" onclick="openReportViewer('20260626000440',''); return false;" title="임원ㆍ주요주주특정증권등소유상황보고서 공시뷰어 새창">
+							임원ㆍ주요주주특정증권등소유상황보고서 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="뮤츄얼그로우쓰">
+						뮤츄얼그로우쓰
+					</td>
+					<td>2026.06.26</td>
+					<td></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						20
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260626000406" id="r_20260626000406" onclick="openReportViewer('20260626000406',''); return false;" title="주요사항보고서(전환사채권발행결정) 공시뷰어 새창">
+							<span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>주요사항보고서(전환사채권발행결정) 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.06.26</td>
+					<td></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						21
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260622900881" id="r_20260622900881" onclick="openReportViewer('20260622900881',''); return false;" title="최대주주변경을수반하는주식담보제공계약체결 공시뷰어 새창">
+							최대주주변경을수반하는주식담보제공계약체결 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.06.22</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						22
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260622900880" id="r_20260622900880" onclick="openReportViewer('20260622900880',''); return false;" title="최대주주변경 공시뷰어 새창">
+							최대주주변경 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.06.22</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						23
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260619900952" id="r_20260619900952" onclick="openReportViewer('20260619900952',''); return false;" title="최대주주변경을수반하는주식양수도계약체결 공시뷰어 새창">
+							<span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>최대주주변경을수반하는주식양수도계약체결 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.06.19</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						24
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260618900358" id="r_20260618900358" onclick="openReportViewer('20260618900358',''); return false;" title="최대주주변경을수반하는주식양수도계약체결 공시뷰어 새창">
+							<span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>최대주주변경을수반하는주식양수도계약체결 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.06.18</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						25
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260611000591" id="r_20260611000591" onclick="openReportViewer('20260611000591',''); return false;" title="주식등의대량보유상황보고서(약식) 공시뷰어 새창">
+							주식등의대량보유상황보고서(약식) 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="브레인자산운용">
+						브레인자산운용
+					</td>
+					<td>2026.06.11</td>
+					<td></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						26
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260610900906" id="r_20260610900906" onclick="openReportViewer('20260610900906',''); return false;" title="증권발행결과(자율공시) 공시뷰어 새창">
+							증권발행결과(자율공시) 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.06.10</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						27
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260610900846" id="r_20260610900846" onclick="openReportViewer('20260610900846',''); return false;" title="최대주주변경을수반하는주식양수도계약체결 공시뷰어 새창">
+							<span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>최대주주변경을수반하는주식양수도계약체결 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.06.10</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						28
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260610900627" id="r_20260610900627" onclick="openReportViewer('20260610900627',''); return false;" title="최대주주변경을수반하는주식양수도계약체결 공시뷰어 새창">
+							<span title="본 보고서명으로 이미 제출된 보고서의 기재내용이 변경되어 제출된 것임" class="txtCB">[기재정정]</span>최대주주변경을수반하는주식양수도계약체결 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.06.10</td>
+					<td><span class="tagCom_kosdaq_other" title="본 공시사항은 한국거래소 코스닥시장본부 소관임" style="cursor:default">코</span><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						29
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260529001144" id="r_20260529001144" onclick="openReportViewer('20260529001144',''); return false;" title="주요사항보고서(전환사채권발행결정) 공시뷰어 새창">
+							주요사항보고서(전환사채권발행결정) 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="에이팩트">
+						에이팩트
+					</td>
+					<td>2026.05.29</td>
+					<td><span class="tagCom_jung_other" title="본 보고서 제출 후 정정신고가 있으니 관련 보고서를 참조하시기 바람" style="cursor:default">정</span></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+				
+				
+				
+				
+				
+				
+				<tr>
+					<td >
+						30
+					</td>
+					<td class="tL">
+					    <span class="innerWrap">
+					    	<span class="tagCom_kosdaq" title="코스닥시장" style="cursor:default">코</span>
+							<a href="javascript:openCorpInfoNew('00667425', 'winCorpInfo', '/dsae001/selectPopup.ax');" title="에이팩트 기업개황 새창" >
+								에이팩트
+							</a>
+						</span>
+						
+					</td>
+					<td class="tL">
+						<a href="/dsaf001/main.do?rcpNo=20260519000317" id="r_20260519000317" onclick="openReportViewer('20260519000317',''); return false;" title="주식등의대량보유상황보고서(일반) 공시뷰어 새창">
+							주식등의대량보유상황보고서(일반) 
+							
+							
+						</a>
+						 <!-- 본문, 정정본문 -->
+						    
+													
+					</td>
+					
+					<td class="tL ellipsis" title="다이내믹그로우쓰">
+						다이내믹그로우쓰
+					</td>
+					<td>2026.05.20</td>
+					<td></td>
+					
+				</tr>
+				
+				
+				
+				
+				
+			
+		
+		
+	
+	</tbody>
+</table>
+</div>
+
+	<div class = "psWrap" id="psWrap">
+		<div class="pageInfo">[1/3] [총 88건]</div>
+		
+		<div class="pageSkip">
+			<ul>
+				<li class="on"><a onClick="javascript:void(0);">1</a></li><li><a href="javascript:search(2);">2</a></li><li><a href="javascript:search(3);">3</a></li>
+
+			</ul>
+		</div>
+	</div>
+
