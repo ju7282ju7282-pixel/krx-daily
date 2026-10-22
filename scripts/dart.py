@@ -43,17 +43,25 @@ def search(**kw):
         if page >= pages or not r or page >= 60: break
         page += 1
     return rows
+def _clean(h):
+    h = re.sub(r"(?s)<script.*?</script>|<style.*?</style>", "", h)
+    h = re.sub(r"</t[dh]>", " | ", h); h = re.sub(r"</tr>|<br\s*/?>|</p>", "\n", h)
+    t = html.unescape(re.sub(r"<[^>]+>", " ", h))
+    t = "\n".join(re.sub(r"[ \t\u00a0]+", " ", x).strip(" |") for x in t.split("\n"))
+    return re.sub(r"\n{2,}", "\n", t).strip()
 def body(rcp):
     m = req(f"{BASE}/dsaf001/main.do?rcpNo={rcp}")
     v = re.search(r'viewDoc\("(\d+)", "(\d+)", "(\d*)", "(\d*)", "(\d*)", "([^"]*)"', m)
     if not v: return ""
     a = v.groups()
-    h = req(f"{BASE}/report/viewer.do?rcpNo={a[0]}&dcmNo={a[1]}&eleId={a[2]}&offset={a[3]}&length={a[4]}&dtd={a[5]}")
-    h = re.sub(r"(?s)<script.*?</script>|<style.*?</style>", "", h)
-    h = re.sub(r"</t[dh]>", " | ", h); h = re.sub(r"</tr>|<br\s*/?>|</p>", "\n", h)
-    t = html.unescape(re.sub(r"<[^>]+>", " ", h))
-    t = "\n".join(re.sub(r"[ \t ]+", " ", x).strip(" |") for x in t.split("\n"))
-    return re.sub(r"\n{2,}", "\n", t).strip()[:30000]
+    t = _clean(req(f"{BASE}/report/viewer.do?rcpNo={a[0]}&dcmNo={a[1]}&eleId={a[2]}&offset={a[3]}&length={a[4]}&dtd={a[5]}"))
+    if len(t) < 1500:   # 표지만 받아진 경우(증권발행실적보고서 등): 목차 칸을 차례로 더 받음
+        nodes = re.findall(r"node\d+\['dcmNo'\] = \"(\d+)\";\s*node\d+\['eleId'\] = \"(\d+)\";\s*node\d+\['offset'\] = \"(\d+)\";\s*node\d+\['length'\] = \"(\d+)\";\s*node\d+\['dtd'\] = \"([^\"]*)\"", m)
+        for dcm, ele, off, ln, dtd in nodes[:8]:
+            if len(t) > 30000: break
+            try: t += "\n" + _clean(req(f"{BASE}/report/viewer.do?rcpNo={a[0]}&dcmNo={dcm}&eleId={ele}&offset={off}&length={ln}&dtd={dtd}"))
+            except Exception: pass
+    return t[:30000]
 def want(title):
     k = "over" if re.search(OVER, title) else ("imp" if re.search(IMPORTANT, title) else "")
     return k, (k != "" and not re.search(SKIP_BODY, title))
