@@ -14,7 +14,7 @@ concurrency: { group: info-daily, cancel-in-progress: false }
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 75
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,7 +23,7 @@ jobs:
         run: |
           M="${{ github.event.inputs.mode }}"; A="${{ github.event.inputs.args }}"
           if [ "${{ github.event.schedule }}" = "0 1 * * 6" ]; then python scripts/company_info.py all
-          elif [ "$M" = "company" ]; then python scripts/dart.py company $A
+          elif [ "$M" = "company" ]; then DART_BUDGET_MIN=130 python scripts/dart.py company $A
           elif [ "$M" = "info" ]; then python scripts/company_info.py ${A:-new}
           elif [ "$M" = "quick" ]; then python scripts/company_info.py $A; python scripts/dart.py company $A
           else python scripts/dart.py daily 2 || echo "공시 실패"; python scripts/company_info.py new || echo "기업정보 실패"; fi

@@ -86,7 +86,6 @@ def repair(limit=60):
                 try: x["body"] = body(x["rcpNo"]); n += 1; ch = True
                 except Exception: pass
         if ch: json.dump(xs, open(f, "w"), ensure_ascii=False, indent=0)
-        xs2 = json.load(open(f)) if ch else xs
     for f in sorted(glob.glob("data/dart/????-??-??.json"))[-3:]:
         xs = json.load(open(f)); ch = False
         for x in xs:
@@ -131,7 +130,7 @@ def company(names, years=3):
         rows = [r for r in rows if nz(r["corp"]) == nz(name)] or rows
         for r in rows:
             r["code"] = code; r["kind"], getb = want(r["title"])
-            if getb:
+            if getb and r["kind"] == "over":   # 회사별 3년은 오버행 공시 본문만(시간 아끼기) — 중요 공시는 제목만
                 try: r["body"] = body(r["rcpNo"])
                 except Exception as e: r["body_error"] = repr(e)[:200]
         json.dump({"code": code, "name": name, "from": start.isoformat(), "to": dt.date.today().isoformat(), "rows": rows},
