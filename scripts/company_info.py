@@ -72,7 +72,7 @@ if __name__ == "__main__":
     a = sys.argv[1:] or ["new"]
     if a[0] in ("new", "all"):
         R = latest_rows()
-        codes = [c for c, v in R.items() if v.get("market") in ("KOSPI", "KOSDAQ") and "스팩" not in (v.get("name") or "") and re.fullmatch(r"\d{5}[0-9A-Z]", c)]
+        codes = [c for c, v in R.items() if v.get("market") in ("KOSPI", "KOSDAQ") and "스팩" not in (v.get("name") or "") and re.fullmatch(r"[0-9A-Z]{6}", c)]
         codes = [c for c in codes if not c.endswith(("5", "7", "8", "9", "K", "L"))] if False else codes   # 우선주도 받음(자료 없으면 ok=false)
         if a[0] == "new": codes = [c for c in codes if not os.path.exists(f"{OUT}/{c}.json")]
     else:
