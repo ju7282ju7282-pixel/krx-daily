@@ -1,33 +1,27 @@
-# 한 번만: 기업 정보·공시를 어디서 받을 수 있는지 GitHub에서 시험 → data/test_info/ 에 결과
-import urllib.request, urllib.parse, json, os, ssl
+# 한 번만(2차): DART 웹에서 공시 목록·본문을 받을 수 있는지 시험 → data/test_info/
+import urllib.request, urllib.parse, json, os, re
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 os.makedirs("data/test_info", exist_ok=True)
-T = {
- "naver_integration": "https://m.stock.naver.com/api/stock/005930/integration",
- "naver_basic": "https://m.stock.naver.com/api/stock/005930/basic",
- "naver_fin_annual": "https://m.stock.naver.com/api/stock/005930/finance/annual",
- "naver_disclosure_api": "https://m.stock.naver.com/api/stock/005930/disclosure?page=1&pageSize=20",
- "naver_notice_pc": "https://finance.naver.com/item/news_notice.naver?code=005930&page=1",
- "wise_c1010001": "https://navercomp.wisereport.co.kr/v2/company/c1010001.aspx?cmp_cd=005930",
- "wise_c1020001": "https://navercomp.wisereport.co.kr/v2/company/c1020001.aspx?cmp_cd=005930",
- "fnguide_main": "https://comp.fnguide.com/SVO2/ASP/SVD_Main.asp?pGB=1&gicode=A005930",
- "fnguide_corp": "https://comp.fnguide.com/SVO2/ASP/SVD_Corp.asp?pGB=1&gicode=A005930",
- "dart_main": "https://dart.fss.or.kr/dsab007/main.do",
- "dart_corp_search": "https://dart.fss.or.kr/corp/searchCorpL.ax?textCrpNm=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90",
- "opendart_nokey": "https://opendart.fss.or.kr/api/list.json?corp_code=00126380",
- "kind_main": "https://kind.krx.co.kr/disclosure/todaydisclosure.do?method=searchTodayDisclosureMain",
-}
+def get(u, data=None):
+    req = urllib.request.Request(u, data=data, headers={"User-Agent": UA, "Referer": "https://dart.fss.or.kr/"})
+    r = urllib.request.urlopen(req, timeout=40); return r.status, r.read().decode("utf-8", "replace")
 res = {}
-ctx = ssl.create_default_context()
-for k, u in T.items():
-    try:
-        r = urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": UA, "Referer": "https://m.stock.naver.com/"}), timeout=30, context=ctx)
-        b = r.read(); ct = r.headers.get("Content-Type", "")
-        enc = "euc-kr" if "euc-kr" in ct.lower() else "utf-8"
-        t = b.decode(enc, "replace")
-        open(f"data/test_info/{k}.txt", "w").write(t[:300000])
-        res[k] = {"status": r.status, "bytes": len(b), "ct": ct, "head": t[:200]}
-    except Exception as e:
-        res[k] = {"error": repr(e)[:300]}
-json.dump(res, open("data/test_info/_result.json", "w"), ensure_ascii=False, indent=1)
-print(json.dumps({k: v.get("status", v.get("error")) for k, v in res.items()}, ensure_ascii=False, indent=1))
+try:
+    q = urllib.parse.urlencode({"currentPage": 1, "maxResults": 30, "textCrpNm": "에이팩트", "startDate": "20240101", "endDate": "20261023", "sort": "date", "series": "desc"}).encode()
+    s, t = get("https://dart.fss.or.kr/dsab007/detailSearch.ax", q)
+    open("data/test_info/dart_list.txt", "w").write(t)
+    rcps = re.findall(r"rcpNo=(\d{14})", t); res["list"] = {"status": s, "n": len(rcps), "first": rcps[:5], "titles": re.findall(r'title="([^"]+)"', t)[:10]}
+    if rcps:
+        s2, m = get(f"https://dart.fss.or.kr/dsaf001/main.do?rcpNo={rcps[0]}")
+        open("data/test_info/dart_main_doc.txt", "w").write(m)
+        v = re.search(r"viewDoc\('(\d+)',\s*'(\d+)',\s*'(\d*)',\s*'(\d*)',\s*'(\d*)',\s*'([^']*)'", m)
+        res["doc_main"] = {"status": s2, "bytes": len(m), "viewDoc": v.groups() if v else None}
+        if v:
+            a = v.groups()
+            s3, body = get(f"https://dart.fss.or.kr/report/viewer.do?rcpNo={a[0]}&dcmNo={a[1]}&eleId={a[2]}&offset={a[3]}&length={a[4]}&dtd={a[5]}")
+            open("data/test_info/dart_body.txt", "w").write(body)
+            txt = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", body))
+            res["body"] = {"status": s3, "bytes": len(body), "text": txt[:600]}
+except Exception as e:
+    res["error"] = repr(e)[:400]
+json.dump(res, open("data/test_info/_result2.json", "w"), ensure_ascii=False, indent=1); print(json.dumps(res, ensure_ascii=False)[:2000])
