@@ -1,0 +1,17 @@
+name: fix-day
+on:
+  workflow_dispatch:
+    inputs:
+      day: { description: "고칠 날짜 YYYY-MM-DD", required: true }
+permissions: { contents: write }
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: python scripts/fix_naver_day.py ${{ github.event.inputs.day }}
+      - run: |
+          git config user.name "krx-bot"; git config user.email "krx-bot@users.noreply.github.com"
+          git add data/naver && git commit -m "네이버 종가 KRX 정규장으로 고침 ${{ github.event.inputs.day }}" && (git pull --rebase -q -X ours || git pull --rebase -q) && git push || echo "올릴 것 없음"
