@@ -89,7 +89,7 @@ def company(names, years=3):
     f = sorted(glob.glob("data/naver/????-??-??.json.gz"))[-1]; R = json.load(gzip.open(f))["rows"]
     end = dt.date.today() + dt.timedelta(days=1); start = end - dt.timedelta(days=365 * years)
     for a in names:
-        code = a if re.fullmatch(r"\d{6}", a) else N.get(nz(a), "")
+        code = a if re.fullmatch(r"[0-9A-Z]{6}", a) and re.search(r"\d", a) else N.get(nz(a), "")
         name = R.get(code, {}).get("name", a) if code else a
         rows = search(textCrpNm=name, startDate=start.strftime("%Y%m%d"), endDate=end.strftime("%Y%m%d"))
         rows = [r for r in rows if nz(r["corp"]) == nz(name)] or rows
