@@ -22,11 +22,19 @@ NOT = re.compile(r"스팩|ETF|ETN|KODEX|TIGER|RISE|ACE |SOL |HANARO|KOSEF|ARIRAN
 codes = [c for c, v in R.items() if v.get("market") in ("KOSPI", "KOSDAQ") and not NOT.search(v.get("name") or "")]
 LIMIT = int(sys.argv[2]) if len(sys.argv) > 2 else 0   # 시험용: 앞 몇 종목만
 if LIMIT: codes = codes[:LIMIT]
+PAGES = max(1, (N + 59) // 60)   # 네이버는 한 번에 60일까지만 줌 → 60일씩 쪽(page)을 넘겨 받음
 def one(c):
+    out = []; seen = set()
     try:
-        return c, get(f"https://m.stock.naver.com/api/stock/{c}/trend?pageSize={N}")
+        for pg in range(1, PAGES + 1):
+            rows = get(f"https://m.stock.naver.com/api/stock/{c}/trend?pageSize={min(N, 60)}&page={pg}")
+            new = [r for r in rows if r.get("bizdate") not in seen]
+            if not new: break
+            for r in new: seen.add(r.get("bizdate"))
+            out += new
+        return c, out
     except Exception as e:
-        return c, None
+        return c, (out or None)
 by = {}; bad = 0
 with cf.ThreadPoolExecutor(8) as ex:
     for i, (c, rows) in enumerate(ex.map(one, codes), 1):
