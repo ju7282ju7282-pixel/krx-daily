@@ -1,0 +1,41 @@
+{
+ "m_trend": {
+  "status": 200,
+  "bytes": 7016,
+  "head": "[{\"itemCode\":\"005930\",\"bizdate\":\"20261022\",\"foreignerPureBuyQuant\":\"-585,787\",\"foreignerHoldRatio\":\"46.13%\",\"organPureBuyQuant\":\"-400,833\",\"individualPureBuyQuant\":\"+977,352\",\"closePrice\":\"214,500\",\"compareToPreviousClosePrice\":\"-9,000\",\"compareToPreviousPrice\":{\"code\":\"5\",\"text\":\"하락\",\"name\":\"FALLIN"
+ },
+ "m_trend2": {
+  "error": "<HTTPError 404: '404'>"
+ },
+ "m_integration": {
+  "status": 200,
+  "bytes": 9403,
+  "head": "{\"stockEndType\":\"stock\",\"itemCode\":\"005930\",\"reutersCode\":\"005930\",\"stockName\":\"삼성전자\",\"totalInfos\":[{\"code\":\"lastClosePrice\",\"key\":\"전일\",\"value\":\"223,500\"},{\"code\":\"openPrice\",\"key\":\"시가\",\"value\":\"223,500\",\"compareToPreviousPrice\":{\"code\":\"3\",\"text\":\"보합\",\"name\":\"UNCHANGED\"}},{\"code\":\"highPrice\",\"key\":"
+ },
+ "pc_frgn": {
+  "status": 200,
+  "bytes": 129425,
+  "head": "<!DOCTYPE html><html lang=\"ko\" class=\"\" data-theme=\"light\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=1366, initial-scale=1.0, user-scalable=yes\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"https://ssl.pstatic.net/imgstock"
+ },
+ "pc_frgn_small": {
+  "status": 200,
+  "bytes": 129426,
+  "head": "<!DOCTYPE html><html lang=\"ko\" class=\"\" data-theme=\"light\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=1366, initial-scale=1.0, user-scalable=yes\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"stylesheet\" href=\"https://ssl.pstatic.net/imgstock"
+ },
+ "pc_market_investor": {
+  "error": "<HTTPError 410: '410'>"
+ },
+ "pc_sise_deal_rank": {
+  "error": "<HTTPError 410: '410'>"
+ },
+ "wise_credit": {
+  "status": 200,
+  "bytes": 930207,
+  "head": "\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\r\n<html lang=\"ko\">\r\n<head>\r\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\r\n\t<title>온라인기업정보 - 기업모니터 - 기업개요(삼성전자)</title>\r\n\t<link rel=\"shortcut icon\" href=\"/favicon.ico\" />\r\n\t<script lang"
+ },
+ "m_market_investor": {
+  "status": 200,
+  "bytes": 99,
+  "head": "{\"bizdate\":\"20261022\",\"personalValue\":\"+3,667\",\"foreignValue\":\"+505\",\"institutionalValue\":\"-4,599\"}"
+ }
+}

@@ -1,0 +1,1 @@
+{"bizdate":"20261022","personalValue":"+3,667","foreignValue":"+505","institutionalValue":"-4,599"}
