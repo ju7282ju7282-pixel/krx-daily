@@ -10,7 +10,12 @@ def req(u, data=None):
     for k in range(4):
         try:
             r = urllib.request.urlopen(urllib.request.Request(u, data=data, headers={"User-Agent": UA, "Referer": BASE + "/"}), timeout=40)
-            time.sleep(0.4); return r.read().decode("utf-8", "replace")
+            b = r.read(); time.sleep(0.4)
+            m = re.search(r"charset=([\w-]+)", r.headers.get("Content-Type", "") or "") or re.search(rb'charset=["\']?([\w-]+)', b[:3000])
+            cs = (m.group(1).decode() if isinstance(m.group(1), bytes) else m.group(1)).lower() if m else "utf-8"
+            t = b.decode("euc-kr" if cs in ("euc-kr", "ks_c_5601-1987", "cp949") else "utf-8", "replace")
+            if t.count("\ufffd") > 20: t = b.decode("cp949", "replace")   # 거래소 공시(공정공시 등)는 EUC-KR — 글자가 깨지면 다시 읽음
+            return t
         except Exception as e:
             err = e; time.sleep(3 + 5 * k)
     raise err
@@ -69,7 +74,19 @@ def codes_by_name():
     f = sorted(glob.glob("data/naver/????-??-??.json.gz"))[-1]
     R = json.load(gzip.open(f))["rows"]; nz = lambda s: re.sub(r"\s|\(주\)|㈜|주식회사", "", s or "")
     return {nz(v["name"]): c for c, v in R.items()}, nz
+def repair(limit=400):
+    n = 0
+    for f in sorted(glob.glob("data/dart/????-??-??.json"))[-5:]:
+        xs = json.load(open(f)); ch = False
+        for x in xs:
+            if n >= limit: break
+            if (x.get("body") or "").count("\ufffd") > 20:
+                try: x["body"] = body(x["rcpNo"]); n += 1; ch = True
+                except Exception: pass
+        if ch: json.dump(xs, open(f, "w"), ensure_ascii=False, indent=0)
+    print("깨진 본문 다시 받음", n, flush=True)
 def daily(days=4):
+    repair()
     N, nz = codes_by_name()
     end = dt.date.today() + dt.timedelta(days=1); start = end - dt.timedelta(days=days)
     seen = set()
