@@ -8,5 +8,9 @@ for sym in ("KOSPI", "KOSDAQ"):
         t = urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=60).read().decode("euc-kr", "replace")
         rows = [x.split('"')[1].split("|") for x in t.split("<item data=")[1:]]
         rows = [[r[0], float(r[1]), float(r[2]), float(r[3]), float(r[4]), float(r[5] or 0)] for r in rows]   # 날짜, 시가, 고가, 저가, 종가, 거래량
-        json.dump(rows, open(f"data/index/{sym}_{tf}.json", "w"))
+        fn = f"data/index/{sym}_{tf}.json"
+        if os.path.exists(fn):   # 네이버는 최근 3000일(120달)만 줌 → 예전 것은 버리지 않고 이어 붙여 계속 쌓기
+            old = {r[0]: r for r in json.load(open(fn))}
+            old.update({r[0]: r for r in rows}); rows = [old[k] for k in sorted(old)]
+        json.dump(rows, open(fn, "w"))
         print(sym, tf, len(rows), rows[0][0] if rows else None, rows[-1][0] if rows else None)
