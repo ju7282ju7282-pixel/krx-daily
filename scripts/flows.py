@@ -24,8 +24,9 @@ f = sorted(glob.glob("data/naver/????-??-??.json.gz"))[-1]
 R = json.load(gzip.open(f))["rows"]
 NOT = re.compile(r"스팩|ETF|ETN|KODEX|TIGER|RISE|ACE |SOL |HANARO|KOSEF|ARIRANG|PLUS |KIWOOM|레버리지|인버스|X클래스|리츠")
 codes = [c for c, v in R.items() if v.get("market") in ("KOSPI", "KOSDAQ") and not NOT.search(v.get("name") or "")]
-LIMIT = int(sys.argv[2]) if len(sys.argv) > 2 else 0   # 시험용: 앞 몇 종목만
-if LIMIT: codes = codes[:LIMIT]
+LIMIT = int(sys.argv[2]) if len(sys.argv) > 2 else 0   # 앞 몇 종목만(0=전부)
+OFFSET = int(sys.argv[3]) if len(sys.argv) > 3 else 0  # 몇 번째 종목부터 — 긴 기간 받기는 종목을 나눠 여러 번(한 번에 다 받으면 시간 초과)
+codes = sorted(codes)[OFFSET:OFFSET + LIMIT] if LIMIT else sorted(codes)[OFFSET:]
 PAGES = max(1, (N + 59) // 60)   # 네이버는 한 번에 60일까지만 줌 → bizdate(이 날 전 60일)로 거슬러 올라가며 받음(10/23 시험)
 def one(c):
     out = []; seen = set(); bd = ""
@@ -44,7 +45,6 @@ by = {}; bad = 0
 with cf.ThreadPoolExecutor(8) as ex:
     for i, (c, rows) in enumerate(ex.map(one, codes), 1):
         if rows is None: bad += 1; continue
-        if LIMIT: print(c, "받은 날 수", len(rows), rows[-1].get("bizdate") if rows else "", flush=True)
         for r in rows:
             d = r.get("bizdate", "")
             if len(d) != 8: continue

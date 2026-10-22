@@ -3,7 +3,8 @@ on:
   workflow_dispatch:
     inputs:
       days: { description: "받을 날 수(처음엔 60)", default: "5" }
-      limit: { description: "시험용: 앞 몇 종목만(0=전부)", default: "0" }
+      limit: { description: "몇 종목만(0=전부)", default: "0" }
+      offset: { description: "몇 번째 종목부터", default: "0" }
   schedule:
     - cron: "30 9 * * 1-5"    # 한국 18:30 — 수급(외국인·기관 확정치가 나오는 시간 뒤)
     - cron: "45 10 * * 1-5"   # 한국 19:45 — 한 번 더(저녁 8시 지도 업데이트 전)
@@ -18,7 +19,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
-      - run: python scripts/flows.py ${{ github.event.inputs.days || '5' }} ${{ github.event.inputs.limit || '0' }}
+      - run: python scripts/flows.py ${{ github.event.inputs.days || '5' }} ${{ github.event.inputs.limit || '0' }} ${{ github.event.inputs.offset || '0' }}
       - run: |
           git config user.name "krx-bot"; git config user.email "krx-bot@users.noreply.github.com"
           git add data/flow && git commit -q -m "수급 $(date +%F)" && (git pull --rebase -q -X ours || git pull --rebase -q) && git push || echo "올릴 것 없음"

@@ -54,7 +54,9 @@ def _clean(h):
     t = html.unescape(re.sub(r"<[^>]+>", " ", h))
     t = "\n".join(re.sub(r"[ \t\u00a0]+", " ", x).strip(" |") for x in t.split("\n"))
     return re.sub(r"\n{2,}", "\n", t).strip()
+T0 = time.time(); BUDGET = float(os.environ.get("DART_BUDGET_MIN", "35")) * 60   # 본문 받기에 쓸 시간(분) — DART가 느린 날 저녁 8시 전에 끝나게
 def body(rcp):
+    if time.time() - T0 > BUDGET: raise TimeoutError("시간 다 씀 — 다음에 받음")
     m = req(f"{BASE}/dsaf001/main.do?rcpNo={rcp}")
     v = re.search(r'viewDoc\("(\d+)", "(\d+)", "(\d*)", "(\d*)", "(\d*)", "([^"]*)"', m)
     if not v: return ""
@@ -62,7 +64,7 @@ def body(rcp):
     t = _clean(req(f"{BASE}/report/viewer.do?rcpNo={a[0]}&dcmNo={a[1]}&eleId={a[2]}&offset={a[3]}&length={a[4]}&dtd={a[5]}"))
     if len(t) < 1500:   # 표지만 받아진 경우(증권발행실적보고서 등): 목차 칸을 차례로 더 받음
         nodes = re.findall(r"node\d+\['dcmNo'\] = \"(\d+)\";\s*node\d+\['eleId'\] = \"(\d+)\";\s*node\d+\['offset'\] = \"(\d+)\";\s*node\d+\['length'\] = \"(\d+)\";\s*node\d+\['dtd'\] = \"([^\"]*)\"", m)
-        for dcm, ele, off, ln, dtd in nodes[:8]:
+        for dcm, ele, off, ln, dtd in nodes[:4]:
             if len(t) > 30000: break
             try: t += "\n" + _clean(req(f"{BASE}/report/viewer.do?rcpNo={a[0]}&dcmNo={dcm}&eleId={ele}&offset={off}&length={ln}&dtd={dtd}"))
             except Exception: pass
@@ -74,7 +76,7 @@ def codes_by_name():
     f = sorted(glob.glob("data/naver/????-??-??.json.gz"))[-1]
     R = json.load(gzip.open(f))["rows"]; nz = lambda s: re.sub(r"\s|\(주\)|㈜|주식회사", "", s or "")
     return {nz(v["name"]): c for c, v in R.items()}, nz
-def repair(limit=400):
+def repair(limit=60):
     n = 0
     for f in sorted(glob.glob("data/dart/????-??-??.json"))[-5:]:
         xs = json.load(open(f)); ch = False
@@ -84,7 +86,16 @@ def repair(limit=400):
                 try: x["body"] = body(x["rcpNo"]); n += 1; ch = True
                 except Exception: pass
         if ch: json.dump(xs, open(f, "w"), ensure_ascii=False, indent=0)
-    print("깨진 본문 다시 받음", n, flush=True)
+        xs2 = json.load(open(f)) if ch else xs
+    for f in sorted(glob.glob("data/dart/????-??-??.json"))[-3:]:
+        xs = json.load(open(f)); ch = False
+        for x in xs:
+            if n >= limit: break
+            if x.get("body_error") and not x.get("body"):
+                try: x["body"] = body(x["rcpNo"]); x.pop("body_error", None); n += 1; ch = True
+                except Exception: pass
+        if ch: json.dump(xs, open(f, "w"), ensure_ascii=False, indent=0)
+    print("깨진·못 받은 본문 다시 받음", n, flush=True)
 def daily(days=4):
     repair()
     N, nz = codes_by_name()
