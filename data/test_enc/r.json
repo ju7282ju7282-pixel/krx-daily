@@ -1,0 +1,24 @@
+{
+ "ct": "text/html; charset=MS949",
+ "has_efbfbd": 0,
+ "len": 22162,
+ "head_meta": "[b'charset=euc-kr']",
+ "utf-8": [
+  823,
+  "ms a:link { color: #194866; text-decoration: none; } .xforms a:active { color: #194866; text-decoration: none; } .xforms a:visited { color: #194866; text-decoration: none; } .xforms A:hover { color:008BE3; text-decoration: none; } .xforms_input{ border: 0px solid #DBDBDB; padding-left:3px; padding-r"
+ ],
+ "cp949": [
+  0,
+  " a:link { color: #194866; text-decoration: none; } .xforms a:active { color: #194866; text-decoration: none; } .xforms a:visited { color: #194866; text-decoration: none; } .xforms A:hover { color:008BE3; text-decoration: none; } .xforms_input{ border: 0px solid #DBDBDB; padding-left:3px; padding-rig"
+ ],
+ "euc-kr": [
+  0,
+  " a:link { color: #194866; text-decoration: none; } .xforms a:active { color: #194866; text-decoration: none; } .xforms a:visited { color: #194866; text-decoration: none; } .xforms A:hover { color:008BE3; text-decoration: none; } .xforms_input{ border: 0px solid #DBDBDB; padding-left:3px; padding-rig"
+ ],
+ "kind": [
+  "text/html; charset=UTF-8",
+  359,
+  "[]",
+  "\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=EUC-KR\">\r\n<title>창 닫기</title>\r\n<script type=\"text/javascript\" src=\"../js/jquery/jquery.js\"></script>\r\n<script type=\"text/javascript\">\r\n\t$(document).ready(function(){\r\n\t\tlocation.href = '/common/blank"
+ ]
+}
