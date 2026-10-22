@@ -14,8 +14,12 @@ def get(u):
         except Exception as e:
             err = e; time.sleep(1 + 2 * k)
     raise err
-num = lambda s: int(str(s).replace(",", "").replace("+", "") or 0) if s not in (None, "") else 0
-pct = lambda s: float(str(s).replace("%", "") or 0) if s not in (None, "") else None
+def num(s):
+    try: return int(float(str(s).replace(",", "").replace("+", "")))
+    except (ValueError, TypeError): return 0
+def pct(s):
+    try: return float(str(s).replace("%", "").replace(",", ""))
+    except (ValueError, TypeError): return None
 f = sorted(glob.glob("data/naver/????-??-??.json.gz"))[-1]
 R = json.load(gzip.open(f))["rows"]
 NOT = re.compile(r"스팩|ETF|ETN|KODEX|TIGER|RISE|ACE |SOL |HANARO|KOSEF|ARIRANG|PLUS |KIWOOM|레버리지|인버스|X클래스|리츠")
