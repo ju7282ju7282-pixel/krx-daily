@@ -190,15 +190,15 @@ def section(who, rname, kw, days=400):
     rows = [r for r in search(textCrpNm=name, startDate=start.strftime("%Y%m%d"), endDate=end.strftime("%Y%m%d")) if rname in r["title"] and nz(r["corp"]) == nz(name)]
     if not rows: print("보고서 없음", name, rname); return
     r = rows[0]; m = req(f"{BASE}/dsaf001/main.do?rcpNo={r['rcpNo']}")
-    nodes = {}
-    for k, key, val in re.findall(r"node(\d+)\['(\w+)'\]\s*=\s*\"([^\"]*)\"", m): nodes.setdefault(k, {})[key] = val
+    nodes = [dict(zip(("text", "dcmNo", "eleId", "offset", "length", "dtd"), g)) for g in re.findall(
+        r"node\d+\['text'\]\s*=\s*\"([^\"]*)\";(?:(?!\['text'\]).){0,400}?node\d+\['dcmNo'\]\s*=\s*\"(\d+)\";\s*node\d+\['eleId'\]\s*=\s*\"(\d+)\";\s*node\d+\['offset'\]\s*=\s*\"(\d+)\";\s*node\d+\['length'\]\s*=\s*\"(\d+)\";\s*node\d+\['dtd'\]\s*=\s*\"([^\"]*)\"", m, re.S)]   # node1·node2… 이름은 층마다 다시 쓰여서 차례대로 읽음
     out = []
-    for k, n in nodes.items():
-        if kw in n.get("text", "") and n.get("dcmNo"):
-            t = _clean(req(f"{BASE}/report/viewer.do?rcpNo={r['rcpNo']}&dcmNo={n['dcmNo']}&eleId={n.get('eleId','')}&offset={n.get('offset','')}&length={n.get('length','')}&dtd={n.get('dtd','')}"))
+    for n in nodes:
+        if any(k in n["text"] for k in kw.split("|")):
+            t = _clean(req(f"{BASE}/report/viewer.do?rcpNo={r['rcpNo']}&dcmNo={n['dcmNo']}&eleId={n['eleId']}&offset={n['offset']}&length={n['length']}&dtd={n['dtd']}"))
             out.append(f"### {n['text']}\n{t}")
     os.makedirs("data/dart/section", exist_ok=True)
-    fn = f"data/dart/section/{code or nz(name)}_{re.sub(r'[^0-9A-Za-z가-힣]', '', kw)}.txt"
+    fn = f"data/dart/section/{code or nz(name)}_{re.sub(r'[^0-9A-Za-z가-힣]', '', kw)[:20]}.txt"
     open(fn, "w").write(f"{name} {r['title']} {r['date']} rcpNo {r['rcpNo']}\n목차: " + " / ".join(n.get('text', '') for n in nodes.values()) + "\n\n" + "\n\n".join(out))
     print(fn, "칸", len(out), "글자", sum(map(len, out)))
 if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "section":
