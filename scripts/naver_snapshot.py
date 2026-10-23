@@ -13,14 +13,18 @@ def get(url, tries=3):
             if t == tries - 1: raise
             time.sleep(2 * (t + 1))
 num = lambda s: float(str(s).replace(",", "")) if s not in (None, "", "N/A") else None
+# 10/23 고침: 목록은 시총 순서로 100개씩 넘겨 받는데, 저녁 넥스트레이드 거래 중엔 시총 순서가 받는 사이에 바뀌어
+#   쪽 경계에 걸린 종목이 빠질 수 있음(19:10 받기에서 삼익악기가 빠짐 — 16:40 받기엔 있었음). → 목록을 두 번 받아 합침
+#   (+ 워크플로 다음 단계 fix_naver_day.py 가 전날 있던 종목 중 빠진 것을 KRX 정규장 값으로 채움).
 rows = {}
-for mk in ("KOSPI", "KOSDAQ"):
+for mk in ("KOSPI", "KOSDAQ") * 2:
     page = 1
     while True:
         j = json.loads(get(f"https://m.stock.naver.com/api/stocks/marketValue/{mk}?page={page}&pageSize=100"))
         st = j.get("stocks", [])
         for s in st:
             if s.get("stockEndType") != "stock": continue          # ETF·ETN 등 제외
+            if s["itemCode"] in rows: continue
             rows[s["itemCode"]] = {"name": s["stockName"], "market": mk, "close": num(s.get("closePriceRaw")), "ratio": num(s.get("fluctuationsRatio")),
                                    "vol": num(s.get("accumulatedTradingVolumeRaw")), "amount": num(s.get("accumulatedTradingValueRaw")),
                                    "marcap": num(s.get("marketValueRaw")), "at": s.get("localTradedAt"), "stop": (s.get("tradeStopType") or {}).get("name")}
