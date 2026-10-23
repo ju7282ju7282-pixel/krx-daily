@@ -17,11 +17,21 @@ def one(c):
         except Exception:
             time.sleep(1 + k)
     return c, None
+# 네이버 목록에서 그날만 빠진 종목(10/23 삼익악기 — 실제로는 정상 거래)도 전날 파일에서 가져와 price API 로 그날 값을 채움
+import glob, os
+prev = sorted(f for f in glob.glob("data/naver/????-??-??.json.gz") if os.path.basename(f)[:10] < D)
+added = []
+if prev:
+    P = json.load(gzip.open(prev[-1]))["rows"]
+    for c, r in P.items():
+        if c not in R: R[c] = {k: r.get(k) for k in ("name", "market", "close", "vol", "amount", "marcap")} | {"date": D, "missing_from_list": True}; added.append(c)
 n = 0
 with ThreadPoolExecutor(8) as ex:
     for c, x in ex.map(one, list(R)):
-        if not x: continue
-        r = R[c]; cl = num(x["closePrice"])
+        if not x:
+            if R[c].get("missing_from_list"): del R[c]   # 그날 값이 없으면(상장폐지 등) 다시 뺌
+            continue
+        r = R[c]; r.pop("missing_from_list", None); cl = num(x["closePrice"])
         if not cl: continue
         vol = num(x.get("accumulatedTradingVolume"))
         if r.get("close") and r.get("marcap"): r["marcap"] = r["marcap"] * cl / r["close"]
@@ -31,4 +41,4 @@ with ThreadPoolExecutor(8) as ex:
 J["fixed"] = f"KRX 정규장 값으로 고침 {n}/{len(R)}"
 if n < 0.9 * len(R): print("경고: 정규장 값으로 바꾼 종목이 90% 밑", n, len(R))
 json.dump(J, gzip.open(fn, "wt", encoding="utf-8"), ensure_ascii=False)
-print(D, "고침", n, "/", len(R))
+print(D, "고침", n, "/", len(R), "| 목록에 없어 더한 종목", [R[c]["name"] for c in added if c in R])
