@@ -138,8 +138,44 @@ def company(names, years=3):
         print(name, code, "목록", len(rows), "본문", sum(1 for r in rows if r.get("body")))
 if __name__ == "__main__":
     a = sys.argv[1:]
-    if not a or a[0] == "daily": daily(int(a[1]) if len(a) > 1 else 4)
+    if a and a[0] == "conv": pass
+    elif not a or a[0] == "daily": daily(int(a[1]) if len(a) > 1 else 4)
     elif a[0] == "company":
         ys = 3
         if "--years" in a: i = a.index("--years"); ys = int(a[i + 1]); a = a[:i] + a[i + 2:]
         company([x for y in a[1:] for x in y.replace(",", " ").split()], ys)
+
+# ── 전환청구 모으기(10/23 현주님 "사람들은 보통 전환가보다 몇 % 위에서 바꿔 파는지"): python scripts/dart.py conv [몇 달=36] [한 달에 몇 건=80]
+#  DART 보고서명 '전환청구권행사' 공시를 달마다 받아, 본문의 '일별 전환청구내역'(청구일자·회차·청구금액·전환가액·주식수)을 data/dart/conversions.json 에 쌓음(이어 받기 됨).
+def conv_parse(b):
+    t = re.sub(r"\s*\n\s*", " | ", re.sub(r"\.?[\w\-\. ,#:*>]*\{[^}]*\}", "", (b or "").replace("\r", "")))
+    out = []   # 줄 모양: 청구일 | 회차 | 사채 종류 | 청구금액(원) | 전환가액 | 발행 주식수 | 상장일 — 글자 이름에 기대지 않고 모양으로 찾음
+    for m in re.finditer(r"(\d{4}-\d{2}-\d{2})\s*\|\s*\|\s*(\d{1,3})\s*\|\s*\|\s*[^|]*?\|\s*\|\s*([\d,]{5,})[^|]*\|\s*\|\s*([\d,]+)\s*\|\s*\|\s*([\d,]+)\s*\|\s*\|\s*(\d{4}-\d{2}-\d{2})", t):
+        out.append({"day": m.group(1), "round": m.group(2), "amount": int(m.group(3).replace(",", "")), "price": int(m.group(4).replace(",", "")), "shares": int(m.group(5).replace(",", "")), "listed": m.group(6)})
+    return out
+def conv(months=36, per=80):
+    fn = "data/dart/conversions.json"; D = json.load(open(fn)) if os.path.exists(fn) else {"done_rcp": [], "rows": []}
+    done = set(D["done_rcp"]); N, nz = codes_by_name()
+    today = dt.date.today()
+    for k in range(months):
+        if time.time() - T0 > BUDGET: break
+        e = (today.replace(day=1) - dt.timedelta(days=1)) if k else today
+        e = dt.date(e.year, e.month, 1) if False else e
+        y, mth = today.year, today.month - k
+        while mth <= 0: y -= 1; mth += 12
+        s = dt.date(y, mth, 1); e = (dt.date(y + (mth == 12), mth % 12 + 1, 1) - dt.timedelta(days=1))
+        try: rows = search(startDate=s.strftime("%Y%m%d"), endDate=e.strftime("%Y%m%d"), reportName="전환청구권행사")
+        except Exception as ex: print("목록 실패", s, repr(ex)[:80]); continue
+        rows = [r for r in rows if r["market"] in ("KOSPI", "KOSDAQ") and "전환청구권행사" in r["title"] and r["rcpNo"] not in done]
+        print(s.strftime("%Y-%m"), "전환청구 공시", len(rows), flush=True)
+        for r in rows[:per]:
+            if time.time() - T0 > BUDGET: break
+            try: b = body(r["rcpNo"])
+            except Exception: continue
+            for x in conv_parse(b):
+                x.update(code=N.get(nz(r["corp"]), ""), corp=r["corp"], rcpNo=r["rcpNo"], filed=r["date"]); D["rows"].append(x)
+            D["done_rcp"].append(r["rcpNo"]); done.add(r["rcpNo"])
+        json.dump(D, open(fn, "w"), ensure_ascii=False)
+    print("모은 전환청구 줄", len(D["rows"]), "공시", len(D["done_rcp"]))
+if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "conv":
+    conv(int(sys.argv[2]) if len(sys.argv) > 2 else 36, int(sys.argv[3]) if len(sys.argv) > 3 else 80)

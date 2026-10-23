@@ -25,6 +25,7 @@ jobs:
           if [ "${{ github.event.schedule }}" = "0 1 * * 6" ]; then python scripts/company_info.py all
           elif [ "$M" = "company" ]; then DART_BUDGET_MIN=130 python scripts/dart.py company $A
           elif [ "$M" = "info" ]; then python scripts/company_info.py ${A:-new}
+          elif [ "$M" = "conv" ]; then DART_BUDGET_MIN=130 python scripts/dart.py conv ${A:-36 80}
           elif [ "$M" = "quick" ]; then python scripts/company_info.py $A; python scripts/dart.py company $A
           else python scripts/dart.py daily 2 || echo "공시 실패"; python scripts/company_info.py new || echo "기업정보 실패"; fi
       - run: |
