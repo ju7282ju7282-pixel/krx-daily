@@ -199,7 +199,7 @@ def section(who, rname, kw, days=400):
             out.append(f"### {n['text']}\n{t}")
     os.makedirs("data/dart/section", exist_ok=True)
     fn = f"data/dart/section/{code or nz(name)}_{re.sub(r'[^0-9A-Za-z가-힣]', '', kw)[:20]}.txt"
-    open(fn, "w").write(f"{name} {r['title']} {r['date']} rcpNo {r['rcpNo']}\n목차: " + " / ".join(n.get('text', '') for n in nodes.values()) + "\n\n" + "\n\n".join(out))
+    open(fn, "w").write(f"{name} {r['title']} {r['date']} rcpNo {r['rcpNo']}\n목차: " + " / ".join(n['text'] for n in nodes) + "\n\n" + "\n\n".join(out))
     print(fn, "칸", len(out), "글자", sum(map(len, out)))
 if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "section":
     section(sys.argv[2], sys.argv[3], sys.argv[4], int(sys.argv[5]) if len(sys.argv) > 5 else 400)
