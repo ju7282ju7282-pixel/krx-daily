@@ -70,5 +70,13 @@ D = max((r.get("date") for r in rows.values() if r.get("date")), default=None)
 ok = {c: r for c, r in rows.items() if r.get("date") == D}
 print("기준일", D, "그날 자료 있는 종목", len(ok))
 os.makedirs("data/naver", exist_ok=True)
+# 같은 날 앞서 받은 파일이 있으면 그 파일에만 있는 종목을 지우지 않고 남김(10/23: 19:10 받기가 16:40 의 온전한 파일을 덮어써 삼익악기가 빠졌음)
+_fn = f"data/naver/{D}.json.gz"
+if os.path.exists(_fn):
+    try:
+        _old = json.load(gzip.open(_fn))["rows"]; _keep = [c for c in _old if c not in ok]
+        for c in _keep: ok[c] = _old[c]
+        if _keep: print("앞서 받은 파일에만 있던 종목 남김", len(_keep), [_old[c].get("name") for c in _keep][:10])
+    except Exception as e: print("앞 파일 못 읽음", e)
 with gzip.open(f"data/naver/{D}.json.gz", "wt", encoding="utf-8") as f: json.dump({"D": D, "made": datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime("%Y-%m-%d %H:%M"), "rows": ok}, f, ensure_ascii=False)
 json.dump({"D": D, "n": len(ok)}, open("data/naver/latest.json", "w"))
