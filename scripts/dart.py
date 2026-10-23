@@ -138,7 +138,7 @@ def company(names, years=3):
         print(name, code, "목록", len(rows), "본문", sum(1 for r in rows if r.get("body")))
 if __name__ == "__main__":
     a = sys.argv[1:]
-    if a and a[0] == "conv": pass
+    if a and a[0] in ("conv", "section"): pass
     elif not a or a[0] == "daily": daily(int(a[1]) if len(a) > 1 else 4)
     elif a[0] == "company":
         ys = 3
@@ -179,3 +179,27 @@ def conv(months=36, per=80):
     print("모은 전환청구 줄", len(D["rows"]), "공시", len(D["done_rcp"]))
 if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "conv":
     conv(int(sys.argv[2]) if len(sys.argv) > 2 else 36, int(sys.argv[3]) if len(sys.argv) > 3 else 80)
+
+# ── 보고서 한 칸만 받기(10/23: KBI동양철관 47회 CB 남은 금액 — 반기보고서 '미상환 전환사채' 표): python scripts/dart.py section <코드|이름> <보고서 이름 글자> <목차 글자> [며칠 안=400]
+#  가장 최근 그 보고서를 찾아 목차(node…['text'])에서 글자가 든 칸을 받아 data/dart/section/<코드>_<목차 글자>.txt 로 저장.
+def section(who, rname, kw, days=400):
+    N, nz = codes_by_name(); f = sorted(glob.glob("data/naver/????-??-??.json.gz"))[-1]; R = json.load(gzip.open(f))["rows"]
+    code = who if re.fullmatch(r"[0-9A-Z]{6}", who) and re.search(r"\d", who) else N.get(nz(who), "")
+    name = R.get(code, {}).get("name", who)
+    end = dt.date.today() + dt.timedelta(days=1); start = end - dt.timedelta(days=days)
+    rows = [r for r in search(textCrpNm=name, startDate=start.strftime("%Y%m%d"), endDate=end.strftime("%Y%m%d")) if rname in r["title"] and nz(r["corp"]) == nz(name)]
+    if not rows: print("보고서 없음", name, rname); return
+    r = rows[0]; m = req(f"{BASE}/dsaf001/main.do?rcpNo={r['rcpNo']}")
+    nodes = {}
+    for k, key, val in re.findall(r"node(\d+)\['(\w+)'\]\s*=\s*\"([^\"]*)\"", m): nodes.setdefault(k, {})[key] = val
+    out = []
+    for k, n in nodes.items():
+        if kw in n.get("text", "") and n.get("dcmNo"):
+            t = _clean(req(f"{BASE}/report/viewer.do?rcpNo={r['rcpNo']}&dcmNo={n['dcmNo']}&eleId={n.get('eleId','')}&offset={n.get('offset','')}&length={n.get('length','')}&dtd={n.get('dtd','')}"))
+            out.append(f"### {n['text']}\n{t}")
+    os.makedirs("data/dart/section", exist_ok=True)
+    fn = f"data/dart/section/{code or nz(name)}_{re.sub(r'[^0-9A-Za-z가-힣]', '', kw)}.txt"
+    open(fn, "w").write(f"{name} {r['title']} {r['date']} rcpNo {r['rcpNo']}\n목차: " + " / ".join(n.get('text', '') for n in nodes.values()) + "\n\n" + "\n\n".join(out))
+    print(fn, "칸", len(out), "글자", sum(map(len, out)))
+if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "section":
+    section(sys.argv[2], sys.argv[3], sys.argv[4], int(sys.argv[5]) if len(sys.argv) > 5 else 400)
