@@ -1,0 +1,79 @@
+{
+"code": "010690",
+"got": "2026-10-23",
+"src": "네이버 증권 기업실사(wisereport, FnGuide 자료)",
+"wics": "자동차부품",
+"name": "화신",
+"summary_asof": "2026.09.02",
+"summary": [
+"동사는 1975년 설립되어 1994년 상장한 자동차부품 전문 업체로, 현대기아자동차그룹 계열사를 고객으로 하고 있음.",
+"미국, 인도, 중국 등지에 법인을 운영하며, 2024년 인도 푸네법인 설립과 미국 조지아주 전기차 공장을 2025년 준공함.",
+"자동차용 Chassis & Body Part와 Electrification Part를 생산·납품하며, 배터리팩 케이스 생산을 위한 영천 신공장을 건설하고 있음."
+],
+"holders": [
+{
+"name": "글로벌오토트레이딩 외 16인",
+"shares": "17,603,149",
+"pct": "50.41"
+},
+{
+"name": "자사주",
+"shares": "171,969",
+"pct": "0.49"
+}
+],
+"holders_asof": "2026.10.22",
+"본사주소": "경북 영천시 도남공단길 94-2",
+"설립일": "1975/07/01",
+"대표이사": "정서진, 배현주",
+"계열": "화신",
+"종업원수": "1,051 (2026/06)",
+"발행주식수(보통/우선)": "34,920,410 주 / 0 주",
+"상장일": "1994/01/14",
+"sales": [
+{
+"item": "CHASSIS",
+"pct": "64.22"
+},
+{
+"item": "BODY",
+"pct": "10.26"
+},
+{
+"item": "상품",
+"pct": "4.27"
+},
+{
+"item": "Electrification Parts",
+"pct": "3.10"
+},
+{
+"item": "기타",
+"pct": "18.15"
+}
+],
+"sales_asof": "2026/06",
+"history": [
+{
+"ym": "2026/08",
+"t": "MQ4I (인도 쏘렌토) 개발품목 : FR C/MBR & L/ARM COMPL (GSL), FR C/MBR & L/ARM COMPL (DSL), RR C/MBR (2WD), RR C/MBR (4WD), RR L/ARM (LH/RH), RR T/ARM (LH/RH), RR A/ARM, RR U/ARM"
+},
+{
+"ym": "2026/08",
+"t": "CN8 (아반떼) 개발품목 : FR C/MBR & L/ARM COMPL, TORSION BEAM AXLE COMPL"
+},
+{
+"ym": "2026/06",
+"t": "민선8기 경북 투자 유치 감사패 (경상북도지사)"
+},
+{
+"ym": "2026/05",
+"t": "NQ5A HEV (북미 스포티지) 개발품목 : FR C/MBR & L/ARM, RR C/MBR, RR L/ARM, L/R, RR U/ARM, RR A/ARM, L/R, RR T/ARM, L/R, CTR FLR"
+},
+{
+"ym": "2026/03",
+"t": "경영진의 변동 : 사내이사 배현주 신규선임 / 독립이사 김준호 재선임"
+}
+],
+"ok": true
+}
