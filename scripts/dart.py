@@ -202,4 +202,6 @@ def section(who, rname, kw, days=400):
     open(fn, "w").write(f"{name} {r['title']} {r['date']} rcpNo {r['rcpNo']}\n목차: " + " / ".join(n['text'] for n in nodes) + "\n\n" + "\n\n".join(out))
     print(fn, "칸", len(out), "글자", sum(map(len, out)))
 if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "section":
-    section(sys.argv[2], sys.argv[3], sys.argv[4], int(sys.argv[5]) if len(sys.argv) > 5 else 400)
+    for w in sys.argv[2].split(","):   # 여러 종목은 쉼표로(10/24: 80종목 한꺼번에)
+        try: section(w, sys.argv[3], sys.argv[4], int(sys.argv[5]) if len(sys.argv) > 5 else 400)
+        except Exception as e: print("실패", w, e)
