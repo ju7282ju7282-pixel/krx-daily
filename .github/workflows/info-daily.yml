@@ -2,7 +2,7 @@ name: info-daily
 on:
   workflow_dispatch:
     inputs:
-      mode: { description: "daily | company | info | quick(코드들: 기업 정보 + 3년 공시)", default: "daily" }
+      mode: { description: "daily | company | info | quick | section | body(코드들: 기업 정보 + 3년 공시)", default: "daily" }
       args: { description: "company: 회사 이름/코드(띄어쓰기로) · info: new|all|코드…", default: "" }
   schedule:
     - cron: "55 7 * * 1-5"    # 한국 16:55 — 공시 + 새 종목 기업 정보
@@ -26,6 +26,7 @@ jobs:
           elif [ "$M" = "company" ]; then DART_BUDGET_MIN=130 python scripts/dart.py company $A
           elif [ "$M" = "info" ]; then python scripts/company_info.py ${A:-new}
           elif [ "$M" = "section" ]; then python scripts/dart.py section $A
+          elif [ "$M" = "body" ]; then python scripts/dart.py body $A
           elif [ "$M" = "conv" ]; then DART_BUDGET_MIN=130 python scripts/dart.py conv ${A:-36 80}
           elif [ "$M" = "quick" ]; then python scripts/company_info.py $A; python scripts/dart.py company $A
           else python scripts/dart.py daily 2 || echo "공시 실패"; python scripts/company_info.py new || echo "기업정보 실패"; fi

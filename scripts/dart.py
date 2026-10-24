@@ -205,3 +205,11 @@ if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "section":
     for w in sys.argv[2].split(","):   # 여러 종목은 쉼표로(10/24: 80종목 한꺼번에)
         try: section(w, sys.argv[3], sys.argv[4], int(sys.argv[5]) if len(sys.argv) > 5 else 400)
         except Exception as e: print("실패", w, e)
+
+# ── 공시 본문 몇 개만 받기(10/24: 소송·최대주주변경처럼 회사별 3년 목록에서 본문을 안 받는 공시): python scripts/dart.py body <rcpNo,rcpNo,…>
+#  data/dart/body/<rcpNo>.txt 로 저장
+if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "body":
+    os.makedirs("data/dart/body", exist_ok=True)
+    for rc in sys.argv[2].split(","):
+        try: open(f"data/dart/body/{rc}.txt", "w").write(body(rc)); print("받음", rc)
+        except Exception as e: print("실패", rc, e)
