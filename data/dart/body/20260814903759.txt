@@ -1,0 +1,101 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+본느/기타 경영사항(자율공시)/(2026.08.14)기타 경영사항(자율공시)(2026년 반기보고서(반기검토보고서) 제출 지연) 
+
+
+
+
+
+
+
+기타 경영사항(자율공시) 
+
+
+
+
+
+
+1. 제목 | 
+2026년 반기보고서(반기검토보고서) 제출 지연 | 
+
+
+2. 주요내용 | 
+자본시장과 금융투자업에 관한 법률 제160조에 의거 모든 주권상장법인은 반기보고서를 해당 기간 경과 후 45일 이내에 금융위원회와 거래소에 제출하여야 합니다. 이에 따라 당사는 2026년 8월 14일까지 2026년 반기보고서를 공시하여야 합니다. 그러나 당사는 반기 재무제표 검토 및 회계연도 외부감사를 진행 중인 외부감사인 (삼정회계법인)으로부터, 당사 임직원에 대한 내부제보와 관련하여 당사 감사가 선임한 외부조사기관의 조사결과에 대한 외부감사인 자체의 포렌식 절차가 완료되어야 경영진이 연관된 사안이 재무제표에 미칠 수 있는 추가적인 영향에 대한 완전성 검토를 완료하고 검토의견을 형성할 수 있다는 의견을 전달받았습니다. 당사는 이러한 절차가 처음부터 끝까지 경영진으로부터 독립된 당사 감사의 주도 하에 외부전문가에 의해 진행되고 있으며, 재무제표에 대한 정확하고 신뢰할 수 있는 정보를 시장에 제공하기 위한 필수적인 절차라는 점을 말씀드립니다. 그 결과 당사는 반기재무제표 작성은 완료하였으나, 외부감사인의 검토의견이 포함된 반기검토보고서를 법정 제출기한인 2026년 8월 14일까지 제출하지 못할 상황이 발생하였습니다.(반기검토 보고서 미첨부시 반기보고서도 미제출 됨) 당사는 당사 감사의 요청에 따라 진행 중인 외부조사 및 외부감사인의 완전성 검토 절차가 완료되는 즉시, 외부감사인의 검토의견을 반영한 반기보고서 및 반기검토보고서를 지체없이 공시하도록 하겠습니다. | 
+
+
+3. 결정(확인)일자 | 
+2026-08-14 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+
+
+- 반기보고서 제출 계획(예정) ① 당사 감사 요청에 따른 외부조사기관의 조사 결과 확정 : 2026년 8월 20~21일경 ② 외부감사인의 완전성 검토 및 반기검토의견 형성 : 상기 ①항 완료 후 2026년 8월 24~25일경 ③ 반기검토보고서를 포함한 반기보고서 작성 및 제출 : 상기 ②항 완료 즉시, 지체없이 제출예정 ※ 상기 일정은 현재 시점에서 예상되는 진행 계획이며, 외부조사기관 및 외부감사인의 절차 진행 상황에 따라 변동될 수 있습니다. 당사는 진행 상황에 중요한 변동이 있을 경우 지체없이 추가로 안내드리겠습니다. | 
+
+
+※ 관련공시 | 
+- |
