@@ -69,6 +69,15 @@ def body(rcp):
             try: t += "\n" + _clean(req(f"{BASE}/report/viewer.do?rcpNo={a[0]}&dcmNo={dcm}&eleId={ele}&offset={off}&length={ln}&dtd={dtd}"))
             except Exception: pass
     return t[:30000]
+def body_all(rcp, cap=120000):
+    m = req(f"{BASE}/dsaf001/main.do?rcpNo={rcp}")
+    nodes = re.findall(r"node\d+\['dcmNo'\] = \"(\d+)\";\s*node\d+\['eleId'\] = \"(\d+)\";\s*node\d+\['offset'\] = \"(\d+)\";\s*node\d+\['length'\] = \"(\d+)\";\s*node\d+\['dtd'\] = \"([^\"]*)\"", m)
+    t = ""
+    for dcm, ele, off, ln, dtd in nodes:
+        if len(t) > cap: break
+        try: t += "\n### " + ele + "\n" + _clean(req(f"{BASE}/report/viewer.do?rcpNo={rcp}&dcmNo={dcm}&eleId={ele}&offset={off}&length={ln}&dtd={dtd}"))
+        except Exception: pass
+    return t[:cap] if t else body(rcp)
 def want(title):
     k = "over" if re.search(OVER, title) else ("imp" if re.search(IMPORTANT, title) else "")
     return k, (k != "" and not re.search(SKIP_BODY, title))
@@ -211,5 +220,6 @@ if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "section":
 if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "body":
     os.makedirs("data/dart/body", exist_ok=True)
     for rc in sys.argv[2].split(","):
-        try: open(f"data/dart/body/{rc}.txt", "w").write(body(rc)); print("받음", rc)
+        full = rc.endswith("*"); rc = rc.rstrip("*")   # 끝에 * 붙이면 목차 칸 전부(세부변동내역 같은 뒤쪽 표까지) 받음
+        try: open(f"data/dart/body/{rc}.txt", "w").write(body_all(rc) if full else body(rc)); print("받음", rc, "전부" if full else "")
         except Exception as e: print("실패", rc, e)
