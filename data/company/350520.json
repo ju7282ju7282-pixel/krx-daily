@@ -1,6 +1,43 @@
 {
 "code": "350520",
-"ok": false,
-"error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)'))",
-"got": "2026-10-23"
+"got": "2026-10-24",
+"src": "네이버 증권 기업실사(wisereport, FnGuide 자료)",
+"wics": "부동산",
+"name": "이지스레지던스리츠",
+"summary_asof": "2026.10.23",
+"summary": [],
+"holders": [
+{
+"name": "코람코주택도시기금위탁관리부동산투자회사",
+"shares": "5,827,585",
+"pct": "15.81"
+},
+{
+"name": "코람코자산운용",
+"shares": "3,819,006",
+"pct": "10.36"
+},
+{
+"name": "이지스자산운용",
+"shares": "1,866,830",
+"pct": "5.06"
+},
+{
+"name": "삼성증권",
+"shares": "1,843,513",
+"pct": "5.00"
+}
+],
+"holders_asof": "2026.10.23",
+"본사주소": "서울특별시 영등포구 여의공원로 115, 14층",
+"설립일": "2020/02/03",
+"대표이사": "이승환",
+"계열": "",
+"종업원수": "(2026/06)",
+"발행주식수(보통/우선)": "36,866,202 주 / 0 주",
+"상장일": "2020/08/05",
+"sales": [],
+"sales_asof": "",
+"history": [],
+"ok": true
 }

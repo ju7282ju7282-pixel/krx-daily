@@ -1,6 +1,6 @@
 {
 "code": "175330",
 "ok": false,
-"error": "URLError(TimeoutError('timed out'))",
-"got": "2026-10-22"
+"error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)'))",
+"got": "2026-10-24"
 }

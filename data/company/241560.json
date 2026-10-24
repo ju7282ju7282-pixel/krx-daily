@@ -1,6 +1,85 @@
 {
 "code": "241560",
-"ok": false,
-"error": "URLError(TimeoutError('timed out'))",
-"got": "2026-10-22"
+"got": "2026-10-24",
+"src": "네이버 증권 기업실사(wisereport, FnGuide 자료)",
+"wics": "기계",
+"name": "두산밥캣",
+"summary_asof": "2026.09.06",
+"summary": [
+"동사는 2014년 설립되어 2016년 상장된 외국기업지배지주회사로, 북미 등 25개 종속회사를 보유하고 있음.",
+"Compact Equipment, Portable Power, Material Handling 제품군과 건설기계용 유압부품을 생산하며 Construction Equipment 및 유압기기 사업을 영위함.",
+"전동화 및 스마트 기술이 결합된 유압부품 개발과 농업/조경 산업 다각화를 통해 미래 성장 기반을 마련하고 있음."
+],
+"holders": [
+{
+"name": "두산에너빌리티 외 4인",
+"shares": "46,240,370",
+"pct": "48.24"
+},
+{
+"name": "국민연금공단",
+"shares": "6,060,455",
+"pct": "6.32"
+},
+{
+"name": "Silchester International Investors LLP",
+"shares": "4,836,557",
+"pct": "5.05"
+},
+{
+"name": "Pzena Investment Management,LLC",
+"shares": "4,832,004",
+"pct": "5.04"
+}
+],
+"holders_asof": "2026.10.23",
+"본사주소": "서울특별시 중구 장충단로 275 (을지로6가, 두산타워빌딩)",
+"설립일": "2014/04/25",
+"대표이사": "스캇성철박",
+"계열": "두산",
+"종업원수": "167 (2026/06)",
+"발행주식수(보통/우선)": "95,856,065 주 / 0 주",
+"상장일": "2016/11/18",
+"sales": [
+{
+"item": "Compact 건설기계",
+"pct": "77.59"
+},
+{
+"item": "산업차량",
+"pct": "14.80"
+},
+{
+"item": "Portable Power",
+"pct": "4.57"
+},
+{
+"item": "유압기기",
+"pct": "3.04"
+}
+],
+"sales_asof": "2026/06",
+"history": [
+{
+"ym": "2026/06",
+"t": "DOOSAN BOBCAT FRANCE S.A.S가 DOOSAN BOBCAT HOLDINGS FRANCE S.A.S를 흡수합병"
+},
+{
+"ym": "2026/03",
+"t": "경영진의 변동 : 사외이사 윤재원 신규선임 / 대표이사 스캇성철박 재선임 / 사외이사 최지광, 사외이사 남유선 사임"
+},
+{
+"ym": "2026/02",
+"t": "JSC DOOSAN INTERNATIONAL RUSSIA 가 청산"
+},
+{
+"ym": "2025/03",
+"t": "경영진의 변동: 사외이사 김무겸 신규선임/ 사외이사 국경복 사임"
+},
+{
+"ym": "2024/10",
+"t": "두산밥캣(주)가 두산모트롤(주)(구,(주)모트롤)의 지분 100%를 취득"
+}
+],
+"ok": true
 }
