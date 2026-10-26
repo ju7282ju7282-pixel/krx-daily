@@ -142,9 +142,11 @@ def company(names, years=10):   # 10/26 현주님 "3년이 없으면 5년으로�
         if os.path.exists(fo):
             try: old = {x["rcpNo"]: x["body"] for x in json.load(open(fo)).get("rows", []) if x.get("body")}
             except Exception: old = {}
+        nsil = sum(1 for r in rows if r["title"].startswith("증권발행실적보고서"))   # 10/27: 증권사는 ELS 등 실적보고서가 수천 건 → 시간을 다 써서 같은 묶음 다른 회사 본문을 못 받음(교보증권 1,904건 → 비케이홀딩스 0건)
         for r in rows:
             r["code"] = code; r["kind"], getb = want(r["title"])
             if r["rcpNo"] in old: r["body"] = old[r["rcpNo"]]; continue
+            if nsil > 30 and r["title"].startswith("증권발행실적보고서"): r["body_skip"] = "증권발행실적보고서가 많은 회사(파생결합증권·회사채 등) — 본문 생략"; continue
             if getb and r["kind"] == "over":   # 회사별 3년은 오버행 공시 본문만(시간 아끼기) — 중요 공시는 제목만
                 try: r["body"] = body(r["rcpNo"])
                 except Exception as e: r["body_error"] = repr(e)[:200]
