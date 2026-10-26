@@ -20,8 +20,8 @@ for c in codes:
     h = get(f"https://finance.naver.com/item/sise_day.naver?code={c}&page=1")
     o["sise_day"] = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", h))[:1500]
     o["siseJson_range"] = get(f"https://api.finance.naver.com/siseJson.naver?symbol={c}&requestType=1&startTime=20261020&endTime={d8}&timeframe=day")[:900]
-    mm = get(f"https://fchart.stock.naver.com/sise.nhn?symbol={c}&timeframe=minute&count=420&requestType=0")
-    o["minute_1525_1700"] = [x for x in re.findall(r'data="([^"]+)"', mm) if x[8:12] >= "1525" and x[8:12] <= "1700"][:40] if not mm.startswith("ERR") else mm
+    mm = get(f"https://fchart.stock.naver.com/sise.nhn?symbol={c}&timeframe=minute&count=3000&requestType=0")
+    o["minute_1525_1700"] = [x for x in re.findall(r'data="([^"]+)"', mm) if x[:8] >= "20261022" and ("1528" <= x[8:12] <= "1602" or x[8:12] >= "1955")] if not mm.startswith("ERR") else mm
     o["minute_head"] = mm[:300]
     o["integration"] = get(f"https://m.stock.naver.com/api/stock/{c}/integration")[:1200]
     out[c] = o
