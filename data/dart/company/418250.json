@@ -1,7 +1,7 @@
 {
 "code": "418250",
 "name": "시큐레터",
-"from": "2023-10-28",
+"from": "2016-10-29",
 "to": "2026-10-26",
 "rows": [
 {
@@ -1316,6 +1316,161 @@
 "title": "분기보고서",
 "by": "시큐레터",
 "date": "2023-11-13",
+"code": "418250",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230925000045",
+"title": "주식등의대량보유상황보고서(약식)",
+"by": "아이엠엠인베스트먼트",
+"date": "2023-09-25",
+"code": "418250",
+"kind": "imp"
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230925000020",
+"title": "주식등의대량보유상황보고서(약식)",
+"by": "아이엠엠인베스트먼트",
+"date": "2023-09-25",
+"code": "418250",
+"kind": "imp"
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230831000160",
+"title": "임원ㆍ주요주주특정증권등소유상황보고서",
+"by": "임차성",
+"date": "2023-08-31",
+"code": "418250",
+"kind": "imp"
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230831000134",
+"title": "주식등의대량보유상황보고서(일반)",
+"by": "임차성",
+"date": "2023-08-31",
+"code": "418250",
+"kind": "imp"
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230830001225",
+"title": "주식등의대량보유상황보고서(약식)",
+"by": "아이엠엠인베스트먼트",
+"date": "2023-08-30",
+"code": "418250",
+"kind": "imp"
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230830001089",
+"title": "주식등의대량보유상황보고서(약식)",
+"by": "포레스트벤처스",
+"date": "2023-08-30",
+"code": "418250",
+"kind": "imp"
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230818000191",
+"title": "증권발행실적보고서",
+"by": "시큐레터",
+"date": "2023-08-18",
+"code": "418250",
+"kind": "over",
+"body": "증권발행실적보고서 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n금융감독원장 귀하 \r\n2023 년 08 월 18 일 \r\n\r\n\r\n\r\n\r\n\r\n\r\n회 사 명 : \r\n시큐레터 주식회사 \r\n\r\n\r\n대 표 이 사 : \r\n임 차 성 \r\n\r\n\r\n본 점 소 재 지 : \r\n(도로명주소) 경기도 성남시 수정구 금토로80번길11, 14층 \r\n\r\n\r\n\r\n(전 화) 031-608-8866 \r\n\r\n\r\n\r\n(홈페이지) http://www.seculetter.com/ \r\n\r\n\r\n\r\n\r\n\r\n\r\n작 성 책 임 자 : \r\n(직 책) 부사장 (성 명) 이 윤 수 \r\n\r\n\r\n\r\n(전 화) 031-608-8866\n증권발행실적보고서 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n금융감독원장 귀하 \r\n2023 년 08 월 18 일 \r\n\r\n\r\n\r\n\r\n\r\n\r\n회 사 명 : \r\n시큐레터 주식회사 \r\n\r\n\r\n대 표 이 사 : \r\n임 차 성 \r\n\r\n\r\n본 점 소 재 지 : \r\n(도로명주소) 경기도 성남시 수정구 금토로80번길11, 14층 \r\n\r\n\r\n\r\n(전 화) 031-608-8866 \r\n\r\n\r\n\r\n(홈페이지) http://www.seculetter.com/ \r\n\r\n\r\n\r\n\r\n\r\n\r\n작 성 책 임 자 : \r\n(직 책) 부사장 (성 명) 이 윤 수 \r\n\r\n\r\n\r\n(전 화) 031-608-8866\nⅠ. 발행개요 \r\n1. 기업개요 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n상장구분 \r\n기업규모 \r\n업종구분 \r\n\r\n\r\n\r\n\r\n코스닥 \r\n중소기업 \r\n컴퓨터 프로그래밍, 시스템 통합 및 관리업 \r\n\r\n\r\n\r\n\r\n\r\n2. 발행 개요 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n(단위 : 원) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n구분 \r\n발행총액 \r\n비고 \r\n\r\n\r\n\r\n\r\n기업공개 \r\n16,006,620,000 \r\n- \r\n\r\n\r\n\r\n주) 상장주선인 의무인수분은 40,017주로 의무인수금액 480,204,000원이 제외된 금액입니다.\nⅡ. 청약 및 배정에 관한 사항 \r\n1. 청약 및 납입일정 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n구분 \r\n청약개시일 \r\n청약종료일 \r\n납입기일 \r\n\r\n\r\n\r\n\r\n코스닥시장 공모 \r\n2023년 08월 14일 \r\n2023년 08월 16일 \r\n2023년 08월 18일 \r\n\r\n\r\n\r\n\r\n\r\n2. 인수기관별 인수금액 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n(단위 : 원) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n인수기관 \r\n인수수량 \r\n인수금액 \r\n비 율(%) \r\n비 고 \r\n\r\n\r\n\r\n\r\n대신증권 \r\n1,333,885 \r\n16,006,620,000 \r\n100.00 \r\n대표주관회사 \r\n\r\n\r\n계 \r\n1,333,885 \r\n16,006,620,000 \r\n100.00 \r\n대표주관회사 \r\n\r\n\r\n\r\n\r\n\r\n3. 청약 및 배정현황 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n(단위 : 원, 주, %) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n구 분 \r\n최초 배정 \r\n청약 현황 \r\n최종 배정 현황 \r\n\r\n\r\n수량 \r\n비율 \r\n건수 \r\n수량 \r\n금액 \r\n비율 \r\n건수 \r\n수량 \r\n금액 \r\n비율 \r\n\r\n\r\n\r\n\r\n우리사주조합 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n- \r\n- \r\n- \r\n- \r\n- \r\n\r\n\r\n기관투자자 \r\n1,000,414 \r\n75.00 \r\n1,770 \r\n1,000,414 \r\n12,004,968,000 \r\n0.35 \r\n1,770 \r\n1,000,414 \r\n12,004,968,000 \r\n75 \r\n\r\n\r\n일반투자자 \r\n333,471 \r\n25.00 \r\n189,688 \r\n566,369,540 \r\n3,398,217,240,000 \r\n99.65 \r\n171,829 \r\n333,471 \r\n4,001,652,000 \r\n25 \r\n\r\n\r\n계 \r\n1,333,885 \r\n100 \r\n191,458 \r\n567,369,954 \r\n3,410,222,208,000 \r\n100 \r\n173,599 \r\n1,333,885 \r\n16,006,620,000 \r\n100 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n주) \r\n금번 공모 시 「증권 인수업무 등에 관한 규정」제9조의2에 의거 관계인수인으로 구분되는 기관은 수요예측시 가격제시를 하지 않았으며, 대표주관회사인 대신증권㈜를 자기 또는 관계인수인으로 하는 집합투자회사등에게 기관투자자 배정 수량의 1.0% 이내로 배정하였습니다. \r\n\r\n\r\n\r\n\r\n4. 일반투자자 배정방식별 배정현황 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n(단위 : 주, %) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n구분 \r\n배정수량(주) \r\n비중(%) \r\n균등방식 유형 \r\n\r\n\r\n\r\n\r\n균등방식 \r\n166,736 \r\n50 \r\n일괄청약방식 \r\n\r\n\r\n비례방식 \r\n166,735 \r\n50 \r\n- \r\n\r\n\r\n계 \r\n333,471 \r\n100.00 \r\n- \r\n\r\n\r\n\r\n\r\n[일반투자자 세부 배정 현황] \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n청약현황 \r\n배정현황 \r\n총 배정수량 (D=B+C) \r\n배정비율 (D/A) \r\n\r\n\r\n균등방식 \r\n비례방식 \r\n\r\n\r\n청약단위 \r\n청약건수 \r\n청약수량(A) \r\n배정건수 \r\n1건당 배정건수수량 \r\n추가 배정건수 \r\n1건당 추가배정수량 \r\n균등 배정수량(B) \r\n배정건수 \r\n1건당 배정건수수량 \r\n추가 배정건수 \r\n1건당 추가배정수량 \r\n비례 배정수량(C) \r\n\r\n\r\n\r\n\r\n20 \r\n129,022 \r\n2,580,440 \r\n- \r\n- \r\n113,230 \r\n1 \r\n113,230 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n113,230 \r\n0.04 \r\n\r\n\r\n30 \r\n2,633 \r\n78,990 \r\n- \r\n- \r\n2,329 \r\n1 \r\n2,329 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n2,329 \r\n0.03 \r\n\r\n\r\n40 \r\n1,335 \r\n53,400 \r\n- \r\n- \r\n1,188 \r\n1 \r\n1,188 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n1,188 \r\n0.02 \r\n\r\n\r\n50 \r\n1,487 \r\n74,350 \r\n- \r\n- \r\n1,297 \r\n1 \r\n1,297 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n1,297 \r\n0.02 \r\n\r\n\r\n60 \r\n549 \r\n32,940 \r\n- \r\n- \r\n481 \r\n1 \r\n481 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n481 \r\n0.01 \r\n\r\n\r\n70 \r\n284 \r\n19,880 \r\n- \r\n- \r\n239 \r\n1 \r\n239 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n239 \r\n0.01 \r\n\r\n\r\n80 \r\n390 \r\n31,200 \r\n- \r\n- \r\n348 \r\n1 \r\n348 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n348 \r\n0.01 \r\n\r\n\r\n90 \r\n216 \r\n19,440 \r\n- \r\n- \r\n199 \r\n1 \r\n199 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n199 \r\n0.01 \r\n\r\n\r\n100 \r\n1,589 \r\n158,900 \r\n- \r\n- \r\n1,432 \r\n1 \r\n1,432 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n1,432 \r\n0.01 \r\n\r\n\r\n150 \r\n828 \r\n124,200 \r\n- \r\n- \r\n734 \r\n1 \r\n734 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n734 \r\n0.01 \r\n\r\n\r\n200 \r\n764 \r\n152,800 \r\n- \r\n- \r\n674 \r\n1 \r\n674 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n674 \r\n0.00 \r\n\r\n\r\n250 \r\n241 \r\n60,250 \r\n- \r\n- \r\n202 \r\n1 \r\n202 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n202 \r\n0.00 \r\n\r\n\r\n300 \r\n420 \r\n126,000 \r\n- \r\n- \r\n362 \r\n1 \r\n362 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n362 \r\n0.00 \r\n\r\n\r\n350 \r\n145 \r\n50,750 \r\n- \r\n- \r\n131 \r\n1 \r\n131 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n131 \r\n0.00 \r\n\r\n\r\n400 \r\n175 \r\n70,000 \r\n- \r\n- \r\n155 \r\n1 \r\n155 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n155 \r\n0.00 \r\n\r\n\r\n450 \r\n74 \r\n33,300 \r\n- \r\n- \r\n60 \r\n1 \r\n60 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n60 \r\n0.00 \r\n\r\n\r\n500 \r\n421 \r\n210,500 \r\n- \r\n- \r\n365 \r\n1 \r\n365 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n365 \r\n0.00 \r\n\r\n\r\n600 \r\n200 \r\n120,000 \r\n- \r\n- \r\n174 \r\n1 \r\n174 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n174 \r\n0.00 \r\n\r\n\r\n700 \r\n126 \r\n88,200 \r\n- \r\n- \r\n113 \r\n1 \r\n113 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n113 \r\n0.00 \r\n\r\n\r\n800 \r\n198 \r\n158,400 \r\n- \r\n- \r\n181 \r\n1 \r\n181 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n181 \r\n0.00 \r\n\r\n\r\n900 \r\n95 \r\n85,500 \r\n- \r\n- \r\n83 \r\n1 \r\n83 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n83 \r\n0.00 \r\n\r\n\r\n1,000 \r\n375 \r\n375,000 \r\n- \r\n- \r\n331 \r\n1 \r\n331 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n331 \r\n0.00 \r\n\r\n\r\n1,200 \r\n217 \r\n260,400 \r\n- \r\n- \r\n193 \r\n1 \r\n193 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n193 \r\n0.00 \r\n\r\n\r\n1,400 \r\n161 \r\n225,400 \r\n- \r\n- \r\n139 \r\n1 \r\n139 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n139 \r\n0.00 \r\n\r\n\r\n1,600 \r\n360 \r\n576,000 \r\n- \r\n- \r\n324 \r\n1 \r\n324 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n324 \r\n0.00 \r\n\r\n\r\n1,800 \r\n221 \r\n397,800 \r\n- \r\n- \r\n191 \r\n1 \r\n191 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n191 \r\n0.00 \r\n\r\n\r\n2,000 \r\n566 \r\n1,132,000 \r\n- \r\n- \r\n489 \r\n1 \r\n489 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n489 \r\n0.00 \r\n\r\n\r\n2,200 \r\n842 \r\n1,852,400 \r\n- \r\n- \r\n739 \r\n1 \r\n739 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n739 \r\n0.00 \r\n\r\n\r\n2,400 \r\n2,505 \r\n6,012,000 \r\n- \r\n- \r\n2,197 \r\n1 \r\n2,197 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n2,197 \r\n0.00 \r\n\r\n\r\n2,600 \r\n4,142 \r\n10,769,200 \r\n- \r\n- \r\n3,653 \r\n1 \r\n3,653 \r\n- \r\n- \r\n4,142 \r\n1 \r\n4,142 \r\n7,795 \r\n0.00 \r\n\r\n\r\n2,800 \r\n541 \r\n1,514,800 \r\n- \r\n- \r\n487 \r\n1 \r\n487 \r\n541 \r\n1 \r\n- \r\n- \r\n541 \r\n1,028 \r\n0.00 \r\n\r\n\r\n3,000 \r\n422 \r\n1,266,000 \r\n- \r\n- \r\n372 \r\n1 \r\n372 \r\n422 \r\n1 \r\n- \r\n- \r\n422 \r\n794 \r\n0.00 \r\n\r\n\r\n3,200 \r\n288 \r\n921,600 \r\n- \r\n- \r\n251 \r\n1 \r\n251 \r\n288 \r\n1 \r\n- \r\n- \r\n288 \r\n539 \r\n0.00 \r\n\r\n\r\n3,400 \r\n239 \r\n812,600 \r\n- \r\n- \r\n203 \r\n1 \r\n203 \r\n239 \r\n1 \r\n- \r\n- \r\n239 \r\n442 \r\n0.00 \r\n\r\n\r\n3,600 \r\n227 \r\n817,200 \r\n- \r\n- \r\n202 \r\n1 \r\n202 \r\n227 \r\n1 \r\n- \r\n- \r\n227 \r\n429 \r\n0.00 \r\n\r\n\r\n3,800 \r\n117 \r\n444,600 \r\n- \r\n- \r\n105 \r\n1 \r\n105 \r\n117 \r\n1 \r\n- \r\n- \r\n117 \r\n222 \r\n0.00 \r\n\r\n\r\n4,000 \r\n279 \r\n1,116,000 \r\n- \r\n- \r\n241 \r\n1 \r\n241 \r\n279 \r\n1 \r\n- \r\n- \r\n279 \r\n520 \r\n0.00 \r\n\r\n\r\n4,200 \r\n133 \r\n558,600 \r\n- \r\n- \r\n117 \r\n1 \r\n117 \r\n133 \r\n1 \r\n- \r\n- \r\n133 \r\n250 \r\n0.00 \r\n\r\n\r\n4,400 \r\n90 \r\n396,000 \r\n- \r\n- \r\n82 \r\n1 \r\n82 \r\n90 \r\n1 \r\n- \r\n- \r\n90 \r\n172 \r\n0.00 \r\n\r\n\r\n4,600 \r\n123 \r\n565,800 \r\n- \r\n- \r\n104 \r\n1 \r\n104 \r\n123 \r\n1 \r\n- \r\n- \r\n123 \r\n227 \r\n0.00 \r\n\r\n\r\n4,800 \r\n109 \r\n523,200 \r\n- \r\n- \r\n95 \r\n1 \r\n95 \r\n109 \r\n1 \r\n- \r\n- \r\n109 \r\n204 \r\n0.00 \r\n\r\n\r\n5,000 \r\n559 \r\n2,795,000 \r\n- \r\n- \r\n490 \r\n1 \r\n490 \r\n559 \r\n1 \r\n- \r\n- \r\n559 \r\n1,049 \r\n0.00 \r\n\r\n\r\n5,500 \r\n523 \r\n2,876,500 \r\n- \r\n- \r\n462 \r\n1 \r\n462 \r\n523 \r\n1 \r\n- \r\n- \r\n523 \r\n985 \r\n0.00 \r\n\r\n\r\n6,000 \r\n2,435 \r\n14,610,000 \r\n- \r\n- \r\n2,145 \r\n1 \r\n2,145 \r\n2,435 \r\n1 \r\n2,435 \r\n1 \r\n4,870 \r\n7,015 \r\n0.00 \r\n\r\n\r\n6,500 \r\n653 \r\n4,244,500 \r\n- \r\n- \r\n576 \r\n1 \r\n576 \r\n653 \r\n2 \r\n- \r\n- \r\n1,306 \r\n1,882 \r\n0.00 \r\n\r\n\r\n7,000 \r\n447 \r\n3,129,000 \r\n- \r\n- \r\n394 \r\n1 \r\n394 \r\n447 \r\n2 \r\n- \r\n- \r\n894 \r\n1,288 \r\n0.00 \r\n\r\n\r\n7,500 \r\n257 \r\n1,927,500 \r\n- \r\n- \r\n223 \r\n1 \r\n223 \r\n257 \r\n2 \r\n- \r\n- \r\n514 \r\n737 \r\n0.00 \r\n\r\n\r\n8,000 \r\n541 \r\n4,328,000 \r\n- \r\n- \r\n468 \r\n1 \r\n468 \r\n541 \r\n2 \r\n- \r\n- \r\n1,082 \r\n1,550 \r\n0.00 \r\n\r\n\r\n8,500 \r\n393 \r\n3,340,500 \r\n- \r\n- \r\n355 \r\n1 \r\n355 \r\n393 \r\n2 \r\n- \r\n- \r\n786 \r\n1,141 \r\n0.00 \r\n\r\n\r\n9,000 \r\n540 \r\n4,860,000 \r\n- \r\n- \r\n478 \r\n1 \r\n478 \r\n540 \r\n2 \r\n- \r\n- \r\n1,080 \r\n1,558 \r\n0.00 \r\n\r\n\r\n9,500 \r\n1,332 \r\n12,654,000 \r\n- \r\n- \r\n1,171 \r\n1 \r\n1,171 \r\n1,332 \r\n2 \r\n1,332 \r\n1 \r\n3,996 \r\n5,167 \r\n0.00 \r\n\r\n\r\n10,000 \r\n568 \r\n5,680,000 \r\n- \r\n- \r\n500 \r\n1 \r\n500 \r\n568 \r\n3 \r\n- \r\n- \r\n1,704 \r\n2,204 \r\n0.00 \r\n\r\n\r\n10,500 \r\n236 \r\n2,478,000 \r\n- \r\n- \r\n200 \r\n1 \r\n200 \r\n236 \r\n3 \r\n- \r\n- \r\n708 \r\n908 \r\n0.00 \r\n\r\n\r\n11,000 \r\n259 \r\n2,849,000 \r\n- \r\n- \r\n226 \r\n1 \r\n226 \r\n259 \r\n3 \r\n- \r\n- \r\n777 \r\n1,003 \r\n0.00 \r\n\r\n\r\n11,500 \r\n250 \r\n2,875,000 \r\n- \r\n- \r\n218 \r\n1 \r\n218 \r\n250 \r\n3 \r\n- \r\n- \r\n750 \r\n968 \r\n0.00 \r\n\r\n\r\n12,000 \r\n314 \r\n3,768,000 \r\n- \r\n- \r\n276 \r\n1 \r\n276 \r\n314 \r\n3 \r\n- \r\n- \r\n942 \r\n1,218 \r\n0.00 \r\n\r\n\r\n12,500 \r\n372 \r\n4,650,000 \r\n- \r\n- \r\n327 \r\n1 \r\n327 \r\n372 \r\n3 \r\n- \r\n- \r\n1,116 \r\n1,443 \r\n0.00 \r\n\r\n\r\n13,000 \r\n1,379 \r\n17,927,000 \r\n- \r\n- \r\n1,223 \r\n1 \r\n1,223 \r\n1,379 \r\n4 \r\n- \r\n- \r\n5,516 \r\n6,739 \r\n0.00 \r\n\r\n\r\n13,500 \r\n256 \r\n3,456,000 \r\n- \r\n- \r\n231 \r\n1 \r\n231 \r\n256 \r\n4 \r\n- \r\n- \r\n1,024 \r\n1,255 \r\n0.00 \r\n\r\n\r\n14,000 \r\n811 \r\n11,354,000 \r\n- \r\n- \r\n712 \r\n1 \r\n712 \r\n811 \r\n4 \r\n- \r\n- \r\n3,244 \r\n3,956 \r\n0.00 \r\n\r\n\r\n14,500 \r\n230 \r\n3,335,000 \r\n- \r\n- \r\n212 \r\n1 \r\n212 \r\n230 \r\n4 \r\n- \r\n- \r\n920 \r\n1,132 \r\n0.00 \r\n\r\n\r\n15,000 \r\n507 \r\n7,605,000 \r\n- \r\n- \r\n451 \r\n1 \r\n451 \r\n507 \r\n4 \r\n- \r\n- \r\n2,028 \r\n2,479 \r\n0.00 \r\n\r\n\r\n15,500 \r\n401 \r\n6,215,500 \r\n- \r\n- \r\n350 \r\n1 \r\n350 \r\n401 \r\n4 \r\n- \r\n- \r\n1,604 \r\n1,954 \r\n0.00 \r\n\r\n\r\n16,000 \r\n21,077 \r\n337,232,000 \r\n- \r\n- \r\n18,602 \r\n1 \r\n18,602 \r\n21,077 \r\n4 \r\n20,704 \r\n1 \r\n105,012 \r\n123,614 \r\n0.00 \r\n\r\n\r\n16,500 \r\n29 \r\n478,500 \r\n- \r\n- \r\n29 \r\n1 \r\n29 \r\n29 \r\n5 \r\n- \r\n- \r\n145 \r\n174 \r\n0.00 \r\n\r\n\r\n17,000 \r\n20 \r\n340,000 \r\n- \r\n- \r\n20 \r\n1 \r\n20 \r\n20 \r\n5 \r\n- \r\n- \r\n100 \r\n120 \r\n0.00 \r\n\r\n\r\n17,500 \r\n9 \r\n157,500 \r\n- \r\n- \r\n6 \r\n1 \r\n6 \r\n9 \r\n5 \r\n- \r\n- \r\n45 \r\n51 \r\n0.00 \r\n\r\n\r\n18,000 \r\n11 \r\n198,000 \r\n- \r\n- \r\n11 \r\n1 \r\n11 \r\n11 \r\n5 \r\n- \r\n- \r\n55 \r\n66 \r\n0.00 \r\n\r\n\r\n18,500 \r\n9 \r\n166,500 \r\n- \r\n- \r\n8 \r\n1 \r\n8 \r\n9 \r\n5 \r\n- \r\n- \r\n45 \r\n53 \r\n0.00 \r\n\r\n\r\n19,000 \r\n6 \r\n114,000 \r\n- \r\n- \r\n6 \r\n1 \r\n6 \r\n6 \r\n5 \r\n- \r\n- \r\n30 \r\n36 \r\n0.00 \r\n\r\n\r\n19,500 \r\n15 \r\n292,500 \r\n- \r\n- \r\n12 \r\n1 \r\n12 \r\n15 \r\n5 \r\n15 \r\n1 \r\n90 \r\n102 \r\n0.00 \r\n\r\n\r\n20,000 \r\n26 \r\n520,000 \r\n- \r\n- \r\n24 \r\n1 \r\n24 \r\n26 \r\n6 \r\n- \r\n- \r\n156 \r\n180 \r\n0.00 \r\n\r\n\r\n21,000 \r\n14 \r\n294,000 \r\n- \r\n- \r\n13 \r\n1 \r\n13 \r\n14 \r\n6 \r\n- \r\n- \r\n84 \r\n97 \r\n0.00 \r\n\r\n\r\n22,000 \r\n10 \r\n220,000 \r\n- \r\n- \r\n9 \r\n1 \r\n9 \r\n10 \r\n6 \r\n- \r\n- \r\n60 \r\n69 \r\n0.00 \r\n\r\n\r\n23,000 \r\n29 \r\n667,000 \r\n- \r\n- \r\n27 \r\n1 \r\n27 \r\n29 \r\n6 \r\n29 \r\n1 \r\n203 \r\n230 \r\n0.00 \r\n\r\n\r\n24,000 \r\n8 \r\n192,000 \r\n- \r\n- \r\n8 \r\n1 \r\n8 \r\n8 \r\n7 \r\n- \r\n- \r\n56 \r\n64 \r\n0.00 \r\n\r\n\r\n25,000 \r\n16 \r\n400,000 \r\n- \r\n- \r\n16 \r\n1 \r\n16 \r\n16 \r\n7 \r\n- \r\n- \r\n112 \r\n128 \r\n0.00 \r\n\r\n\r\n26,000 \r\n17 \r\n442,000 \r\n- \r\n- \r\n15 \r\n1 \r\n15 \r\n17 \r\n7 \r\n- \r\n- \r\n119 \r\n134 \r\n0.00 \r\n\r\n\r\n27,000 \r\n18 \r\n486,000 \r\n- \r\n- \r\n16 \r\n1 \r\n16 \r\n18 \r\n8 \r\n- \r\n- \r\n144 \r\n160 \r\n0.00 \r\n\r\n\r\n28,000 \r\n21 \r\n588,000 \r\n- \r\n- \r\n16 \r\n1 \r\n16 \r\n21 \r\n8 \r\n- \r\n- \r\n168 \r\n184 \r\n0.00 \r\n\r\n\r\n29,000 \r\n11 \r\n319,000 \r\n- \r\n- \r\n11 \r\n1 \r\n11 \r\n11 \r\n8 \r\n- \r\n- \r\n88 \r\n99 \r\n0.00 \r\n\r\n\r\n30,000 \r\n144 \r\n4,320,000 \r\n- \r\n- \r\n126 \r\n1 \r\n126 \r\n144 \r\n9 \r\n- \r\n- \r\n1,296 \r\n1,422 \r\n0.00 \r\n\r\n\r\n31,000 \r\n33 \r\n1,023,000 \r\n- \r\n- \r\n33 \r\n1 \r\n33 \r\n33 \r\n9 \r\n- \r\n- \r\n297 \r\n330 \r\n0.00 \r\n\r\n\r\n32,000 \r\n1,753 \r\n56,096,000 \r\n- \r\n- \r\n1,548 \r\n1 \r\n1,548 \r\n1,753 \r\n9 \r\n- \r\n- \r\n15,777 \r\n17,325 \r\n0.00 \r\n\r\n\r\n합계 \r\n189,688 \r\n566,369,540 \r\n- \r\n- \r\n166,736 \r\n- \r\n166,736 \r\n39,107 \r\n- \r\n28,657 \r\n- \r\n166,735 \r\n333,471 \r\n- \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n주1) \r\n당사는 일반배정물량 333,471주를 균등배정 166,736주(50.0%), 비례배정 166,735주(50.0%)으로 배정하였습니다. \r\n\r\n\r\n주2) \r\n균등배정에서는 총 청약 건수 189,688건 전체 청약단위 대상으로 무작위 추첨배정하였습니다. \r\n\r\n\r\n주3) \r\n비례배정에서는 잔여 청약증거금 기준 비례배정을 진행하여 잔여주를 최소화하는 방법(7사8입)으로 안분배정 하였습니다. 비례 잔여주식 28,657주의 경우, 소수점이 높은 청약단위(7사8입 적용으로 1주 추가 배정받은 청약단위 제외) 부터 순차적으로 추첨배정하였습니다. \r\n\r\n\r\n\r\n\r\n5. 기관투자자 의무보유확약기간별 배정현황 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n(단위 : 주, %) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n확약기간 \r\n국내 기관투자자 \r\n외국 기관투자자 \r\n합계 \r\n\r\n\r\n운용사 (집합) \r\n투자매매ㆍ 중개업자 \r\n연기금,운용사(고유)은행,보험 \r\n기타 \r\n거래 실적 유 \r\n거래 실적 무 \r\n\r\n\r\n수량 \r\n비중 \r\n수량 \r\n비중 \r\n수량 \r\n비중 \r\n수량 \r\n비중 \r\n수량 \r\n비중 \r\n수량 \r\n비중 \r\n수량 \r\n비중 \r\n\r\n\r\n\r\n\r\n6개월 확약 \r\n- \r\n- \r\n1,134 \r\n2.04 \r\n- \r\n- \r\n1,134 \r\n0.18 \r\n- \r\n- \r\n- \r\n- \r\n2,268 \r\n0.23 \r\n\r\n\r\n3개월 확약 \r\n15,373 \r\n9.05 \r\n- \r\n- \r\n826 \r\n0.87 \r\n112,644 \r\n17.98 \r\n638 \r\n1.19 \r\n- \r\n- \r\n129,481 \r\n12.94 \r\n\r\n\r\n1개월 확약 \r\n431 \r\n0.25 \r\n- \r\n- \r\n2,053 \r\n2.17 \r\n5,505 \r\n0.88 \r\n- \r\n- \r\n- \r\n- \r\n7,989 \r\n0.80 \r\n\r\n\r\n2주 확약 \r\n- \r\n- \r\n- \r\n- \r\n- \r\n- \r\n260 \r\n0.04 \r\n- \r\n- \r\n- \r\n- \r\n260 \r\n0.03 \r\n\r\n\r\n미확약 \r\n154,158 \r\n90.70 \r\n54,411 \r\n97.96 \r\n91,906 \r\n96.96 \r\n506,954 \r\n80.92 \r\n52,987 \r\n98.81 \r\n- \r\n- \r\n860,416 \r\n86.00 \r\n\r\n\r\n계 \r\n169,962 \r\n100 \r\n55,545 \r\n100 \r\n94,785 \r\n100 \r\n626,497 \r\n100 \r\n53,625 \r\n100 \r\n- \r\n- \r\n1,000,414 \r\n100\nⅢ. 유상증자 전후의 주요주주 지분변동 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n(단위 : 주, %) \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n구분 \r\n주주명 \r\n\r\n증자전 \r\n\r\n\r\n증자후 \r\n\r\n\r\n비 고 \r\n\r\n\r\n\r\n\r\n주식수 \r\n\r\n\r\n지분율 \r\n\r\n\r\n주식수 \r\n\r\n\r\n지분율 \r\n\r\n\r\n\r\n\r\n\r\n\r\n최대주주등 \r\n\r\n임차성 \r\n\r\n3,164,499 \r\n\r\n\r\n48.40 \r\n\r\n\r\n3,164,499 \r\n\r\n\r\n40.00 \r\n\r\n\r\n최대주주, 대표이사 \r\n\r\n\r\n\r\n5%이상 소유주주 \r\n아이디어브릿지파트너스 UTC기술강소기업투자 1호조합 \r\n496,258 \r\n7.59 \r\n496,258 \r\n6.27 \r\n- \r\n\r\n\r\n합계 \r\n3,660,757 \r\n55.99 \r\n3,660,757 \r\n46.27 \r\n\r\n\r\n\r\n전체주식수 \r\n6,537,619 \r\n100.00 \r\n7,911,521 \r\n100.00"
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230811001361",
+"title": "투자설명서",
+"by": "시큐레터",
+"date": "2023-08-11",
+"code": "418250",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230811001329",
+"title": "증권신고서(지분증권)",
+"by": "시큐레터",
+"date": "2023-08-11",
+"code": "418250",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230809000334",
+"title": "투자설명서",
+"by": "시큐레터",
+"date": "2023-08-09",
+"code": "418250",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230718000333",
+"title": "증권신고서(지분증권)",
+"by": "시큐레터",
+"date": "2023-07-18",
+"code": "418250",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230630000532",
+"title": "증권신고서(지분증권)",
+"by": "시큐레터",
+"date": "2023-06-30",
+"code": "418250",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20230331001347",
+"title": "감사보고서",
+"by": "서현회계법인",
+"date": "2023-03-31",
+"code": "418250",
+"kind": ""
+},
+{
+"market": "KOSDAQ",
+"corp_code": "01579570",
+"corp": "시큐레터",
+"rcpNo": "20220404001389",
+"title": "감사보고서",
+"by": "서현회계법인",
+"date": "2022-04-04",
 "code": "418250",
 "kind": ""
 }
