@@ -1,6 +1,8 @@
 name: naver-daily
 on:
   workflow_dispatch:
+    inputs:
+      days: { description: "고칠 지난 날짜들(빈칸이면 오늘 스냅샷 + 고침, 날짜가 있으면 그 날짜 파일만 고침) 예: 2026-10-22 2026-10-23", default: "" }
   schedule:
     - cron: "40 7 * * 1-5"    # 한국 16:40 (장 마감 뒤)
     - cron: "10 10 * * 1-5"   # 한국 19:10 (한 번 더)
@@ -13,8 +15,13 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
-      - run: python scripts/naver_snapshot.py
-      - run: python scripts/fix_naver_day.py   # 넥스트레이드 가격이 섞이지 않게 KRX 정규장 날짜별 값으로 한 번 더 맞춤(10/23)
+      - run: |
+          if [ -n "${{ github.event.inputs.days }}" ]; then
+            for d in ${{ github.event.inputs.days }}; do python scripts/fix_naver_day.py $d; done
+          else
+            python scripts/naver_snapshot.py
+            python scripts/fix_naver_day.py   # 시간외 단일가·넥스트레이드 값이 섞이지 않게 1분 차트 15:30 줄(KRX 정규장 종가)로 맞춤(10/26 고침)
+          fi
       - run: |
           git config user.name "krx-bot"; git config user.email "krx-bot@users.noreply.github.com"
           git add data && git commit -m "네이버 종가 $(cat data/naver/latest.json)" && git pull --rebase -q && git push || echo "올릴 것 없음"
