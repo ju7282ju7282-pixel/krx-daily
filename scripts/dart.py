@@ -1,6 +1,6 @@
 # DART(전자공시) 공시 목록·본문 받기 — GitHub 에서는 DART 웹 화면이 열림(10/23 시험).
 #  python scripts/dart.py daily [날수=4]     ← 최근 며칠 코스피·코스닥 전 회사 공시 목록 + 중요한 것 본문 → data/dart/날짜.json
-#  python scripts/dart.py company 이름|코드 … [--years 3]  ← 회사별 3년 목록 + 오버행·중요 공시 본문 → data/dart/company/<코드>.json
+#  python scripts/dart.py company 이름|코드 … [--years 10]  ← 회사별 10년 목록(기본 10, 10/26 바꿈) + 오버행·중요 공시 본문 → data/dart/company/<코드>.json
 # 본문은 글자만(표는 칸 사이 ' | ')으로, 너무 긴 것(사업·반기보고서, 투자설명서 등)은 받지 않음.
 import json, os, re, sys, time, html, gzip, glob, datetime as dt, urllib.request, urllib.parse
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
@@ -128,7 +128,7 @@ def daily(days=4):
         f = f"data/dart/{d}.json"; old = json.load(open(f)) if os.path.exists(f) else []
         json.dump(old + xs, open(f, "w"), ensure_ascii=False, indent=0)
         print(d, "더함", len(xs), "본문", sum(1 for x in xs if x.get("body")))
-def company(names, years=3):
+def company(names, years=10):   # 10/26 현주님 "3년이 없으면 5년으로도 찾아봐야지" — 처음부터 10년 치
     N, nz = codes_by_name(); C = {c: n for n, c in N.items()}
     f = sorted(glob.glob("data/naver/????-??-??.json.gz"))[-1]; R = json.load(gzip.open(f))["rows"]
     end = dt.date.today() + dt.timedelta(days=1); start = end - dt.timedelta(days=365 * years)
@@ -137,8 +137,14 @@ def company(names, years=3):
         name = R.get(code, {}).get("name", a) if code else a
         rows = search(textCrpNm=name, startDate=start.strftime("%Y%m%d"), endDate=end.strftime("%Y%m%d"))
         rows = [r for r in rows if nz(r["corp"]) == nz(name)] or rows
+        old = {}   # 10/26: 전에 받아 둔 본문은 다시 받지 않음(10년 치로 늘려도 시간이 덜 걸리게)
+        fo = f"data/dart/company/{code or nz(name)}.json"
+        if os.path.exists(fo):
+            try: old = {x["rcpNo"]: x["body"] for x in json.load(open(fo)).get("rows", []) if x.get("body")}
+            except Exception: old = {}
         for r in rows:
             r["code"] = code; r["kind"], getb = want(r["title"])
+            if r["rcpNo"] in old: r["body"] = old[r["rcpNo"]]; continue
             if getb and r["kind"] == "over":   # 회사별 3년은 오버행 공시 본문만(시간 아끼기) — 중요 공시는 제목만
                 try: r["body"] = body(r["rcpNo"])
                 except Exception as e: r["body_error"] = repr(e)[:200]
