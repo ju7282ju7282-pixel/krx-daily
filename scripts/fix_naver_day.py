@@ -45,6 +45,8 @@ with ThreadPoolExecutor(8) as ex:
     for c, x in ex.map(one, list(R)):
         if not x:
             if R[c].get("missing_from_list"): del R[c]   # 그날 값이 없으면(상장폐지 등) 다시 뺌
+            elif R[c].get("stop") == "HALTED" or not R[c].get("vol"):
+                R[c]["src"] = "거래정지·거래 0(값 그대로 — 고칠 것 없음)"   # 10/26: 이런 종목이 '정규장 값 못 받음'으로 잘못 세어지던 것
             continue
         r = R[c]; r.pop("missing_from_list", None); cl = x["close"]
         vol = x["vol"]
