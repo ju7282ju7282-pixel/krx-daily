@@ -160,7 +160,11 @@ if __name__ == "__main__":
     elif a[0] == "company":
         ys = 3
         if "--years" in a: i = a.index("--years"); ys = int(a[i + 1]); a = a[:i] + a[i + 2:]
-        company([x for y in a[1:] for x in y.replace(",", " ").split()], ys)
+        bad = []
+        for x in [x for y in a[1:] for x in y.replace(",", " ").split()]:   # 10/27: 한 회사에서 오류가 나도 나머지는 계속(06:39 묶음이 4분 만에 통째로 실패)
+            try: company([x], ys)
+            except Exception as e: bad.append(x); print("실패", x, repr(e)[:300], flush=True)
+        if bad: print("못 받은 회사", bad)
 
 # ── 전환청구 모으기(10/23 현주님 "사람들은 보통 전환가보다 몇 % 위에서 바꿔 파는지"): python scripts/dart.py conv [몇 달=36] [한 달에 몇 건=80]
 #  DART 보고서명 '전환청구권행사' 공시를 달마다 받아, 본문의 '일별 전환청구내역'(청구일자·회차·청구금액·전환가액·주식수)을 data/dart/conversions.json 에 쌓음(이어 받기 됨).
