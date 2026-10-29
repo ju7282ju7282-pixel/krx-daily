@@ -137,6 +137,16 @@ def company(names, years=10):   # 10/26 현주님 "3년이 없으면 5년으로�
         name = R.get(code, {}).get("name", a) if code else a
         rows = search(textCrpNm=name, startDate=start.strftime("%Y%m%d"), endDate=end.strftime("%Y%m%d"))
         rows = [r for r in rows if nz(r["corp"]) == nz(name)] or rows
+        if not rows and code:   # 10/29: KRX 이름(THE E&M)과 DART 이름(더이앤엠)이 다르면 0건 → 날마다 받은 공시 파일에서 그 코드의 DART 이름을 찾아 다시
+            dn = ""
+            for fd in sorted(glob.glob("data/dart/????-??-??.json"), reverse=True)[:30]:
+                try: dn = next((x["corp"] for x in json.load(open(fd)) if x.get("code") == code and x.get("corp")), "")
+                except Exception: dn = ""
+                if dn: break
+            if dn and nz(dn) != nz(name):
+                print("DART 이름으로 다시", name, "→", dn); name = dn
+                rows = search(textCrpNm=name, startDate=start.strftime("%Y%m%d"), endDate=end.strftime("%Y%m%d"))
+                rows = [r for r in rows if nz(r["corp"]) == nz(name)] or rows
         old = {}   # 10/26: 전에 받아 둔 본문은 다시 받지 않음(10년 치로 늘려도 시간이 덜 걸리게)
         fo = f"data/dart/company/{code or nz(name)}.json"
         if os.path.exists(fo):
