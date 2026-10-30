@@ -1,0 +1,124 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+엘앤씨바이오/유상증자 또는 주식관련사채 등의 청약결과(자율공시)/(2026.10.16)유상증자 또는 주식관련사채 등의 청약결과(자율공시) 
+
+
+
+
+
+
+
+유상증자 또는 주식관련사채 등의 청약결과(자율공시) 
+
+
+
+
+
+
+1. 증권의 종류 | 
+기명식 보통주 | 
+
+
+2. 발행방법 | 
+주주배정 유상증자 | 
+
+
+3. 청약대상자 | 
+우리사주조합 및 구주주(신주인수권증서 보유자) | 
+
+
+4. 청약일자 | 
+2026-10-15 | 
+
+
+5. 청약결과 | 
+발행예정주식수(주) | 
+3,700,000 | 
+
+
+해당 청약주식수(주) | 
+3,845,212 | 
+
+
+청약주식수(누계)(주) | 
+3,845,212 | 
+청약률(%) | 
+103.92 | 
+
+
+6. 단수주 및 실권주 처리방법 | 
+1. 우리사주조합 및 구주주 청약 및 초과청약 결과 실권주가 발생하지 않아 2026년 10월 19일에서 2026년 10월 20일에 예정되었던 일반공모는 진행하지 않을 예정입니다. 2. 초과청약 배정 후 발생한 단수주 5,859주는 대표주관회사인 유진투자증권(주)이 자기계산으로 전량 인수합니다. | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+1. 상기 청약일자는 구주주 청약의 종료일 입니다. - 우리사주조합 청약일 : 2026년 10월 14일(1일간) - 구주주 청약기간 : 2026년 10월 14일 ~ 10월 15일(2일간) 2. 청약결과 상세내역 - 모집주식수 : 3,700,000주 - 우리사주조합 청약주식수 : 74,000주 - 신주인수권증서 청약주식수 : 3,385,656주 - 초과청약 주식수 : 385,556주 
+
+(초과청약 배정 비율 : 1주당 0.6233698866주) - 청약합계 : 3,845,212주 - 단수주 : 5,859주 3. 향후 진행 일정 - 환불 및 주금납입일 : 2026년 10월 22일 - 신주 상장예정일 : 2026년 11월 04일 | 
+
+
+※관련공시 | 
+2026-10-12 투자설명서 2026-10-12 증권신고서(지분증권) 2026-10-12 유무상증자결정(주주배정후 실권주 일반공모) 2026-10-12 유상증자최종발행가액확정 |

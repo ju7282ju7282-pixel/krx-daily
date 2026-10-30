@@ -1,0 +1,147 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+로킷헬스케어/전환주식의 전환가액 조정/(2026.10.19)전환주식의 전환가액 조정(상환전환우선주) 
+
+
+
+
+
+전환주식의 전환가액 조정 
+
+
+
+
+1. 전환주식의 종류 | 
+발행일 | 
+2026-03-19 | 
+종류 | 
+상환전환우선주 | 
+
+
+2. 조정에 관한 사항 | 
+상장여부 | 
+조정전 전환가액(원) | 
+조정후 전환가액(원) | 
+
+
+비상장 | 
+69,144 | 
+48,401 | 
+
+
+3. 전환가능주식수 변동 | 
+신고일 현재 전환주식수(주) | 
+조정전 전환가능 주식수(주) | 
+조정후 전환가능 주식수(주) | 
+
+
+903,902 | 
+903,902 | 
+1,291,283 | 
+
+
+4. 조정사유 | 
+시가하락에 따른 전환가액의 조정 | 
+
+
+5. 조정근거 및 방법 | 
+[조정근거] 본건 우선주 발행 이후 매 [7]개월이 경과한 날을 전환가액 조정일로 하고, 상장된 보통주식의 주가를 기준으로, 각 전환가액 조정일 직전 영업일을 기산일로 하여 그 기산일로부터 소급한 1개월 가중산술평균주가, 1주일 가중산술평균주가 및 기산일 가중산술평균주가를 산술평균한 가액과 기산일 가중산술평균주가 중 높은 가액이 해당 조정일 직전일 현재의 전환가액보다 낮은 경우 동 낮은 가액을 본건 우선주의 조정된 전환가액으로 한다. 단, 조정된 전환가액은 발행 당시 전환가액(조정일 전에 신주의 할인발행 등의 사유로 전환가액을 이미 조정한 경우에는 이를 감안하여 산정한 가액)의 [70]% 이상이어야 한다. [조정방법] A. 1개월 가중산술평균주가: 27,222.94원 B. 1주일 가중산술평균주가: 22,421.18원 C. 최근일 가중산술평균주가: 21,465.80원 D. 산술평균가액[(A+B+C)/3]: 23,703.31원 E. 기준주가[MAX (C,D)]: 23,703.31원 F. 조정전 전환가액: 69,144원 G. 최고조정가액(발행당시 전환가액): 69,144원 H. 최저조정가액(발행당시 전환가액의 70%): 48,401원 I. 조정후 전환가액[MAX (E,H)]: 48,401원 
+
+(원단위 미만 절상) 
+
+
+
+
+6. 조정가액 적용일 | 
+2026-10-19 | 
+
+
+7. 이사회결의일(결정일) | 
+- | 
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+- 감사(사외이사가 아닌 감사위원 포함) 참석여부 | 
+- | 
+
+
+8. 기타 투자판단에 참고할 사항 | 
+- 상기 전환가액의 조정은 시가하락에 따른 전환가액 조정으로 별도의 이사회를 개최하지 않았습니다. - 상기 '3. 전환가능주식수 변동'의 전환가능주식수는 전환주식의 발행총액을 전환가액으로 나눈 주식수이며, 소수점 이하는 절사하였습니다. 
+
+
+
+
+※ 관련공시 | 
+2026-03-10 유상증자결정(제3자배정-상환전환우선주) 2026-03-18 증권 발행결과(자율공시) |
