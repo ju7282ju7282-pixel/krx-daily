@@ -1,0 +1,163 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+콜마바이오텍/전환가액의조정/(2026.08.31)전환가액의조정 
+
+
+
+
+
+
+
+전환가액의 조정 
+
+
+
+
+
+
+1. 조정에 관한 사항 | 
+회차 | 
+상장여부 | 
+조정전 전환가액 (원) | 
+조정후 전환가액 (원) | 
+
+
+8 | 
+비상장 | 
+2,764 | 
+2,515 | 
+
+
+2. 전환가능주식수 변동 | 
+회차 | 
+미전환사채의 권면(전자등록)총액 (통화단위) | 
+조정전 전환가능 주식수 (주) | 
+조정후 전환가능 주식수 (주) | 
+
+
+8 | 
+3,500,000,000 | 
+KRW : South-Korean Won | 
+1,266,280 | 
+1,391,650 | 
+
+
+3. 조정사유 | 
+시가 하락에 따른 전환가액 조정 | 
+
+
+4. 조정근거 및 방법 | 
+1) 조정근거 
+
+시가변동에 따른 전환가액 재조정(Refixing 조건): 본 사채 발행 후 1년이 되는 날인 2024년 5월 31일 및 그후 매 3개월이 되는 날을 전환가액 조정일로 하고, 각 전환가액 조정일 전일을 기산일로 하여 그 기산일로부터 소급한 1개월 가중산술평균주가, 1주일 가중산술평균주가 및 기산일 가중산술평균주가 중 높은 가격이 해당 조정일 직전일 현재의 전환가액보다 낮은 경우 동 낮은 가격을 새로운 전환가액으로 한다. 단, 새로운 전환가액은 본 사채 발행 당시의 전환가액의 80% 이상이어야 한다. 2) 조정방법 
+
+(가) 1개월 가중산술평균주가 : 2,267원 
+
+(나) 1주일 가중산술평균주가 : 2,184원 
+
+(다) 최근일가중산술평균주가 : 2,155원 
+
+(라) (가),(나),다)의 산술평균 :2,203원 
+
+(마) 기준주가[MAX(다,라)] : 2,203원 
+
+(바) 조정전 전환가액 : 2,764원 
+
+(사) 조정후 전환가액 : 2,203원 
+
+(아) 최초전환가액의 한도(최초 전환가액*80%) : 2,515원 
+
+(자) 최종 전환가액 : 2,515원(원단위 미만 절상) | 
+
+
+5. 조정가액 적용일 | 
+2026-08-31 | 
+
+
+6. 이사회결의일(결정일) | 
+- | 
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+- 감사(사외이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+1) 상기사항은 시가하락에 의한 전환가액 조정으로 별도의 이사회 결의를 하지 않습니다. 　 2) 상기 '2. 전환가능주식수 변동'에서 '조정전/후 전환가능주식수(주)'는 미전환사채의 권면총액을 '조정전/후 전환가액(원)'으로 나눈 주식수 입니다. | 
+
+
+※ 관련공시 | 
+2023-05-26 전환사채권발행결정(제8회차) 2026-06-09 전환가액의조정 2024-05-31 전환가액의조정 2025-10-31 전환사채(해외전환사채포함)발행후만기전사채취득 |

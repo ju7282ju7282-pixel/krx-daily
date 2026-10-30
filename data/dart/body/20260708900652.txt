@@ -1,0 +1,143 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+HLB펩/전환가액의조정/(2026.07.08)전환가액의조정(제3회차) 
+
+
+
+
+
+
+
+전환가액의 조정 
+
+
+
+
+
+
+1. 조정에 관한 사항 | 
+회차 | 
+상장여부 | 
+조정전 전환가액 (원) | 
+조정후 전환가액 (원) | 
+
+
+3 | 
+비상장 | 
+7,165 | 
+5,957 | 
+
+
+2. 전환가능주식수 변동 | 
+회차 | 
+미전환사채의 권면(전자등록)총액 (통화단위) | 
+조정전 전환가능 주식수 (주) | 
+조정후 전환가능 주식수 (주) | 
+
+
+3 | 
+29,405,000,000 | 
+KRW : South-Korean Won | 
+4,103,977 | 
+4,936,209 | 
+
+
+3. 조정사유 | 
+시가하락에 따른 전환가액의 조정 | 
+
+
+4. 조정근거 및 방법 | 
+(1) 조정근거 본 사채의 발행일로부터 3개월이 되는 날 및 이후 만기일 전월까지 매 3개월이 경과한 날을 전환가격 조정일로 하고, 각 전환가격 조정일 전일(전일이 한국거래소의 거래일이 아닌 경우 직전 거래일을 의미함)을 기산일로 하여 그 기산일로부터 소급한 1개월 가중산술평균주가, 1주일 가중산술평균주가 및 기산일 가중산술평균주가를 산술평균한 가액과 기산일 가중산술평균주가 중 높은 가격이 해당 조정일 직전일 현재의 전환가격보다 낮은 경우 발행회사는 동 낮은 가격을 새로운 전환가격으로 한다. 단, 새로운 전환가격은 발행 당시 전환가격(조정일 전에 신주의 할인발행 등의 사유로 전환가격을 이미 조정한 경우에는 이를 감안하여 산정한 가격으로 위 가.목 내지 다.목까지의 조정을 반영한 금액)의 70% 이상이어야 한다. (2) 조정방법 가. 1 개월 가중산술평균주가: 4,570.47원 나. 1 주일 가중산술평균주가: 4,480.18원 다. 최근일 가중산술평균주가: 4,520.44원 라. 산술평균주가[(가+나+다)/3]: 4,523.70원 마. 기준주가(다,라 중 높은가액): 4,523.70원 바. 조정전 전환가액: 7,165원 사. 최저 조정한도: 5,957원 아. 최고 조정한도: 8,509원 자. 최종 조정후 전환가액: 5,957원(원단위 미만 절상) | 
+
+
+5. 조정가액 적용일 | 
+2026-07-08 | 
+
+
+6. 이사회결의일(결정일) | 
+- | 
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+- 감사(사외이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+상기사항은 시가하락에 의한 전환가액 조정으로 별도의 이사회 결의를 하지 않습니다. | 
+
+
+※ 관련공시 | 
+2025-04-08 전환사채권발행결정 2025-04-08 증권 발행결과(자율공시) 2025-10-10 전환가액의조정(제3회차) 2026-01-08 전환가액의조정(제3회차) 2026-04-08 전환가액의조정(제3회차) |

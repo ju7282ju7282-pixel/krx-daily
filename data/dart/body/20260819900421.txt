@@ -1,0 +1,133 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+콜마바이오텍/기타 경영사항(자율공시)/(2026.08.19)기타 경영사항(자율공시)(소규모합병 승인 이사회 결의(주주총회 갈음) 결과 보고) 
+
+
+
+
+
+
+
+기타 경영사항(자율공시) 
+
+
+
+
+
+
+1. 제목 | 
+소규모합병 승인 이사회 결의(주주총회 갈음) 결과 보고 | 
+
+
+2. 주요내용 | 
+콜마바이오텍 주식회사 소규모합병에 관하여, 당사 권리주주의 반대의사 표시 주식수가 발행주식총수의 100분의 20에 해당하지 않으므로 당사는 2026년 08월 19일 상법 제527조의3 규정에 의거해 주주총회를 갈음하여 개최된 이사회에서 당사가 주식회사 엠오디머티어리얼즈를 흡수합병할 것을 승인하였습니다. 
+
+- 주요내용 - 1. 합병 당사회사 
+
+- 존속회사 : 콜마바이오텍 주식회사 
+
+- 소멸회사 : 주식회사 엠오디머티어리얼즈 2. 합병 방법 
+
+- 콜마바이오텍 주식회사가 지분율 100% 종속회사 
+
+주식회사 엠오디머티어리얼즈를 흡수합병 
+
+
+
+- 합병회사 콜마바이오텍 주식회사는 본 합병을 함에 있어 신주를 발행하지 않는 무증자 합병으로 진행, 상법 제527조의3 규정에 의한 소규모합병에 해당함 3. 합병 비율 
+
+- 콜마바이오텍 주식회사:주식회사 엠오디머티어리얼즈 
+
+= 1.0000000 : 0.0000000 4. 주식매수청구권의 내용 
+
+- 본 합병은 소규모합병 절차에 따라 진행되므로 상법 
+
+제527조의3 제5항에 의하여 주식매수청구권이 부여되 지 않음 5. 반대의사 표시에 관한 사항 
+
+- 의사표시기간: 2026년 08월 04일~2026년 08월 18일 
+
+- 반대 주주수 : 184명 
+
+- 반대 주식수 : 53,239주(발행주식총수의 0.32%) 6. 합병기일 : 2026년 09월 22일 7. 결의 결과 : 원안대로 합병 승인 | 
+
+
+3. 결정(확인)일자 | 
+2026-08-19 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+
+
+- 소규모합병에 관하여, 당사 권리주주의 반대의사 표시 주식수가 발행주식총수의 100분의 
+
+20에 해당하지 않으므로 당사는 2026년 08월 19일 상법 제527조의3 규정에 의거해 주주 
+
+총회 승인을 이사회 승인으로 갈음할 수 있습니다. - 상기 3. 결정(확인)일자는 소규모합병 승인에 대한 이사회 결의일 입니다. | 
+
+
+※ 관련공시 | 
+2026-07-21 회사합병 결정(소규모합병) |

@@ -1,0 +1,143 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+오브젠/신주인수권행사가액의조정/(2026.07.13)신주인수권행사가액의조정(제2회차) 
+
+
+
+
+
+
+
+신주인수권행사가액의 조정 
+
+
+
+
+
+
+1. 조정에 관한 사항 | 
+회차 | 
+상장여부 | 
+조정전 행사가액 (원) | 
+조정후 행사가액 (원) | 
+
+
+2 | 
+비상장 | 
+14,074 | 
+9,852 | 
+
+
+2. 행사가능주식수 변동 | 
+회차 | 
+미행사신주인수권 증권의 권면(전자등록)총액 (통화단위) | 
+조정전 행사가능 주식수(주) | 
+조정후 행사가능 주식수(주) | 
+
+
+2 | 
+10,000,000,000 | 
+KRW : South-Korean Won | 
+710,530 | 
+1,015,022 | 
+
+
+3. 조정사유 | 
+시가하락에 따른 전환가액 조정 | 
+
+
+4. 조정근거 및 방법 | 
+1) 조정근거 및 방법 발행회사 기명식 보통주식의 주가가 하락할 경우 본 사채의 발행일로부터 매 7개월마다 행사가액을 조정하되, 조정된 행사가액은 행사가액 조정일 전일을 기산일로 하여 (ⅰ) 그 기산일로부터 소급한 1개월 가중산술평균주가, 1주일 가중산술평균주가 및 최근일 가중산술평균주가를 산술평균한 가액과 (ⅱ) 최근일 가중산술평균주가 중 높은 가액이 직전 행사가액보다 낮을 경우 그 낮은 가격을 행사가액으로 한다. 단, 새로운 행사가액은 발행 당시 행사가액(조정일 전에 신주의 할인발행 등의 사유로 행사가액을 이미 조정한 경우에는 이를 감안하여 산정한 가격)의 70% 이상이어야 한다. 2) 조정내역 ① 1개월 가중산술평균주가 : 10,593.58원 ② 1주일 가중산술평균주가 : 6,632.23원 ③ 최근일 가중산술평균주가 : 6,668.68원 ④ 산술평균가액(①+②+③)/3 : 7,964.83원 ⑤ 기준주가(MAX[③,④]) : 7,964.83원 ⑥ 조정 직전 전환가액 : 14,074원 ⑦ 최저 조정한도(최초 전환가액의 70%): 9,852원 ⑧ 조정후 전환가액(MAX[⑦,⑤]) : 9,852원(호가단위 미만 절상) | 
+
+
+5. 조정가액 적용일 | 
+2026-07-10 | 
+
+
+6. 이사회결의일(결정일) | 
+- | 
+
+
+-사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+-감사(사외이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+- | 
+
+
+※관련공시 | 
+2025-12-02 신주인수권부사채권발행결정(제2회차) 2025-12-11 증권 발행결과(자율공시)(제2회차 BW) |

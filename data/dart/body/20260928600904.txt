@@ -1,0 +1,122 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+진코스텍/유상증자 최종발행가액 확정/(2026.09.28)유상증자 최종발행가액 확정 
+
+
+
+
+
+
+
+유상증자 최종발행가액 확정 
+
+
+
+
+
+1. 발행예정내역 | 
+가. 주식의 종류 | 
+기명식 보통주 | 
+
+
+나. 주식수(주) | 
+852,000 | 
+
+
+2. 확정발행가액(1주당) | 
+가. 확정가액(원) | 
+23,500 | 
+
+
+나. 1차발행가(원) | 
+- | 
+
+
+다. 2차발행가(원) | 
+- | 
+
+
+3. 액면가(원) | 
+500 | 
+
+
+4. 확정일 | 
+2026-09-28 | 
+
+
+5. 기타 투자판단과 관련한 중요사항 | 
+
+
+- 금번 유상증자 결정은 한국거래소 코스닥시장 상장 및 공모절차 관련 사항입니다. 금번 상장공모는 총 852,000주 규모이며, 신주모집 852,000주(100.0%)로 이루어집니다. 
+
+- 발행예정내역 주식수에는 코스닥시장 상장규정에 따른 상장주선인의 의무인수분 42,600주가 포함되지 않았습니다. 
+
+- 확정발행가액은 수요예측결과를 반영하여 대표주관회사와 발행회사가 협의하여 1주당 23,500원으로 결정하였습니다. | 
+
+
+※관련공시 | 
+2026.08.27 주요사항보고서(유상증자결정) |

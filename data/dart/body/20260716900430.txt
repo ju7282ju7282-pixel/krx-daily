@@ -1,0 +1,136 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+청보/감자완료/(2026.07.16)감자완료 
+
+
+
+
+
+
+
+감자완료 
+
+
+
+
+
+1. 감자 완료일 | 
+2026-07-16 | 
+
+
+2. 감자 완료된 주식의 종류와 수 | 
+보통주식(주) | 
+12,165,628 | 
+
+
+종류주식(주) | 
+- | 
+
+
+3. 발행주식총수의 변동 | 
+감자전 | 
+감자후 | 
+
+
+-보통주식(주) | 
+60,828,143 | 
+12,165,628 | 
+
+
+-종류주식(주) | 
+- | 
+- | 
+
+
+4. 자본금 변동(원) | 
+60,828,143,000 | 
+12,165,628,000 | 
+
+
+5. 주당 액면가액(원) | 
+1,000 | 
+
+
+6. 감자비율(%) | 
+대주주 | 
+80 | 
+
+
+소액주주 | 
+80 | 
+
+
+7. 감자결정 이사회결의일 | 
+2026-04-24 | 
+
+
+8. 기타 투자판단에 참고할 사항 | 
+- 상기 1. 감자완료일은 자본금 감소로 인한 변경등기가 완료되어 법인등기부등본을 수령한 날입니다. - 감자기준일은 2026년 07월 13일이며, 효력발생일은 2026년 07월 14일입니다. - 본 감자로 인한 변경 상장예정일은 2026년 07월 28일입니다. | 
+
+
+※관련공시 | 
+2026-07-07 주권매매거래정지(주식의 병합, 분할 등 전자등록 변경, 말소) 2026-07-06 감자결정 2026-07-03 감자결정 2026-04-24 감자결정 2026-04-24 주주총회소집결의 2026-04-24 주주총회소집결의 2026-06-12 임시주주총회결과 |

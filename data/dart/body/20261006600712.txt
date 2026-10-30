@@ -1,0 +1,127 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+진코스텍/유상증자 또는 주식관련사채 등의 청약결과(자율공시)/(2026.10.06)유상증자 또는 주식관련사채 등의 청약결과(자율공시) 
+
+
+
+
+
+
+
+유상증자 또는 주식관련사채 등의 청약결과(자율공시) 
+
+
+
+
+
+1. 증권의 종류 | 
+기명식 보통주 | 
+
+
+2. 발행방법 | 
+일반공모 유상증자 | 
+
+
+3. 청약대상자 | 
+기관투자자, 일반투자자 | 
+
+
+4. 청약일자 | 
+2026-10-06 | 
+
+
+5. 청약결과 | 
+발행예정주식수(주) | 
+852,000 | 
+
+
+해당 청약주식수(주) | 
+146,081,630 | 
+
+
+청약주식수(누계)(주) | 
+146,720,630 | 
+청약률(%) | 
+17,220.73 | 
+
+
+6. 단수주 및 실권주 처리방법 | 
+- | 
+
+
+7. 기타 투자판단과 관련한 중요사항 | 
+2026년 10월 02일, 06일(2일간) 실시한 당사의 유상증자(일반공모)의 청약결과는 다음과 같습니다. - 다 음 - 1. 총 공모주식수 : 852,000주(신주모집 852,000주) - 총 공모주식수에는 코스닥시장 상장규정에 따른 상장주선인의 의무인수분 42,600주가 포함되어 있지 않습니다. 2. 기관투자자 배정주식수 : 639,000주 
+
+- 기관투자자 청약주식수 : 639,000주 3. 일반투자자 배정주식수 : 213,000주 
+
+- 일반투자자 청약주식수 : 146,081,630주 
+
+- 일반투자자 경쟁률 : 685.83 : 1 주) 해당 청약주식수 주는 일반투자자 청약주식수이며, 청약주식수(누계) 주는 기관투자자 청약주식수, 일반투자자 청약주식수를 합한 주식수입니다. * 추후 진행일정 - 주금 납입일 : 2026년 10월 08일 - 코스닥시장 매매개시 예정일 : 2026년 10월 15일 | 
+
+
+※관련공시 | 
+2026.09.28 주요사항보고서(유상증자결정) 2026.09.28 유상증자최종발행가액확정 2026.10.01 증권신고서(지분증권) 2026.10.01 투자설명서 |

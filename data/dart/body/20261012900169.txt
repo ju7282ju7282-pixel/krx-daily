@@ -1,0 +1,95 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+경남제약/기타 주요경영사항/(2026.10.12)기타 주요경영사항(유상증자결정(주주배정증자)-철회) 
+
+
+
+
+
+
+
+기타 주요경영사항 
+
+
+
+
+
+
+1. 제출사유 | 
+주요사항보고서(유상증자)철회 | 
+
+
+2. 주요내용 | 
+1. 철회내용 가.신주의 종류와 수 : 기명식 보통주식 13,000,000주(최초 11,000,000주) 나.신주의 발행방법 : 주주배정증자(최초 주주배정 후 실권주 일반공모) 다.발행예정금액: 19,487,000,000원(최초 19,085,000,000원) 라.자금조달의 목적 : 운영자금 마.최초 이사회결의일 : 2026년 05월 21일 2. 철회사유 당사는 2026년 05월 21일 최초 이사회 결의를 통해 운영자금 조달을 목적으로 주주배정 후 실권주 일반공모 방식의 유상증자를 추진하고자 증권신고서를 제출하였습니다. 이후 2026년 09월 07일 주주배정증자 방식으로 증자 방식 변경 후 정정 증권신고서를 제출하였습니다. 공모 절차 진행 과정 중 금융감독원의 정정신고서 제출요구에 따라 증권신고서 보완 검토가 지속되었고, 증권신고서 심사 일정이 장기화됨에 따라 자금 조달 시기와 사용계획에 일부 차질이 발생할 가능성이 제기되었습니다. 금번 주주배정증자의 대표주관사인 SK증권은 2026년 10월 08일 모집주선계약서 제21조(계약 해제 및 해지) 제1항 제21호 및 본 공모 유상증자 관련 법규에 따라 계약 해제를 통지하였습니다. 이에 따라 당사는 본건 주주배정증자 방식의 유상증자 결정을 철회하고 관련 증권신고서를 철회하기로 결정하였습니다. 본 유상증자 철회는 당사가 추진 중인 기존 사업 및 신제품 개발의 중단을 의미하는 것은 아니며, 향후 회사는 영업현금흐름, 재무상황, 사업 진행상황 및 시장여건 등을 종합적으로 고려하여 필요한 자금의 규모와 조달방법을 재검토 할 예정입니다. | 
+
+
+3. 결정(발생)일자 | 
+2026-10-12 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+- |
