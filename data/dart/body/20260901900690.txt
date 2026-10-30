@@ -1,0 +1,193 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+올릭스/전환주식의 전환청구권 행사/(2026.09.01)전환주식의 전환청구권 행사(전환우선주) 
+
+
+
+
+
+전환주식의 전환청구권 행사 
+
+
+
+
+1. 전환청구권 행사주식수 누계 (주) (기 신고된 주식수량 제외) | 
+496,359 | 
+
+
+- 발행주식총수 (주) | 
+23,070,793 | 
+
+
+- 발행주식총수 대비(%) | 
+2.15 | 
+
+
+2. 공정거래위원회 신고대상 여부 | 
+미해당 | 
+
+
+3. 기타 투자판단에 참고할 사항 | 
+2025년 08월 29일 발행된 당사의 전환우선주가 다음과 같이 보통주로 전환청구되었습니다. 1. 전환청구일 : 2026년 9월 1일(화) 2. 전환청구내역 
+
+1) 전환주식의 종류 : 전환우선주 
+
+2) 전환우선주식수 : 494,788주 
+
+3) 전환비율 : 우선주 1주당 보통주 1.0031942814주 
+
+4) 전환으로 발행될 주식수 : 보통주 496,359주 3. 주식수 및 자본금 변동사항 
+
+1) 보통주 
+
+(1) 전환청구전: 22,254,180주 
+
+(2) 증가주식수: 496,359주 
+
+(3) 전환청구후: 22,750,539주 
+
+2) 제3회차 전환우선주 
+
+(1) 전환청구전: 816,613주 
+
+(2) 감소주식수: 494,788주 
+
+(3) 전환청구후: 321,825주 
+
+3) 자본금 
+
+(1) 전환청구 이전 보통주 자본금: 11,127,090,000원 
+
+(2) 전환청구 이후 보통주 자본금: 11,375,269,500원 - 이하'상장일 또는 예정일'은 관계기관의 일정에 따라 변경될 수 있습니다. | 
+
+
+※ 관련공시 | 
+2025-08-19 유상증자결정(제3자배정-전환우선주) 2026-08-31 전환주식의 전환청구권 행사(전환우선주) | 
+
+
+
+
+
+
+일별 전환청구내역 | 
+(단위 : 원, 주) | 
+
+
+
+
+
+
+청구일자 | 
+전환주식의 종류 | 
+청구주식수 | 
+전환가액 | 
+전환주식수(주) | 
+상장일 또는 예정일 | 
+
+
+발행일 | 
+종류 | 
+
+
+2026-09-01 | 
+2025-08-29 | 
+전환우선주 | 
+494,788 | 
+57,916 | 
+496,359 | 
+2026-09-15 | 
+
+
+
+
+
+
+전환주식 잔액 | 
+(단위 : 원, 주) | 
+
+
+
+
+
+
+전환주식의 종류 | 
+발행당시 전환주식총수(주) | 
+신고일 현재 전환주식수(주) | 
+전환가액(원) | 
+전환가능 주식수 | 
+
+
+발행일 | 
+종류 | 
+
+
+2025-08-29 | 
+전환우선주 | 
+1,979,347 | 
+321,825 | 
+57,916 | 
+322,852 |

@@ -1,0 +1,144 @@
+/*report_xml.css*/ BODY {margin-left:20px; width:600px; font:12pt gulim; word-break:break-all;} .TABLE {table-layout:fixed; font:11pt gulim; border-collapse:collapse; border-style:solid; border-color:black; color:#666666; margin-bottom:6px;} TABLE.nb {border-style:none;} .TH {font:11pt/1.6em gulim; background-color:#dcdcdc; border-color:gray; padding:2px 4px 0px 4px;} THEAD > TR > TD {font:11pt/1.6em gulim; background-color:#dcdcdc; border-color:gray; padding:2px 4px 0px 4px;} .TD {font:11pt/1.6em gulim; border-color:gray; padding:2px 4px 0px 4px;} P {font:12pt/1.6em gulim; color:#000000; margin:0px;} BODY > P {font:12pt/1.6em gulim; text-align:justify; color:#000000; margin:0px;} TH > P {font: 11pt/1.6em gulim;} TD > P {font: 11pt/1.6em gulim;} P.table-group {font:11pt gulim; text-align:center;} P.img-caption {font:12pt gulim; text-align:center; color:#324a58;} P.part {font:20pt/1.6em gulim; text-align:center; color:#00aaac; font-weight:bold; white-space:nowrap;} P.SECTION-1 {font:18pt/1.6em gulim; text-align:center; color:#035fa3; font-weight:bold; white-space:nowrap;} P.SECTION-2 {font:16pt/1.6em gulim; text-align:left; color:#038ed5; font-weight:bold; white-space:nowrap;} P.SECTION-3 {font:14pt/1.6em gulim; text-align:left; color:#333333;} P.SECTION-4 {font:14pt/1.6em gulim; text-align:left; color:#0387cb;} P.SECTION-5 {font:12pt/1.6em gulim; text-align:left; color:#0387cb;} P.SECTION-6 {font:12pt/1.6em gulim; text-align:left; color:#0387cb;} P.COVER-TITLE {font:28pt/1.6em gulim; text-align:center; color:#ff8625; font-weight:bold; white-space:nowrap;} P.CORRECTION {font:28pt/1.6em gulim; text-align:center; color:#00aaac; font-weight:bold; white-space:nowrap;} P.DESCRIPTION {font:12pt/1.6em gulim; text-align:left; color:#324a58;} P.pgbrk {height:24px;} SPAN.HIGHLIGHT {background-color:#ffff00;} 
+
+
+
+정 정 신 고 (보고) 
+
+
+
+
+
+
+
+
+
+2026년 09월 04일 
+
+
+
+
+
+
+
+
+
+
+
+
+1. 정정대상 공시서류 : 
+주요사항보고서(회사합병결정) 
+
+
+
+
+
+
+
+
+
+
+
+2. 정정대상 공시서류의 최초제출일 : 
+2026년 09월 01일 
+
+
+
+
+
+
+
+
+
+
+3. 정정사항 
+
+
+
+
+
+
+
+
+
+
+
+
+항 목 
+정정사유 
+정 정 전 
+정 정 후 
+
+
+
+
+첨부문서 - 계약서(계획서) 
+합병계약 체결에 따른 계약서 날인본 첨부 
+합병계약서(날인 전) 
+합병계약서(날인 후) 
+
+
+
+
+
+계약서(계획서) 
+
+
+
+
+합병계약서_날인본_1.jpg 
+
+합병계약서_날인본_1 
+
+
+
+
+
+
+합병계약서_날인본_2.jpg 
+
+합병계약서_날인본_2 
+
+
+
+
+
+
+합병계약서_날인본_3.jpg 
+
+합병계약서_날인본_3 
+
+
+
+
+
+
+합병계약서_날인본_4.jpg 
+
+합병계약서_날인본_4 
+
+
+
+
+
+
+합병계약서_날인본_5.jpg 
+
+합병계약서_날인본_5 
+
+
+
+
+
+
+합병계약서_날인본_6.jpg 
+
+합병계약서_날인본_6 
+
+
+
+
+
+
+합병계약서_날인본_7.jpg 
+
+합병계약서_날인본_7

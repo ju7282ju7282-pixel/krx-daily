@@ -1,0 +1,136 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+툴젠/유상증자 또는 주식관련사채 등의 청약결과(자율공시)/(2026.09.18)유상증자 또는 주식관련사채 등의 청약결과(자율공시) 
+
+
+
+
+
+
+
+유상증자 또는 주식관련사채 등의 청약결과(자율공시) 
+
+
+
+
+
+
+1. 증권의 종류 | 
+기명식 보통주식 | 
+
+
+2. 발행방법 | 
+주주배정 유상증자 | 
+
+
+3. 청약대상자 | 
+구주주(신주인수권증서 보유자) | 
+
+
+4. 청약일자 | 
+2026-09-17 | 
+
+
+5. 청약결과 | 
+발행예정주식수(주) | 
+777,000 | 
+
+
+해당 청약주식수(주) | 
+812,286 | 
+
+
+청약주식수(누계)(주) | 
+812,286 | 
+청약률(%) | 
+104.54 | 
+
+
+6. 단수주 및 실권주 처리방법 | 
+1. 구주주 초과청약 후 발생한 단수주(1,806주)는 '증권 인수업무 등에 관한 규정' 제9조 제2항 7호 및 인수계약에 의거하여 대표주관회사가 자기계산으로 인수합니다. 2. 실권주 미발생 및 단수주에 대한 대표주관회사의 인수로 일반공모 청약은 실시하지 않습니다. 
+
+
+
+
+7. 기타 투자판단에 참고할 사항 | 
+1.상기 청약일자는 구주주 청약기간의 종료일입니다. 
+
+(청약기간: 2026.09.16 ~ 2026.09.17) 2.당사 2026년 05월 15일 최초 이사회결의에 의한 유상증자(주주배정 후 실권주 일반공모)의 구주주 청약(초과청약 포함)이 2026년 09월 17일 다음과 같이 완료되었습니다. 1) 모집주식수: 777,000주 2) 신주인수권증서 청약주식수: 697,628주 3) 초과청약주식수: 114,658주 
+
+(초과청약배정비율: 0.6922499956) 4) 청약 합계: 812,286주 
+
+(총 청약률: 104.54%) 5) 단수주: 1,806주(대표주관회사 인수) 3.향후 진행일정(예정) 
+
+- 환불 및 주금납입일: 2026.09.28(월) 
+
+- 신주권상장일: 2026.10.12(월) 
+
+
+
+
+※관련공시 | 
+2026-09-14 투자설명서 2026-09-14 증권신고서(지분증권) 2026-09-14 유상증자결정(주주배정후 실권주 일반공모) 2026-09-14 유상증자최종발행가액확정 |
