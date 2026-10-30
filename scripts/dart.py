@@ -213,12 +213,38 @@ if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "conv":
 
 # ── 보고서 한 칸만 받기(10/23: KBI동양철관 47회 CB 남은 금액 — 반기보고서 '미상환 전환사채' 표): python scripts/dart.py section <코드|이름> <보고서 이름 글자> <목차 글자> [며칠 안=400]
 #  가장 최근 그 보고서를 찾아 목차(node…['text'])에서 글자가 든 칸을 받아 data/dart/section/<코드>_<목차 글자>.txt 로 저장.
+def dart_name(code):   # 10/30: 종목코드 → DART 회사 이름(손으로 적은 별칭·날마다 받은 공시·회사별 목록·기업 정보에서)
+    try:
+        al = json.load(open("data/dart/name_alias.json"))
+        if al.get(code): return al[code]
+    except Exception: pass
+    try:
+        d = json.load(open(f"data/dart/company/{code}.json"))
+        for r in d.get("rows", []):
+            if r.get("corp"): return r["corp"]
+    except Exception: pass
+    for fd in sorted(glob.glob("data/dart/????-??-??.json"), reverse=True)[:60]:
+        try:
+            for x in json.load(open(fd)):
+                if x.get("code") == code and x.get("corp"): return x["corp"]
+        except Exception: pass
+    try:
+        ci = json.load(open(f"data/company/{code}.json"))
+        for k in ("dart_name", "corp_name", "name_full", "기업명"):
+            if ci.get(k): return ci[k]
+    except Exception: pass
+    return ""
 def section(who, rname, kw, days=400):
     N, nz = codes_by_name(); f = sorted(glob.glob("data/naver/????-??-??.json.gz"))[-1]; R = json.load(gzip.open(f))["rows"]
     code = who if re.fullmatch(r"[0-9A-Z]{6}", who) and re.search(r"\d", who) else N.get(nz(who), "")
     name = R.get(code, {}).get("name", who)
     end = dt.date.today() + dt.timedelta(days=1); start = end - dt.timedelta(days=days)
     rows = [r for r in search(textCrpNm=name, startDate=start.strftime("%Y%m%d"), endDate=end.strftime("%Y%m%d")) if rname in r["title"] and nz(r["corp"]) == nz(name)]
+    if not rows and code:   # 10/30: KRX 이름(현대차·KT·삼성화재)과 DART 이름(현대자동차·케이티·삼성화재해상보험)이 달라 '보고서 없음' → DART 이름으로 다시
+        dn = dart_name(code)
+        if dn and nz(dn) != nz(name):
+            print("DART 이름으로 다시", name, "→", dn); name_d = dn
+            rows = [r for r in search(textCrpNm=name_d, startDate=start.strftime("%Y%m%d"), endDate=end.strftime("%Y%m%d")) if rname in r["title"] and nz(r["corp"]) == nz(name_d)]
     if not rows: print("보고서 없음", name, rname); return
     r = rows[0]; m = req(f"{BASE}/dsaf001/main.do?rcpNo={r['rcpNo']}")
     nodes = [dict(zip(("text", "dcmNo", "eleId", "offset", "length", "dtd"), g)) for g in re.findall(
