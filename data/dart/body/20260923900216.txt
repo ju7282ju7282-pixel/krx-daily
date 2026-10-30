@@ -1,0 +1,250 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+아시아경제/감자 결정(종속회사의 주요경영사항)/(2026.09.23)감자 결정(종속회사의 주요경영사항) 
+
+
+
+
+
+
+
+감자 결정(종속회사의 주요경영사항) 
+
+
+
+
+
+종속회사인 | 
+에이캐피탈 주식회사 | 
+의 주요경영사항 신고 | 
+
+
+
+
+
+
+1. 감자주식의 종류와 수 | 
+보통주식(주) | 
+- | 
+
+
+종류주식(주) | 
+- | 
+
+
+2. 1주당 액면가액(원) | 
+5,000 | 
+
+
+3. 감자전후 자본금 | 
+감자전(원) | 
+감자후(원) | 
+
+
+135,700,835,000 | 
+119,416,734,800 | 
+
+
+4. 감자전후 발행주식수 | 
+구분 | 
+감자전(주) | 
+감자후(주) | 
+
+
+보통주식(주) | 
+27,140,167 | 
+27,140,167 | 
+
+
+종류주식(주) | 
+- | 
+- | 
+
+
+5. 감자비율 | 
+보통주식 (%) | 
+12 | 
+
+
+종류주식 (%) | 
+- | 
+
+
+6. 감자기준일 | 
+2026-09-30 | 
+
+
+7. 감자방법 | 
+무상감자 | 
+
+
+8. 감자사유 | 
+자본금의 자본잉여금 전입을 통한 재무구조 개선 | 
+
+
+9. 감자일정 | 
+주주총회예정일 | 
+2026-09-22 | 
+
+
+명의개서정지기간 | 
+- | 
+
+
+구주권제출기간 | 
+- | 
+
+
+신주권교부예정일 | 
+- | 
+
+
+10. 채권자이의제출기간 | 
+- | 
+
+
+11. 구주권제출 및 신주권교부장소 | 
+- | 
+
+
+12. 이사회결의일(결정일) | 
+2026-09-22 | 
+
+
+
+
+- 독립(사외)이사* 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+
+
+- 감사(독립(사외)이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+13. 공정거래위원회 신고대상 여부 | 
+미해당 | 
+
+
+14. 기타 투자판단에 참고할 사항 | 
+- 상기'1. 감자주식의 종류와 수'는 주식수의 변동없이 자본금의 금액만 감소하므로 변동이 없습니다. - 상기'4. 감자전후 발행주식수'는 주식수의 변동없이 자본금의 금액만 감소하므로 변동이 없습니다. - 상기 내용 중 '5. 감자비율'은 금액 기준으로 작성하였습니다. - 상기 '6.감자기준일'은 관계기관의 승인, 조정, 협의 등에 따라 변경될 수 있습니다. - 감자 전 1주의 금액 : 5,000원 
+
+감자 후 1주의 금액 : 4,400원 
+
+- 하기 [종속회사에 관한 사항]은 에이캐피탈 주식회사의 2025년말 별도재무제표 기준이며, '지배회사의 연결 자산총액'은 당사의 2025년말 연결재무제표 기준입니다. | 
+
+
+※ 관련공시 | 
+- | 
+
+
+
+
+[종속회사에 관한 사항] 
+
+
+
+종속회사명 | 
+에이캐피탈 주식회사 | 
+영문 | 
+A Capital Co., Ltd | 
+
+
+
+
+- 대표자 | 
+박재욱 | 
+
+
+
+
+- 주요사업 | 
+신용카드 및 할부금융업 | 
+
+
+
+
+- 주요종속회사 여부 | 
+해당 | 
+
+
+종속회사의 자산총액(원) | 
+169,599,849,770 | 
+
+
+지배회사의 연결 자산총액(원) | 
+332,617,164,342 | 
+
+
+지배회사의 연결 자산총액 대비(%) | 
+50.99 |

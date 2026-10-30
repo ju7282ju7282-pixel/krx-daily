@@ -1,0 +1,117 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+대진첨단소재/기타 주요경영사항/(2026.07.14)기타 주요경영사항(제10회차 전환사채권 발행 결정 철회) 
+
+
+
+
+
+
+
+기타 주요경영사항 
+
+
+
+
+
+
+1. 제출사유 | 
+제10회차 무기명식 이권부 무보증 사모 전환사채 발행 결정 철회의 건 | 
+
+
+2. 주요내용 | 
+1. 개요 
+
+-당사는 2025년 12월 19일 이사회 결의에서 제10회차 무기명식 이권부 무보증 사모 전환사채 발행 결정을 결의하였고, 2026년 1월 15일, 2월 20일, 3월 20일, 4월 20일, 5월 20일, 6월 19일 납입일 변경하는 정정공시를 제출한 바 있습니다. 2. 철회내용 
+
+1) 공시제출일(최초) : 2025년 12월 19일 
+
+2) 사채종류 : 무기명식 이권부 무보증 사모 전환사채 
+
+3) 발행회차 : 제10회차 
+
+4) 권면총액 : 금 일백오십억원(￦15,000,000,000) 
+
+5) 발행대상자 및 배정금액 
+
+- 배정대상자 : 송상투자조합 
+
+- 배정금액 : 금 일백오십억원(￦15,000,000,000) 
+
+6) 납입(예정)일 : 2026년 7월 14일 
+
+7) 철회일자 : 2026년 7월 14일 3. 철회사유 
+
+-발행대상인 송상투자조합의 납입의무 불이행으로 전환사채 발행 결정을 철회합니다. | 
+
+
+3. 결정(발생)일자 | 
+2026-07-14 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+2025-12-19 주요사항보고서(전환사채권발행결정) 2026-01-15 주요사항보고서(전환사채권발행결정) 2026-02-20 주요사항보고서(전환사채권발행결정) 2026-03-20 주요사항보고서(전환사채권발행결정) 2026-04-20 주요사항보고서(전환사채권발행결정) 2026-05-20 주요사항보고서(전환사채권발행결정) 2026-06-19 주요사항보고서(전환사채권발행결정) |

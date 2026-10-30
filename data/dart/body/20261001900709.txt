@@ -1,0 +1,107 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+대진첨단소재/기타 주요경영사항/(2026.10.01)기타 주요경영사항(회사 합병결정 철회) 
+
+
+
+
+
+
+
+기타 주요경영사항 
+
+
+
+
+
+
+1. 제출사유 | 
+회사 합병결정 철회 | 
+
+
+2. 주요내용 | 
+1. 개요 
+
+1) 당사는 2026년 04월 29일 이사회를 통하여 주식회사 와이엠피라이팅과 합병(당사가 와이엠피라이팅을 흡수합병하는 상법 제527조의3에 의한 소규모합병)을 결의하고, 2026년 04월 30일 합병계약을 체결하여 합병절차를 진행하였습니다. 이후 2026년 07월 01일 이사회 결의 및 부속합의서를 통해 합병기일을 2026년 10월 01일로 변경하였습니다. 
+
+2) 합병절차에 따라 당사는 소규모합병 절차를 진행하고, 와이엠피라이팅은 상법 제522조에 따른 절차를 진행할 계획이었습니다. 그러나 합병 절차 진행 과정에서 와이엠피라이팅의 채권자가 본건 합병에 반대하는 의사를 표시함에 따라 합병 절차를 더 이상 진행하기 어렵게 되었습니다. 이러한 상황을 고려하여 당사는 내부적으로 신중한 검토를 진행한 후, 이사회 결의를 통해 현재 진행 중인 합병절차를 중단하기로 결정하였으며, 와이엠피라이팅과 합병계약 해제를 합의하였습니다. 2. 철회 내용 1) 공시제출일(최초): 2026년 04월 29일 2) 철회결정일: 2026년 10월 01일 3. 철회 사유 
+
+1) 철회 사유: 합병 계약 해제에 따른 합병결정 철회 
+
+2) 해제 사유: 와이엠피라이팅 채권자의 합병 반대 의사 표시 
+
+3) 계약해제 일자: 2026년 10월 01일 
+
+4) 계약해제 근거 합병계약서 제12조(계약의 변경 및 해제) 본 계약 체결 후 합병기일까지 천재지변, 기타 사유로 인하여 존속회사와 소멸회사가 협의 후 합병조건을 변경하거나 본 계약을 해지할 수 있다. 이에 합병당사회사는 이사회 결의 및 협의를 통하여 본건 합병의 진행을 중지하고, 본건 합병 결정을 철회하기로 결정하였습니다. 합병기일(2026년 10월 01일)을 포함하여 본 보고서 공시일 이후의 합병 관련 일정과 합병에 관하여 예정되어 있던 모든 절차는 취소되었으니 투자자분들께서는 이 점 양지해주시기 바랍니다. | 
+
+
+3. 결정(발생)일자 | 
+2026-10-01 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+- |
