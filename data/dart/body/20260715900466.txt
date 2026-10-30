@@ -1,0 +1,176 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+케이지에이/유상증자최종발행가액확정/(2026.07.15)유상증자최종발행가액확정(제3자배정-소액공모) 
+
+
+
+
+
+
+
+정정신고(보고) 
+
+
+
+정정일자 | 
+2026-07-15 | 
+
+
+
+
+
+
+1. 정정관련 공시서류 | 
+유상증자 최종발행가액 확정 | 
+
+
+2. 정정관련 공시서류제출일 | 
+2026-07-02 | 
+
+
+3. 정정사유 | 
+대상자 변경 및 청약알, 납입일 변경에 따른 정정 | 
+
+
+4. 정정사항 | 
+
+
+정정항목 | 
+정정전 | 
+정정후 | 
+
+
+1. 발행예정내역 나. 주식수(주) | 
+745,030 | 
+740,740 | 
+
+
+2. 확정발행가액(!주당) 가. 확정가액(원) | 
+1,208 | 
+1,215 | 
+
+
+4. 확정일 | 
+2026-07-01 | 
+2026-07-14 | 
+
+
+
+
+
+
+- | 
+
+
+
+
+
+
+
+
+유상증자 최종발행가액 확정 
+
+
+
+
+
+1. 발행예정내역 | 
+가. 주식의 종류 | 
+기명식 보통주식 | 
+
+
+나. 주식수(주) | 
+740,740 | 
+
+
+2. 확정발행가액(1주당) | 
+가. 확정가액(원) | 
+1,215 | 
+
+
+나. 1차발행가(원) | 
+- | 
+
+
+다. 2차발행가(원) | 
+- | 
+
+
+3. 액면가(원) | 
+500 | 
+
+
+4. 확정일 | 
+2026-07-14 | 
+
+
+5. 기타 투자판단에 참고할 사항 | 
+확정발행가액은 "증권의 발행 및 공시 등에 관한 규정" 제5-18조 1항에 의거 청약일 전 과거 제3거래일부터 제5거래일까지의 가중산술평균주가를 기준주가로 하여 할인율 10%를 적용하여 산정하였습니다.(단, 원단위 미만은 절상함) | 
+
+
+※관련공시 | 
+2026-07-09 소액공모공시서류(지분증권) 2026-07-09 유상증자결정(제3자배정-소액공모) |

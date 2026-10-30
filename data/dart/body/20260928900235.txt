@@ -1,0 +1,124 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+앤씨앤/증권 발행결과(자율공시)/(2026.09.28)증권 발행결과(자율공시)(제3자배정 유상증자) 
+
+
+
+
+
+
+
+증권 발행결과(자율공시) 
+
+
+
+
+
+
+1. 증권의 종류 | 
+주식회사 앤씨앤 기명식 보통주 | 
+
+
+2. 발행방법 | 
+제3자배정 유상증자 | 
+
+
+3. 발행내역 | 
+발행예정주식수(주) | 
+4,000,000 | 
+
+
+발행예정금액(원) | 
+10,000,000,000 | 
+
+
+발행결정 최초 이사회결의일 | 
+2026-09-16 | 
+
+
+실제발행주식수(주) | 
+4,000,000 | 
+
+
+실제발행금액(원) | 
+10,000,000,000 | 
+
+
+납입일 | 
+2026-09-28 | 
+
+
+4. 상장예정 여부 | 
+예 | 
+
+
+5. 기타 투자판단에 참고할 사항 | 
+- 당사가 2026년 9월 16일에 이사회에서 최초 결의한 제3자배정 유상증자와 관련하여 상기와 같이 주금 전액이 납입 완료되었습니다. - 상기 신주의 상장예정일은 2026년 10월 8일이며, 관계기관과의 협의 및 관련 절차 진행 상황 등에 따라 변경될 수 있습니다. | 
+
+
+※관련공시 | 
+2026-09-16 유상증자결정(제3자배정) 2026-09-18 유상증자결정(제3자배정) |

@@ -1,0 +1,111 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+하이퍼코퍼레이션/기타 주요경영사항/(2026.08.27)기타 주요경영사항(유상증자결정(주주배정후 실권주 일반공모)철회) 
+
+
+
+
+
+
+
+기타 주요경영사항 
+
+
+
+
+
+
+1. 제출사유 | 
+주요사항보고서(유상증자) 철회 | 
+
+
+2. 주요내용 | 
+1. 철회내용 
+
+가. 신주의 종류와 수 : 보통주 7,700,000주 
+
+나. 신주의 배정방법 : 주주배정 후 실권주 일반공모 
+
+다. 발행예정금액 : 20,443,500,000원 
+
+라.자금조달의 목적 
+
+- 운영자금 
+
+마.최초 이사회결의일 : 2026년 05월 13일 
+
+바.최초 증권신고서 제출일 : 2026년 05월 13일 2. 철회사유 당사는 2026년 05월 13일 최초 이사회 결의를 통해 운영자금의 조달을 목적으로 주주배정 후 실권주 일반공모 방식의 유상증자를 추진하고자 증권신고서를 제출하였습니다. 이후 공모 절차 진행 과정에서 금융감독원의 정정 요구 및 보완 검토에 따라 유상증자 추진이 장기화 되며, 기존 주주 및 신규 투자자에게 혼란을 초래할 우려가 있다고 판단하였습니다. 이에 당사는 아래와 같은 사유로 금번 유상증자 철회를 결정하였습니다. 1) 소액주주를 포함한 일반투자자 보호 - 유상증자 기간이 장기화 됨에 따라 회사의 재무적 여건, 시장상황 등이 변화하였고, 이로 인해 현재 제출된 공시서류 기준으로 청약을 진행하는 것은 기존 주주 및 신규 투자자에게 혼란을 초래할 우려가 있음. 
+
+2) 공모 유상증자 방식 자체의 적합성에 대한 재검토 필요성 - 공모 유상증자 방식의 적합성, 조달 규모의 적정성, 발행 조건 및 시장 상황과의 정합성 등을 포함한 제반 사항을 종합적으로 재검토 예정. 이에 따라 관련 법규 및 절차에 따라 금번 공모 유상증자를 철회하고, 추후 보다 적정한 시점과 방식으로 자금조달을 재추진할 수 있도록 검토할 예정입니다. | 
+
+
+3. 결정(발생)일자 | 
+2026-08-27 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+- |
