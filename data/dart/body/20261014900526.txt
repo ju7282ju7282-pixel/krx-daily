@@ -1,0 +1,128 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+제이케이시냅스/유상증자 또는 주식관련사채 등의 청약결과(자율공시)/(2026.10.14)유상증자 또는 주식관련사채 등의 청약결과(자율공시)(일반공모증자-소액공모) 
+
+
+
+
+
+
+
+유상증자 또는 주식관련사채 등의 청약결과(자율공시) 
+
+
+
+
+
+
+1. 증권의 종류 | 
+제이케이시냅스(주) 기명식 보통주 | 
+
+
+2. 발행방법 | 
+일반공모 유상증자 | 
+
+
+3. 청약대상자 | 
+일반공모 청약자 | 
+
+
+4. 청약일자 | 
+2026-10-14 | 
+
+
+5. 청약결과 | 
+발행예정주식수(주) | 
+2,079,002 | 
+
+
+해당 청약주식수(주) | 
+2,163,000 | 
+
+
+청약주식수(누계)(주) | 
+2,163,000 | 
+청약률(%) | 
+104.04 | 
+
+
+6. 단수주 및 실권주 처리방법 | 
+일반공모 후 발생하는 잔여주식은 미발행 처리합니다. | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+가. 상기 "4. 청약일자"는 일반공모 유상증자 청약일의 종료일 입니다. [청약기간 : 2026년 10월 13일~10월 14일 (2일간)] 나. 청약결과 상세내역 [일반 공모 유상증자 청약] 
+
+1) 대상 주식수 : 2,079,002주 
+
+2) 총 청약 주식수 : 2,163,000주 
+
+3) 청약경쟁률 : 104.04% 다. 상기 "5.청약결과"의 "해당 청약주식수"는 일반공모 예정분(2,079,002주)에 대한 청약분에 해당합니다. 라. 상기 "5.청약결과"의 "청약주식수(누계)" 및 "청약률(%)"은 일반공모 청약분을 단순 합산한 내용입니다. 마. 향후 주요 일정 1) 배정 및 환불 공고일 : 2026년 10월 15일 2) 주금 납입 (환불) 일 : 2026년 10월 16일 3) 유상증자 신주 상장 예정일 : 2026년 11월 03일 | 
+
+
+※관련공시 | 
+2026-10-08 유상증자결정(일반공모증자-소액공모) 2026-10-08 소액공모공시서류(지분증권) |

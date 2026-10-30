@@ -1,0 +1,155 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+코퍼스코리아/전환사채(해외전환사채포함)발행후만기전사채취득/(2026.08.13)전환사채(해외전환사채포함)발행후만기전사채취득(제4회차) 
+
+
+
+
+
+
+
+전환사채(해외전환사채 포함) 발행후 만기전 사채 취득 
+
+
+
+
+
+
+
+
+
+전환사채(해외전환사채) | 
+4 | 
+회차 | 
+
+
+
+
+
+
+1. 만기전 취득 사채에 관한 사항 | 
+사채의 종류 | 
+무기명식 무이권부 무보증 사모 전환사채 | 
+
+
+발행일자 | 
+2024-05-22 | 
+
+
+발행방법 | 
+국내발행 (사모) | 
+
+
+주당 전환가액(원) | 
+5,771 | 
+
+
+만기일 | 
+2028-05-22 | 
+
+
+2. 사채 취득금액 (통화단위) | 
+689,256,496 | 
+KRW : South-Korean Won | 
+
+
+- 취득한 사채의 권면(전자등록)총액 (통화단위) | 
+689,256,496 | 
+KRW : South-Korean Won | 
+
+
+- 기준환율 | 
+- | 
+
+
+- 취득일자 | 
+2026-08-13 | 
+
+
+3. 취득후 사채의 권면(전자등록)총액 (통화단위) | 
+14,757,444,013 | 
+KRW : South-Korean Won | 
+
+
+4. 만기전 취득사유 및 향후 처리방법 | 
+- 취득사유 : 사채권자와 별도 합의에 따른 사채권 취 득 - 처리방법 : 취득 후 사채권 소각 | 
+
+
+5. 취득자금의 원천 | 
+자기자금 | 
+
+
+6. 사채의 취득방법 | 
+장내매수 | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+- 상기 ' 1.만기전 취득 사채에 관한 사항'중 '주당 전환 가액(원)'은 2026년 07월 24일 제5회차 전환사채 발행 으로 인한 전환가액 조정을 반영한 전환가액입니다. - 상기 "3. 취득후 사채의 권면(전자등록)총액"은 본 취 득건 제외 후 사채권자가 보유하고 있는 미전환 전환사 채의 총액입니다. - 상기 '취득일자'는 사채 취득금액 지급일입니다. | 
+
+
+※ 관련공시 | 
+2024-05-20 전환사채권발행결정(제4회차) 2024-12-23 전환가액의조정 2025-08-07 전환청구권행사 2025-08-08 전환청구권행사 2025-08-22 전환청구권행사 2025-08-25 전환청구권행사 2025-09-01 전환청구권행사 2025-09-15 전환청구권행사 2025-12-01 전환청구권행사 2026-03-05 전환청구권행사 2026-03-06 전환청구권행사 2026-02-13 전환사채(해외전환사채포함)발행후만기전사채취득 2026-05-22 전환사채(해외전환사채포함)발행후만기전사채취득(제4회차) |

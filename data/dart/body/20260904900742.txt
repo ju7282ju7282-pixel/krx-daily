@@ -1,0 +1,117 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+코퍼스코리아/소송등의판결ㆍ결정/(2026.09.04)소송등의판결ㆍ결정(전환사채발행금지 가처분 신청) 
+
+
+
+
+
+
+
+소송 등의 판결ㆍ결정 
+
+
+
+
+
+
+1. 사건의 명칭 | 
+전환사채발행금지 가처분 신청 | 
+사건번호 | 
+2026카합50451 | 
+
+
+2. 원고ㆍ신청인 | 
+1. 장0식 2. 박0관 | 
+
+
+3. 판결ㆍ결정내용 | 
+가. 채권자 : 장0식, 박0관 나. 채무자 : 주식회사 코퍼스코리아 다. 주문 
+
+1. 이 사건 신청을 각하한다. 
+
+2. 소송비용은 채권자들이 부담한다. | 
+
+
+4. 판결ㆍ결정사유 | 
+이 사건 신청은 부적합함으로 각하하기로 하여 주문과 같이 결정한다. | 
+
+
+5. 관할법원 | 
+서울서부지방법원 | 
+
+
+6. 판결ㆍ결정일자 | 
+2026-09-01 | 
+
+
+7. 확인일자 | 
+2026-09-04 | 
+
+
+8. 기타 투자판단에 참고할 사항 | 
+- 상기 '7. 확인일자'는 당사의 법률대리인으로부터 결정정본을 전달받은 일자 입니다. - 관련공시 2026. 07. 27 주요사항보고서(소송등의제기) |

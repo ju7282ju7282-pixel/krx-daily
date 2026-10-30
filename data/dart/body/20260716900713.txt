@@ -1,0 +1,169 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+앱튼/전환가액의조정/(2026.07.16)전환가액의조정(제6,7,8회차) 
+
+
+
+
+
+
+
+전환가액의 조정 
+
+
+
+
+
+
+1. 조정에 관한 사항 | 
+회차 | 
+상장여부 | 
+조정전 전환가액 (원) | 
+조정후 전환가액 (원) | 
+
+
+6 | 
+비상장 | 
+1,309 | 
+1,000 | 
+
+
+7 | 
+비상장 | 
+1,309 | 
+1,000 | 
+
+
+8 | 
+비상장 | 
+1,870 | 
+1,000 | 
+
+
+2. 전환가능주식수 변동 | 
+회차 | 
+미전환사채의 권면(전자등록)총액 (통화단위) | 
+조정전 전환가능 주식수 (주) | 
+조정후 전환가능 주식수 (주) | 
+
+
+6 | 
+15,000,000,000 | 
+KRW : South-Korean Won | 
+11,459,129 | 
+15,000,000 | 
+
+
+7 | 
+1,868,000,000 | 
+KRW : South-Korean Won | 
+1,427,043 | 
+1,868,000 | 
+
+
+8 | 
+7,600,000,000 | 
+KRW : South-Korean Won | 
+4,064,171 | 
+7,600,000 | 
+
+
+3. 조정사유 | 
+발행회사가 직전 전환가액을 하회하는 발행가액으로 유상증자를 실시하는 경우 | 
+
+
+4. 조정근거 및 방법 | 
+가. 조정근거 본 사채를 소유하는 자가 전환청구를 하기 전에 발행회사가 본 사채의 직전 전환가액을 하회하는 ⅰ) 발행가액으로 유상증자를 하는 경우에는 그 발행가액을 전환가액으로 조정하며, 직전 전환가액을 하회하는 ⅱ) 전환가액 또는 행사가액으로 전환사채 또는 신주인수권부사채를 발행하는 경우에는 그 전환가액 또는 행사가액을 전환가액으로 조정한다. 본 목에 따른 전환가액의 조정일은 유상증자로 인한 신주발행일 또는 전환사채 및 신주인수권부사채의 발행일로 한다. 나. 조정 방법 1) 조정 전 전환가액(제6, 7회 전환사채) : 1,309원 2) 조정 전 전환가액(제8회 전환사채) : 1,870원 3) 유상증자 신주발행가액 : 1,000원 4) 조정 후 전환가액(제6, 7, 8회 전환사채) : 1,000원 | 
+
+
+5. 조정가액 적용일 | 
+2026-07-16 | 
+
+
+6. 이사회결의일(결정일) | 
+- | 
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+- 감사(사외이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+상기사항은 직전 전환가액을 하회하는 발행가액으로 유상증자를 시행함에 따른 전환가액 조정으로 별도의 이사회 결의를 하지 않았습니다. | 
+
+
+※ 관련공시 | 
+2024-09-06 전환사채권발행결정(제6회차) 2024-09-06 전환사채권발행결정(제7회차) 2026-05-15 전환사채권발행결정(제8회차) 2025-03-10 전환가액의조정 2025-05-27 전환가액의조정 2025-12-09 전환가액의조정 2026-04-16 전환가액의조정(제6회차,제7회차,제9회차) 2026-05-20 전환가액의조정(제6회차, 제7회차) 2026-06-09 전환가액의조정(제6회차, 제7회차 CB) |
