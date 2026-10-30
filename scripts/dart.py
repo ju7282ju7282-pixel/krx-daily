@@ -276,16 +276,19 @@ if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "body":
 #  반기보고서(6/30) 뒤에 생긴 물량 공시가 있는 회사를 고르려고, 공시 이름별로 그 기간 전 종목 목록만 받음 → data/dart/events_<시작>_<끝>.json
 if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "events":
     s_, e_ = sys.argv[2], sys.argv[3]; out = []; seen = set()
-    for rn in ["주요사항보고서", "증권발행실적보고서", "전환사채권발행결정", "신주인수권부사채권발행결정", "교환사채권발행결정", "유상증자결정", "감자결정", "주식병합결정", "전환가액의조정",
-               "신주인수권행사가액의조정", "교환가액의조정", "증권발행결과", "전환청구권행사", "자기전환사채", "만기전사채취득", "추가상장", "회사합병결정", "회사분할결정"]:
-        try: rows = search(startDate=s_, endDate=e_, reportName=rn)
-        except Exception as ex: print("실패", rn, repr(ex)[:80]); continue
+    # 10/31: reportName 찾기는 주요사항보고서(전환사채·유상증자 결정)를 못 잡음 → 날짜만으로 2일씩 전체 목록을 받아 제목으로 거름(목록 60쪽 한도 안에 들게)
+    d0 = dt.date(int(s_[:4]), int(s_[4:6]), int(s_[6:])); d1 = dt.date(int(e_[:4]), int(e_[4:6]), int(e_[6:]))
+    while d0 <= d1:
+        dz = min(d1, d0 + dt.timedelta(days=1))
+        try: rows = search(startDate=d0.strftime("%Y%m%d"), endDate=dz.strftime("%Y%m%d"))
+        except Exception as ex: print("실패", d0, repr(ex)[:80]); rows = []
         n = 0
         for r in rows:
             if r["market"] not in ("KOSPI", "KOSDAQ") or r["rcpNo"] in seen: continue
-            if rn == "주요사항보고서" and not re.search(OVER + "|합병|분할", r["title"]): continue
-            seen.add(r["rcpNo"]); r["q"] = rn; out.append(r); n += 1
-        print(rn, n, flush=True)
+            if not re.search(OVER + "|합병|분할", r["title"]): continue
+            seen.add(r["rcpNo"]); out.append(r); n += 1
+        print(d0, "~", dz, "목록", len(rows), "물량 공시", n, flush=True)
+        d0 = dz + dt.timedelta(days=1)
     N, nz = codes_by_name()
     for r in out: r["code"] = N.get(nz(r["corp"]), "")
     json.dump(out, open(f"data/dart/events_{s_}_{e_}.json", "w"), ensure_ascii=False, indent=0)
