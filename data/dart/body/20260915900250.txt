@@ -1,0 +1,209 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+아미노로직스/전환청구권행사/(2026.09.15)전환청구권행사 
+
+
+
+
+
+
+
+정정신고(보고) 
+
+
+
+정정일자 | 
+2026-09-15 | 
+
+
+
+
+
+
+1. 정정관련 공시서류 | 
+전환청구권 행사 | 
+
+
+2. 정정관련 공시서류제출일 | 
+20260911 | 
+
+
+3. 정정사유 | 
+기재정정 | 
+
+
+4. 정정사항 | 
+
+
+정정항목 | 
+정정전 | 
+정정후 | 
+
+
+일별전환청구내역/청구일자/2026-08-28/상장일또는예정일 | 
+2026-09-25 | 
+2026-09-18 | 
+
+
+
+
+
+
+- | 
+
+
+
+
+
+
+
+
+전환청구권 행사 
+
+
+
+
+
+
+1. 전환청구권 행사주식수 누계 (주) (기 신고된 주식수량 제외) | 
+1,201,670 | 
+
+
+-발행주식총수(주) | 
+88,140,322 | 
+
+
+-발행주식총수 대비(%) | 
+1.36 | 
+
+
+2. 공정거래위원회 신고대상 여부 | 
+미해당 | 
+
+
+3. 기타 투자판단에 참고할 사항 | 
+- 상기 '발행주식총수'는 금번의 행사주식수 누계 수량이 포함되지 않은 수량입니다. - 하기 '상장일 또는 예정일'은 관계기관의 일정에 따라 변경될 수 있습니다. - 하기 '전환사채 잔액'은 금번 전환청구권 행사내역이 반영된 잔액입니다. | 
+
+
+※관련공시 | 
+2025-06-26 전환사채권발행결정(제4회차) 2025-06-30 증권 발행결과(자율공시) 2026-07-21 추가상장(국내사모 CB전환) | 
+
+
+
+일별 전환청구내역 
+
+
+
+청구일자 | 
+사채의 명칭 | 
+청구금액 | 
+전환가액 | 
+발행한 주식수 | 
+상장일 또는 예정일 | 
+
+
+회차 | 
+종류 | 
+
+
+2026-08-24 | 
+4 | 
+무기명식 무이권부 무보증 사모 전환사채 | 
+450,000,000원 | 
+957 | 
+470,219 | 
+2026-09-18 | 
+
+
+2026-08-28 | 
+4 | 
+무기명식 무이권부 무보증 사모 전환사채 | 
+700,000,000원 | 
+957 | 
+731,451 | 
+2026-09-18 | 
+
+
+
+전환사채 잔액 
+
+
+
+회차 | 
+발행당시 사채의 권면(전자등록)총액(통화단위) | 
+신고일 현재 미전환사채 잔액 (통화단위) | 
+전환가액(원) | 
+전환가능 주식수 | 
+
+
+4 | 
+20,000,000,000 | 
+KRW : South-Korean Won | 
+18,550,000,000 | 
+KRW : South-Korean Won | 
+957 | 
+19,383,490 |

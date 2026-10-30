@@ -1,0 +1,122 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+계양전기/유상증자 또는 주식관련사채 등의 발행결과(자율공시)/(2026.09.11)유상증자 또는 주식관련사채 등의 발행결과(자율공시) 
+
+
+
+
+
+
+
+유상증자 또는 주식관련사채 등의 발행결과(자율공시) 
+
+
+
+
+
+
+1. 증권의 종류 | 
+기명식 보통주 | 
+
+
+2. 발행방법 | 
+주주배정 유상증자 | 
+
+
+3. 발행내역 | 
+발행예정주식수(주) | 
+8,200,000 | 
+
+
+발행예정금액(원) | 
+24,354,000,000 | 
+
+
+발행결정 최초 이사회결의일 | 
+2026-05-08 | 
+
+
+실제발행주식수(주) | 
+8,200,000 | 
+
+
+실제발행금액(원) | 
+24,354,000,000 | 
+
+
+납입일 | 
+2026-09-11 | 
+
+
+4. 기타 투자판단과 관련한 중요사항 | 
+1. 당사의 2026년 05월 08일 이사회 결의에 의한 유상증자(주주배정 후 실권주 일반공모)는 상기 내용과 같이 100% 납입이 완료되었습니다. 2. 향후 진행일정 
+
+- 신주 상장예정일 : 2026년 09월 29일 | 
+
+
+※ 관련공시 | 
+2026-09-01 유상증자 신주발행가액(안내공시) 2026-09-01 증권신고서(지분증권) 2026-09-01 투자설명서 2026-09-07 유상증자 또는 주식관련사채 등의 청약결과(자율공시) 2026-09-10 유상증자 또는 주식관련사채 등의 청약결과(자율공시) |

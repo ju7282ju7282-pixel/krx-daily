@@ -1,0 +1,233 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+프레스티지바이오로직스/주식병합결정/(2026.09.30)주식병합결정(철회) 
+
+
+
+
+
+
+
+정정신고(보고) 
+
+
+
+정정일자 | 
+2026-09-30 | 
+
+
+
+
+
+
+1. 정정관련 공시서류 | 
+주식병합 결정 | 
+
+
+2. 정정관련 공시서류제출일 | 
+2026-09-11 | 
+
+
+3. 정정사유 | 
+제12기 정기주주총회에서 부결로 인한 정정 | 
+
+
+4. 정정사항 | 
+
+
+정정항목 | 
+정정전 | 
+정정후 | 
+
+
+1. 주식병합 내용 - 병합후 1주당 가액(원) - 병합후 발행주식 총수 보통주식(주) | 
+- 500 - 77,752,637 | 
+- | 
+
+
+2. 주식병합일정 - 신주의 효력발생일 - 매머거래정지예정기간(시작일) - 매매거래정기예정기간(종료일) -신주권상장예정일 | 
+- 2026-11-03 - 2026-10-30 - 2026-11-23 - 2026-11-24 | 
+- | 
+
+
+3. 주식병합 목적 | 
+적정 유통주식수 유지를 통한 주가안정화 및 기업가치 제고 | 
+- | 
+
+
+5. 기타 투자판단에 참고할 사항 | 
+- 본 건은 회사의 기업가치를 유지한 상태에서 발행주식 수를 조정하는 주식병합으로 자본감소(감자)에 해당하지 않습니다. - 주식병합으로 인하여 발생하는 1주 미만의 단수주식은 신주 상장 초일 종가를 기준으로 계산하여 현금으로 지급할 예정이며, 이에 따라 병합 후 발행 주식 총수는 일부 변경될 수 있습니다. - 상기 일정은 관계기관과의 협의 과정 및 정기주주총회 결과에 따라 일부 변경될 수 있습니다. | 
+- 2026년 09월 30일에 개최된 제12기 정기주주총회에서 주식 병합의 건과 정관 일부 변경 중 1주 금액의 변경의 건이 부결됨에 따라 본 공시가 취소되었습니다. | 
+
+
+
+
+
+
+- | 
+
+
+
+
+
+
+
+
+주식병합 결정 
+
+
+
+
+
+1. 주식병합 내용 | 
+구분 | 
+병합전 | 
+병합후 | 
+
+
+1주당 가액 (원) | 
+500 | 
+- | 
+
+
+발행주식총수 | 
+보통주식(주) | 
+77,752,637 | 
+- | 
+
+
+종류주식(주) | 
+- | 
+- | 
+
+
+2. 주식병합 일정 | 
+주주총회예정일 | 
+2026-09-30 | 
+
+
+구주권제출기간 | 
+시작일 | 
+- | 
+
+
+종료일 | 
+- | 
+
+
+신주의 효력발생일 | 
+- | 
+
+
+매매거래정지예정기간 | 
+시작일 | 
+- | 
+
+
+종료일 | 
+- | 
+
+
+명의개서정지기간 | 
+- | 
+
+
+신주권교부예정일 | 
+- | 
+
+
+신주권상장예정일 | 
+- | 
+
+
+3. 주식병합목적 | 
+- | 
+
+
+4. 이사회결의일 | 
+2026-09-11 | 
+
+
+-사외이사 참석여부 | 
+참석(명) | 
+2 | 
+
+
+불참(명) | 
+1 | 
+
+
+-감사(사외이사가 아닌 감사위원) 참석여부 | 
+참석 | 
+
+
+5. 기타 투자판단에 참고할 사항 | 
+- 2026년 09월 30일에 개최된 제12기 정기주주총회에서 주식 병합의 건과 정관 일부 변경 중 1주 금액의 변경의 건이 부결됨에 따라 본 공시가 취소되었습니다. | 
+
+
+※관련공시 | 
+2026-09-11 주식병합결정 |

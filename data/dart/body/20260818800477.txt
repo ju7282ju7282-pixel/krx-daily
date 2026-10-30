@@ -1,0 +1,120 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+HLB글로벌/유상증자 또는 주식관련사채 등의 발행결과(자율공시)/(2026.08.18)유상증자 또는 주식관련사채 등의 발행결과(자율공시) 
+
+
+
+
+
+
+
+유상증자 또는 주식관련사채 등의 발행결과(자율공시) 
+
+
+
+
+
+
+1. 증권의 종류 | 
+제37회 무기명식 무보증 사모 영구 전환사채(채권형 신종자본증권) | 
+
+
+2. 발행방법 | 
+국내사모 전환사채 발행 | 
+
+
+3. 발행내역 | 
+발행예정주식수(주) | 
+- | 
+
+
+발행예정금액(원) | 
+3,000,000,000 | 
+
+
+발행결정 최초 이사회결의일 | 
+2026-08-06 | 
+
+
+실제발행주식수(주) | 
+- | 
+
+
+실제발행금액(원) | 
+3,000,000,000 | 
+
+
+납입일 | 
+2026-08-18 | 
+
+
+4. 기타 투자판단과 관련한 중요사항 | 
+사채의 납입 방법 : 인수인이 보유한 에이치엘비㈜ 제40회 무기명식 무보증 사모 전환사채(권면총액 3,000,000,000원)의 양수도대금과 본 사채 인수대금을 대등액에서 상계하는 대용납입 방식 | 
+
+
+※ 관련공시 | 
+2026-08-06 자본으로 인정되는 채무증권 발행결정 2026-08-06 전환사채권발행결정 |
