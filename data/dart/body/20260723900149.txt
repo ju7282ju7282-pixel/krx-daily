@@ -1,0 +1,143 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+성일하이텍/전환가액의조정/(2026.07.23)전환가액의조정 
+
+
+
+
+
+
+
+전환가액의 조정 
+
+
+
+
+
+
+1. 조정에 관한 사항 | 
+회차 | 
+상장여부 | 
+조정전 전환가액 (원) | 
+조정후 전환가액 (원) | 
+
+
+5 | 
+비상장 | 
+41,687 | 
+38,426 | 
+
+
+2. 전환가능주식수 변동 | 
+회차 | 
+미전환사채의 권면(전자등록)총액 (통화단위) | 
+조정전 전환가능 주식수 (주) | 
+조정후 전환가능 주식수 (주) | 
+
+
+5 | 
+20,000,000,000 | 
+KRW : South-Korean Won | 
+479,765 | 
+520,480 | 
+
+
+3. 조정사유 | 
+시가하락에 따른 전환가액 조정 | 
+
+
+4. 조정근거 및 방법 | 
+(1) 조정근거 본 사채의 발행일로부터 매 7개월마다 전환가액을 조정하되 전환가액은 전환가액 조정일 전일을 기산일로 하여(i) 그 기산일로부터 소급한 1개월 가중산술평균주가, 1주일 가중산술평균주가 및 최근일 가중산술평균주가를 산술평균한 가액과(ii)최근일 가중산술평균주가 중 높은 가액이 직전 전환가액보다 낮을 경우 그 낮은 가격을 새로운 전환가액으로 한다. 단, 새로운 전환가액은 발행 당시 전환가액(조정일 전에 신주의 할인발행 등의 사유로 전환가액을 이미 조정한 경우에는 이를 감안하여 산정 한가격)의 80% 이상이어야 한다. (2) 조정방법 a. 1개월 가중산술평균주가 : 45,770.46원 b. 1주일 가중산술평균주가 : 35,614.01원 c. 최근일가중산술평균주가 : 33,891.38원 d. a, b, c의 산술평균주가 : 38,425.28원 e. 기준주가(c,d중 높은가액):38,425.28원 f. 조정전 전환가액 : 41,687원 g. 최저 조정한도 : 33,350원 h. 최종 조정후 전환가액 : 38,426원 * 상기 전환가액은 원단위 미만 절상 함 (3) 기타사항 상기 조정전 전환가액(f) 및 최저 조정한도(g)는 2026년 5월 8일 시가를 하회하는 발행가격으로 제3자배정 유상증자를 진행함에 따른 전환가액 조정이 반영된 사항입니다. | 
+
+
+5. 조정가액 적용일 | 
+2026-07-10 | 
+
+
+6. 이사회결의일(결정일) | 
+- | 
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+- 감사(사외이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+- 상기사항은 시가하락에 따른 전환가액의 조정으로 이사회 결의는 없습니다. | 
+
+
+※ 관련공시 | 
+2025-11-28 전환사채권발행결정(제5회차) |

@@ -1,0 +1,158 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+HD한국조선해양/전환가액ㆍ신주인수권행사가액ㆍ교환가액의 조정(안내공시)/(2026.07.29)전환가액ㆍ신주인수권행사가액ㆍ교환가액의 조정(안내공시) 
+
+
+
+
+
+
+
+전환가액ㆍ신주인수권행사가액ㆍ교환가액의 조정(안내공시) 
+
+
+
+
+
+
+1. 구분 | 
+교환가액의 조정 | 
+
+
+2. 증권의 종류 | 
+외화표시 무보증 선순위 해외 교환사채 | 
+
+
+
+
+- 신주인수권증권의 상장여부 | 
+해당사항없음 | 
+
+
+3. 조정에 관한 사항 | 
+회차 | 
+조정전 가액(원) | 
+조정후 가액(원) | 
+
+
+2 | 
+523,125 | 
+516,897 | 
+
+
+4. 전환ㆍ행사ㆍ교환가능 주식수 변동 | 
+회차 | 
+미행사증권의 권면(전자등록)총액(원) | 
+조정전 전환ㆍ행사ㆍ교환 가능주식수 (주) | 
+조정후 전환ㆍ행사ㆍ교환 가능주식수 (주) | 
+
+
+2 | 
+2,372,275,000,000 | 
+4,534,814 | 
+4,589,453 | 
+
+
+5. 조정사유 | 
+에이치디현대중공업 주식회사의 현금배당에 따른 교환가액 조정 | 
+
+
+6. 조정근거 및 방법 | 
+1) 조정근거 : 주식병합, 주식분할, 주식 종류 변경, 자본감소, 주식배당, 현금배당, 주주배정증자, 주주에 대한 옵션, 워런트 기타 권리 부여 등 교환가액 조정사유 발생시 사채조건에서 정한 바에 따라 조정 2) 조정방법 : 조정 후 교환가액 = 조정 전 교환가액 X [(주당 시장가격 - 1주에 해당하는 현금 배당액)/주당 시장가격] | 
+
+
+7. 조정가액 적용일 | 
+2026-08-12 | 
+
+
+8. 이사회결의일(결정일) | 
+- | 
+
+
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+
+
+- 감사(사외이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+9. 기타 투자판단과 관련한 중요사항 | 
+- 상기 '4. 미행사증권의 권면(전자등록)총액(원)'은 기준환율(2026년 3월 31일 서울외국환중개㈜ 고시 매매기준율 1,530.5원/USD)을 적용하여 USD를 원화로 환산하였습니다. - 상기 '6.2) 조정방법'에서 '주당 시장가격'은 최초 배당공시일의 직전 거래일부터 20 거래일 동안의 에이치디현대중공업 주식회사 종가를 산술평균한 금액 입니다. - 상기 '7. 조정가액 적용일'은 배당기준일(2026-08-13)의 직전 거래일인 2026-08-12로 적용됩니다. | 
+
+
+※관련공시 | 
+2026-04-01 교환사채권발행결정 |

@@ -1,0 +1,138 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+뉴로메카/유상증자 또는 주식관련사채 등의 청약결과(자율공시)/(2026.07.29)유상증자 또는 주식관련사채 등의 청약결과(자율공시) 
+
+
+
+
+
+
+
+유상증자 또는 주식관련사채 등의 청약결과(자율공시) 
+
+
+
+
+
+
+1. 증권의 종류 | 
+기명식 보통주식 | 
+
+
+2. 발행방법 | 
+주주배정 유상증자 | 
+
+
+3. 청약대상자 | 
+구주주(신주인수권증서 보유자) | 
+
+
+4. 청약일자 | 
+2026-07-28 | 
+
+
+5. 청약결과 | 
+발행예정주식수(주) | 
+3,196,465 | 
+
+
+해당 청약주식수(주) | 
+2,423,049 | 
+
+
+청약주식수(누계)(주) | 
+2,423,049 | 
+청약률(%) | 
+75.80 | 
+
+
+6. 단수주 및 실권주 처리방법 | 
+1. 구주주 청약 후 발생한 실권주는 2026년 07월 30일에서 07월 31일까지 일반공모를 통해 모집할 예정입니다. 2. 일반공모 후 발생되는 잔여주식은 대표주관사인 한국투자증권㈜와 인수회사인 NH투자증권㈜ 및 삼성증권㈜ 각각의 인수의무비율에 따른 인수의무주식수만큼 자기계산으로 인수합니다. | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+1. 상기 청약일자는 구주주 청약일의 종료일입니다.(구주주 청약기간 : 2026년 07월 27일 ~ 2026년 07월 28일) 2. 청약결과 상세내역 
+
+- 모집주식수 : 3,196,465주 
+
+- 구주주(신주인수권증서) 청약주식수 : 2,141,029주 
+
+- 구주주(초과청약) 청약주식수 : 282,020주(초과청약배정비율 : 1.00) 
+
+- 청약율 : 75.80% 
+
+- 실권주 : 773,416주 3. 향후 주요 일정 
+
+- 실권주 일반공모 청약 : 2026년 07월 30일 ~ 2026년 07월 31일 
+
+- 환불 및 주금 납입일 : 2026년 08월 04일 
+
+- 상장 예정일 : 2026년 08월 20일 | 
+
+
+※관련공시 | 
+2026-04-24 유무상증자결정(주주배정후 실권주 일반공모) 2026-06-02 유무상증자결정(주주배정후 실권주 일반공모) 2026-06-18 유무상증자결정(주주배정후 실권주 일반공모) 2026-07-23 유무상증자결정(주주배정후 실권주 일반공모) 2026-07-23 투자설명서 2026-07-23 유상증자최종발행가액확정 |

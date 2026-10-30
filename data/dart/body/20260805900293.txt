@@ -1,0 +1,143 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+엔켐/전환가액의조정/(2026.08.05)전환가액의조정(제15회차) 
+
+
+
+
+
+
+
+전환가액의 조정 
+
+
+
+
+
+
+1. 조정에 관한 사항 | 
+회차 | 
+상장여부 | 
+조정전 전환가액 (원) | 
+조정후 전환가액 (원) | 
+
+
+15 | 
+비상장 | 
+72,686 | 
+50,900 | 
+
+
+2. 전환가능주식수 변동 | 
+회차 | 
+미전환사채의 권면(전자등록)총액 (통화단위) | 
+조정전 전환가능 주식수 (주) | 
+조정후 전환가능 주식수 (주) | 
+
+
+15 | 
+18,700,000,000 | 
+KRW : South-Korean Won | 
+257,271 | 
+367,387 | 
+
+
+3. 조정사유 | 
+시가하락에 따른 전환가액 조정 | 
+
+
+4. 조정근거 및 방법 | 
+제15회차 전환사채 [조정근거] 본 사채 발행 후 7개월이 경과한 날(2026년 8월 5일) 및 이후 매 7개월이 경과한 날을 전환가액 조정일로 하고, 각 전환가액 조정일 전일을 기산일로 하여 그 기산일로부터 소급한 1개월 가중산술평균주가, 1주일 가중산술평균주가 및 기산일 가중산술평균주가를 산술평균한 가액과 기산일 가중산술평균주가 중 높은 가격이 해당 조정일 직전일 현재의 전환가액보다 낮은 경우 동 가격을 새로운 전환가액으로 한다. 본 호에 의한 조정 후 전환가액 중 원 단위 미만은 절상한다. [조정방법] 가. 1개월 가중산술평균주가 : 20,180.46원 나. 1주일 가중산술평균주가 : 17,250.64원 다. 최근일 가중산술평균주가 : 20,391.25원 라. 산술평균주가[(가+나+다)/3]: 19,274.12원 마. 다와 라중 높은가액 : 20,391.25원 바. 조정전 전환가액 : 72,686원 사. 조정후 전환가액 : 50,900원(원단위 미만 절상) 아. 최저 조정가액 : 50,900원 | 
+
+
+5. 조정가액 적용일 | 
+2026-08-05 | 
+
+
+6. 이사회결의일(결정일) | 
+- | 
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+- 감사(사외이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+상기 사항은 시가하락에 따른 전환가액 조정으로 별도의 이사회결의를 요하지 않습니다. | 
+
+
+※ 관련공시 | 
+2025-12-26 전환사채권발행결정(제15회차) 2025-12-26 전환사채권발행결정(제15회차) 2026-01-05 증권 발행결과(자율공시)(제15회차 CB) |
