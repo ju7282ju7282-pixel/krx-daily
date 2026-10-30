@@ -1,0 +1,103 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+휴비츠/기타 경영사항(자율공시)/(2026.09.28)기타 경영사항(자율공시)(소규모합병 승인 이사회 결의(주주총회 갈음) 결과보고) 
+
+
+
+
+
+
+
+기타 경영사항(자율공시) 
+
+
+
+
+
+
+1. 제목 | 
+소규모합병 승인 이사회 결의(주주총회 갈음) 결과보고 | 
+
+
+2. 주요내용 | 
+(주)오스비스와의 소규모합병에 관하여, 당사 권리주주의 반대의사 표시 주식수가 발행주식총수의 100분의 20에 미달함에 따라, 당사는 2026년 09월 28일 상법 제527조의3에 의거하여 주주총회를 갈음하는 이사회에서 (주)오스비스와의 소규모합병을 승인하였습니다. - 주요내용 - 1. 합병 당사회사 - 존속회사 : (주)휴비츠 - 소멸회사 : (주)오스비스 2. 합병방법 - (주)휴비츠가 (주)오스비스를 흡수합병 - 본 합병은 합병신주를 발행하지 않는 무증자합병으로, 상법 제527조의3에 따른 소규모합병에 해당함 - 합병 완료 후 (주)휴비츠는 존속하고, 피합병회사인 (주)오스비스는 소멸함 3. 합병비율 - (주)휴비츠 : (주)오스비스 
+
+= 1.0000000 : 0.0000000 4. 주식매수청구권의 내용 - 본 합병은 소규모합병 절차에 따라 진행되므로 상법 제527조의3 제5항에 의하여 주식매수청구권이 부여되지 않음 5. 반대의사 표시에 관한 사항 (1) 의사표시 기간 : 2026년 09월 09일 ~ 2026년 09월 23일 (2) 반대 주주수 : 161명 (3) 반대 주식수 : 61,000주 (발행주식총수의 0.56%) 6. 합병기일 : 2026년 11월 30일 7. 결의결과 : 원안대로 합병 승인 | 
+
+
+3. 결정(확인)일자 | 
+2026-09-28 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+
+
+- 상법 제527조의3 제4항에 따른 반대의사 표시 주식수가 발행주식총수의 100분의 20에 미달함이 확인됨에 따라, 같은 조 제1항에 의하여 본 합병에 대한 주주총회 승인을 이사회 승인으로 갈음하였습니다. - 상기 3. 결정(확인)일자는 소규모합병 승인에 대한 이사회 결의일 입니다. | 
+
+
+※ 관련공시 | 
+2026-08-24 회사합병 결정(소규모합병) 2026-08-24 주주명부폐쇄기간 또는 기준일 설정 |

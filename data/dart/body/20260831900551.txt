@@ -1,0 +1,133 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+싸이토젠/기타 경영사항(자율공시)/(2026.08.31)기타 경영사항(자율공시)(소규모합병 승인 이사회 결의(주주총회 갈음) 결과 보고) 
+
+
+
+
+
+
+
+기타 경영사항(자율공시) 
+
+
+
+
+
+
+1. 제목 | 
+소규모합병 승인 이사회 결의(주주총회 갈음) 결과 보고 | 
+
+
+2. 주요내용 | 
+주식회사 싸이토젠과 싸이토젠의 완전 자회사 지놈케어 주식회사의 소규모합병에 관하여, 당사 권리주주의 반대의사 표시 주식수가 발행주식총수의 100분의 20에 해당하지 않으므로 당사는 2026년 08월 31일 상법 제527조의3 규정에 의거해 주주총회를 갈음하여 개최된 이사회에서 당사가 지놈케어 주식회사를 흡수합병할 것을 승인하였습니다. 
+
+- 주요내용 - 1. 합병 당사회사 
+
+- 존속회사 : 주식회사 싸이토젠 
+
+- 소멸회사 : 지놈케어 주식회사 2. 합병 방법 
+
+- 주식회사 싸이토젠이 지분율 100% 종속회사 
+
+지놈케어 주식회사를 흡수합병 
+
+
+
+- 합병회사 주식회사 싸이토젠은 본 합병을 함에 있어 신주를 발행하지 않는 무증자 합병으로 진행, 상법 제527조의3 규정에 의한 소규모합병에 해당함 3. 합병 비율 
+
+- 주식회사 싸이토젠:지놈케어 주식회사 
+
+= 1.0000000 : 0.0000000 4. 주식매수청구권의 내용 
+
+- 본 합병은 소규모합병 절차에 따라 진행되므로 상법 
+
+제527조의3 제5항에 의하여 주식매수청구권이 부여되 지 않음 5. 반대의사 표시에 관한 사항 
+
+- 의사표시기간: 2026년 08월 13일~2026년 08월 28일 
+
+- 반대 주주수 : 963명 
+
+- 반대 주식수 : 236,678주(발행주식총수의 1.02%) 6. 합병기일 : 2026년 10월 1일 7. 결의 결과 : 원안대로 합병 승인 | 
+
+
+3. 결정(확인)일자 | 
+2026-08-31 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+
+
+- 소규모합병에 관하여, 당사 권리주주의 반대의사 표시 주식수가 발행주식총수의 100분의 
+
+20에 해당하지 않으므로 당사는 2026년 08월 31일 상법 제527조의3 규정에 의거해 주주 
+
+총회 승인을 이사회 승인으로 갈음할 수 있습니다. - 상기 3. 결정(확인)일자는 소규모합병 승인에 대한 이사회 결의일 입니다 | 
+
+
+※ 관련공시 | 
+2026-07-29 회사합병 결정(소규모합병) |

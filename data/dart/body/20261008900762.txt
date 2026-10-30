@@ -1,0 +1,150 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+에이텀/전환청구권행사/(2026.10.08)전환청구권행사(제1회차) 
+
+
+
+
+
+
+
+전환청구권 행사 
+
+
+
+
+
+
+1. 전환청구권 행사주식수 누계 (주) (기 신고된 주식수량 제외) | 
+126,957 | 
+
+
+-발행주식총수(주) | 
+9,570,389 | 
+
+
+-발행주식총수 대비(%) | 
+1.33 | 
+
+
+2. 공정거래위원회 신고대상 여부 | 
+미해당 | 
+
+
+3. 기타 투자판단에 참고할 사항 | 
+- 상기 "발행주식총수"는 금번 행사 주식수가 미포함된 발행주식총수입니다. - 하기 "일별 전환청구 내역"의 "상장일 또는 예정일"은 관계기관 일정에 따라 변경될 수 있습니다. | 
+
+
+※관련공시 | 
+2025-01-24 전환사채권발행결정(제1회차) 2026-04-03 전환가액의조정(제1회차) | 
+
+
+
+일별 전환청구내역 
+
+
+
+청구일자 | 
+사채의 명칭 | 
+청구금액 | 
+전환가액 | 
+발행한 주식수 | 
+상장일 또는 예정일 | 
+
+
+회차 | 
+종류 | 
+
+
+2026-10-08 | 
+1 | 
+국내 무기명식 이권부 무보증 사모 전환사채 | 
+600,000,000원 | 
+4,726 | 
+126,957 | 
+2026-10-27 | 
+
+
+
+전환사채 잔액 
+
+
+
+회차 | 
+발행당시 사채의 권면(전자등록)총액(통화단위) | 
+신고일 현재 미전환사채 잔액 (통화단위) | 
+전환가액(원) | 
+전환가능 주식수 | 
+
+
+1 | 
+1,500,000,000 | 
+KRW : South-Korean Won | 
+449,999,732 | 
+KRW : South-Korean Won | 
+4,726 | 
+95,217 |
