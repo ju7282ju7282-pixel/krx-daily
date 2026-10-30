@@ -276,13 +276,14 @@ if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "body":
 #  반기보고서(6/30) 뒤에 생긴 물량 공시가 있는 회사를 고르려고, 공시 이름별로 그 기간 전 종목 목록만 받음 → data/dart/events_<시작>_<끝>.json
 if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "events":
     s_, e_ = sys.argv[2], sys.argv[3]; out = []; seen = set()
-    for rn in ["전환사채권발행결정", "신주인수권부사채권발행결정", "교환사채권발행결정", "유상증자결정", "감자결정", "주식병합결정", "전환가액의조정",
+    for rn in ["주요사항보고서", "증권발행실적보고서", "전환사채권발행결정", "신주인수권부사채권발행결정", "교환사채권발행결정", "유상증자결정", "감자결정", "주식병합결정", "전환가액의조정",
                "신주인수권행사가액의조정", "교환가액의조정", "증권발행결과", "전환청구권행사", "자기전환사채", "만기전사채취득", "추가상장", "회사합병결정", "회사분할결정"]:
         try: rows = search(startDate=s_, endDate=e_, reportName=rn)
         except Exception as ex: print("실패", rn, repr(ex)[:80]); continue
         n = 0
         for r in rows:
             if r["market"] not in ("KOSPI", "KOSDAQ") or r["rcpNo"] in seen: continue
+            if rn == "주요사항보고서" and not re.search(OVER + "|합병|분할", r["title"]): continue
             seen.add(r["rcpNo"]); r["q"] = rn; out.append(r); n += 1
         print(rn, n, flush=True)
     N, nz = codes_by_name()
