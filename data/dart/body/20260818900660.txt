@@ -1,0 +1,157 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+오름테라퓨틱/전환주식의 전환가액 조정/(2026.08.18)전환주식의 전환가액 조정(전환우선주) 
+
+
+
+
+
+전환주식의 전환가액 조정 
+
+
+
+
+1. 전환주식의 종류 | 
+발행일 | 
+2026-01-17 | 
+종류 | 
+전환우선주 | 
+
+
+2. 조정에 관한 사항 | 
+상장여부 | 
+조정전 전환가액(원) | 
+조정후 전환가액(원) | 
+
+
+비상장 | 
+90,355 | 
+67,649 | 
+
+
+3. 전환가능주식수 변동 | 
+신고일 현재 전환주식수(주) | 
+조정전 전환가능 주식수(주) | 
+조정후 전환가능 주식수(주) | 
+
+
+276,685 | 
+276,685 | 
+369,552 | 
+
+
+4. 조정사유 | 
+시가 하락으로 인한 전환가액의 조정 | 
+
+
+5. 조정근거 및 방법 | 
+[조정근거] 회사의 보통주 가격이 하락할 경우 본건 우선주 발행일이후 매 7개월이 경과한 날을 '전환가액 조정일'로 하고, 각 전환가액 조정일 전일을 기산일로 하여 이를 기준으로 소급한 발행회사 보통주의 최근 1개월 가중산술평균주가, 1주일 가중산술평균주가 및 기산일의 가중산술평균주가를 산술평균한 가액과 기산일의 가중산술평균주가 중 높은 가격이 조정 전 전환가액보다 낮은 경우에는 그 낮은 금액으로 전환가액을 조정하며, 원단위 미만은 절상한다. 단, 전환가액의 조정한도는 '증권의발행및공시등에관한규정' 제5-22조 제1항 본문의 방법으로 산정한 발행 당시 전환가액의 70%이상이어야 한다. [조정방법] 
+
+(A) 1개월 가중산술평균주가 : 55,116.22원 
+
+(B) 1주일 가중산술평균주가 : 68,748.11원 
+
+(C) 기산일 가중산술평균주가 : 67,648.05원 
+
+(D) 산술평균 ((A+B+C)/3) : 63,837.46원 
+
+(E) 기준주가 (Max (C,D) : 67,648.05원 
+
+(F) 조정전전환가액 : 90,355원 
+
+(G) 조정 전환가액 : 67,649원(원단위미만 
+
+절상) | 
+
+
+6. 조정가액 적용일 | 
+2026-08-17 | 
+
+
+7. 이사회결의일(결정일) | 
+- | 
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+- 감사(사외이사가 아닌 감사위원 포함) 참석여부 | 
+- | 
+
+
+8. 기타 투자판단에 참고할 사항 | 
+- 상기 전환가액의 조정은 시가하락에 따른 전환가액 조정으로 별도의 이사회를 개최하지 않았습니다 | 
+
+
+※ 관련공시 | 
+2026-01-08 유상증자결정(제3자배정) 2026-01-16 증권 발행결과(자율공시) |
