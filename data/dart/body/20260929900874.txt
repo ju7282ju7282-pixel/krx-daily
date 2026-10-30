@@ -1,0 +1,97 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+아리바이오홀딩스/기타 주요경영사항/(2026.09.29)기타 주요경영사항(회사합병 결정 철회) 
+
+
+
+
+
+
+
+기타 주요경영사항 
+
+
+
+
+
+
+1. 제출사유 | 
+주요사항보고서(회사합병 결정) 철회 | 
+
+
+2. 주요내용 | 
+[회사합병 결정 철회] 당사는 2024년 08월 09일 최초 이사회결의를 통해 합병회사가 피합병회사를 흡수합병하는 내용의 합병계약을 체결하고, 이후 수 차례 위 거래 내용을 변경하는 계약을 체결하였으며, 각 회사의 이사회는 이를 모두 승인하였습니다. 합병회사는 본건 합병에 따른 합병신주를 발행하기 위하여 2024년 8월 19일 금융감독원에 제출한 증권신고서의 효력이 재차 정정요구를 받았으며, 가장 최근 2026년 6월 23일까지 지속적으로 정정 증권신고서를 제출하였고, 2026년 7월 2일 정정신고서 제출요구를 받았습니다. 또한 각 회사는 본건 합병에 대하여 주주총회 특별결의에 의한 승인을 얻기 위하여 2027년 1월 6일 각 회사의 임시주주총회 개최를 예정하였습니다. 본 합의서 체결일 전일 합병회사의 기준 주가는 관계 법령에 따라 산정한 각 주식매수청구 가격을 현저히 하회하며, 피합병회사는 추가적인 독점판매권 계약으로 기준 주가 가치의 변동이 생겨, 증권신고서 효력발생 이후 임시주주총회를 진행할 경우 각 당사자에게 대량의 주식매수청구권 행사가 이루어질 것으로 예상되는 바, 당사자들은 현재의 불확실한 대외적 경영여건 하에서 대량의 주식매수청구권 행사로 인한 리스크가 증대되는 것을 방지할 필요가 있다는 점에 의견을 같이하고, 본건 합병을 중단하고 본 합의서를 체결함으로써 본건 합병계약을 해제하는 것이 각 당사자 및 그 주주의 이익에 부합하는 적절한 의사결정이라는 판단에 이르게 되었습니다. 이에 양사는 2026년 09월 29일 이사회 결의를 통해 현재 진행되고 있는 주식회사 아리바이오홀딩스와 주식회사 아리바이오의 흡수합병계약을 해제하는 합병 계약 해제 합의서를 체결하였습니다. 이에 향후 예정된 모든 합병과 관련된 사항은 취소가 되었사오니 투자자분들께서는 이점 유의하시기 바랍니다. □ 합병계약서 제13조(해제) 1항 
+
+(1) 각 당사회사는 합병기일 전에는 언제라도 상대방 당사회사와의 서면합의에 의하여 본 계약을 해제할 수 있다. | 
+
+
+3. 결정(발생)일자 | 
+2026-09-29 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+- |

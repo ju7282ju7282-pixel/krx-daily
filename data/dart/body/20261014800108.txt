@@ -1,0 +1,140 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+SK디앤디/유상증자 또는 주식관련사채 등의 청약결과(자율공시)/(2026.10.14)유상증자 또는 주식관련사채 등의 청약결과(자율공시) 
+
+
+
+
+
+
+
+유상증자 또는 주식관련사채 등의 청약결과(자율공시) 
+
+
+
+
+
+
+1. 증권의 종류 | 
+기명식 보통주 | 
+
+
+2. 발행방법 | 
+주주배정 유상증자 | 
+
+
+3. 청약대상자 | 
+구주주(신주인수권증서 보유자) | 
+
+
+4. 청약일자 | 
+2026-10-13 | 
+
+
+5. 청약결과 | 
+발행예정주식수(주) | 
+44,681,000 | 
+
+
+해당 청약주식수(주) | 
+51,613,927 | 
+
+
+청약주식수(누계)(주) | 
+51,613,927 | 
+청약률(%) | 
+115.52 | 
+
+
+6. 단수주 및 실권주 처리방법 | 
+금번 유상증자 방식은 주주배정 유상증자이므로 구주주 청약결과 발생된 단수주 1,377주는 미발행됩니다. | 
+
+
+7. 기타 투자판단과 관련한 중요사항 | 
+1. 상기 4항의 청약일자는 구주주 청약기간 종료일 입니다. (구주주 청약기간 : 2026.10.12 ~ 2026.10.13) 2. 청약결과 상세내역 
+
+- 모집주식수 : 44,681,000주 
+
+- 신주인수권증서 청약 주식수 : 43,286,672주 
+
+- 초과청약 주식수 : 8,327,255주 
+
+(초과청약배정비율 : 16.74%) 
+
+- 총 청약 주식수 : 51,613,927주 
+
+(총 청약률 : 115.52%) 
+
+- 환불주식수 : 6,934,304주 ※ 초과청약에 참여한 청약자는 초과청약 주식수에 상기 초과청약배정비율을 곱하여 산정한 주식수에서 1주 미만을 절사한 주식을 배정받음 3. 향후 주요 일정 
+
+- 환불 및 주금납입일 : 2026년 10월 15일 
+
+- 신주 상장(유통)예정일 : 2026년 10월 28일 | 
+
+
+※관련공시 | 
+2026-10-07 유상증자결정 2026-10-07 유상증자 신주발행가액(안내공시) 2026-10-07 증권신고서(지분증권) 2026-10-07 투자설명서 |

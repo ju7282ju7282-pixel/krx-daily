@@ -1,0 +1,145 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+나인테크/전환가액의조정/(2026.07.16)전환가액의조정 
+
+
+
+
+
+
+
+전환가액의 조정 
+
+
+
+
+
+
+1. 조정에 관한 사항 | 
+회차 | 
+상장여부 | 
+조정전 전환가액 (원) | 
+조정후 전환가액 (원) | 
+
+
+6 | 
+비상장 | 
+3,333 | 
+2,334 | 
+
+
+2. 전환가능주식수 변동 | 
+회차 | 
+미전환사채의 권면(전자등록)총액 (통화단위) | 
+조정전 전환가능 주식수 (주) | 
+조정후 전환가능 주식수 (주) | 
+
+
+6 | 
+12,000,000,000 | 
+KRW : South-Korean Won | 
+3,600,360 | 
+5,141,388 | 
+
+
+3. 조정사유 | 
+시가하락에 따른 전환가액 조정 | 
+
+
+4. 조정근거 및 방법 | 
+1. 조정근거 
+
+본 사채의 발행일로부터 매 7개월마다 전환가액을 조정하되, 조정된 전환가액은 전환가액 조정일 전일을 기산일로 하여 (ⅰ) 그 기산일로부터 소급한 1개월 가중산술평균주가, 1주일 가중산술평균주가 및 최근일 가중산술평균주가를 산술평균한 가액과 (ⅱ) 최근일 가중산술평균주가 중 높은 가액이 직전 전환가액보다 낮을 경우 그 낮은 가격을 새로운 전환가액으로 하향조정한다. 단, 새로운 전환가액은 발행 당시 전환가액(조정일 전에 신주의 할인발행 등의 사유로 전환가액을 이미 조정한 경우에는 이를 감안하여 산정한 가격)의 70% 이상이어야 한다. (최저조정한도:2,334원) 조정 후 전환가격 중 원단위 미만은 절상한다. 2. 조정방법 A. 1개월 가중산술평균주가 : 2,263.37 원 B. 1주일 가중산술평균주가 : 2,036.60 원 C. 최근일 가중산술평균주가 : 2,035.15 원 D. 산술평균가격[(A+B+C)/3] : 2,111.71 원 E. C와 D중 높은가액 : 2,111.71 원 F. 최종 전환가액 : 2,334 원 ※조정가액 한도(발행가액 70%) : 2,334원 | 
+
+
+5. 조정가액 적용일 | 
+2026-07-16 | 
+
+
+6. 이사회결의일(결정일) | 
+- | 
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+- 감사(사외이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+상기사항은 시가하락에 의한 전환가액 조정으로 별도의 이사회 결의를 하지 않았습니다. | 
+
+
+※ 관련공시 | 
+2025-12-08 전환사채권발행결정(제6회차) 2025-12-16 증권 발행결과(자율공시) |

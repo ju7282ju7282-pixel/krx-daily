@@ -1,0 +1,120 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+SK디앤디/유상증자 또는 주식관련사채 등의 발행결과(자율공시)/(2026.10.15)유상증자 또는 주식관련사채 등의 발행결과(자율공시) 
+
+
+
+
+
+
+
+유상증자 또는 주식관련사채 등의 발행결과(자율공시) 
+
+
+
+
+
+
+1. 증권의 종류 | 
+기명식 보통주 | 
+
+
+2. 발행방법 | 
+주주배정 유상증자 | 
+
+
+3. 발행내역 | 
+발행예정주식수(주) | 
+44,681,000 | 
+
+
+발행예정금액(원) | 
+100,979,060,000 | 
+
+
+발행결정 최초 이사회결의일 | 
+2026-07-28 | 
+
+
+실제발행주식수(주) | 
+44,679,623 | 
+
+
+실제발행금액(원) | 
+100,975,947,980 | 
+
+
+납입일 | 
+2026-10-15 | 
+
+
+4. 기타 투자판단과 관련한 중요사항 | 
+1. 당사의 2026년 7월 28일 이사회 결의에 의한 유상증자(주주배정)는 상기 내용과 같이 납입이 완료되었습니다. 2. 주주배정 유상증자 결과 발생하는 단수주 1,377주는 미발행 처리됩니다. 3.향후 진행 일정 - 신주 상장 예정일: 2026년 10월 28일 | 
+
+
+※ 관련공시 | 
+2026-10-07 유상증자결정 2026-10-07 유상증자 신주발행가액(안내공시) 2026-10-07 증권신고서(지분증권) 2026-10-07 투자설명서 2026-10-14 유상증자 또는 주식관련사채 등의 청약결과(자율공시) |
