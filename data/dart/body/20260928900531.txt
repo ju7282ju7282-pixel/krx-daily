@@ -1,0 +1,143 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+아이티켐/전환가액의조정/(2026.09.28)전환가액의조정(제1회차) 
+
+
+
+
+
+
+
+전환가액의 조정 
+
+
+
+
+
+
+1. 조정에 관한 사항 | 
+회차 | 
+상장여부 | 
+조정전 전환가액 (원) | 
+조정후 전환가액 (원) | 
+
+
+1 | 
+비상장 | 
+33,633 | 
+26,907 | 
+
+
+2. 전환가능주식수 변동 | 
+회차 | 
+미전환사채의 권면(전자등록)총액 (통화단위) | 
+조정전 전환가능 주식수 (주) | 
+조정후 전환가능 주식수 (주) | 
+
+
+1 | 
+9,000,000,000 | 
+KRW : South-Korean Won | 
+267,594 | 
+334,485 | 
+
+
+3. 조정사유 | 
+시가하락에 따른 전환가액의 조정 | 
+
+
+4. 조정근거 및 방법 | 
+1) 조정근거 본 사채 발행 후 7개월이 경과하는 날(2026년 09월 27일) 및 본 사채 발행 후 매 7개월이 되는 날을 전환가액 조정일로 하고, 각 전환가액 조정일 전일을 기산일로 하여 (i) 그 기산일로부터 소급한 1개월 가중산술평균주가, 1주일 가중산술평균주가 및 기산일 가중산술평균주가를 산술평균한 가액과 (ii) 기산일 가중산술평균주가 중 높은 가격이 해당 조정일 직전일 현재의 전환가액보다 낮은 경우 동 낮은 가격을 새로운 전환가액(본 라목 및 마목에서 "시가산정액")으로 한다. 단, 본 목에 따른 전환가액의 최저 조정한도는 최초 전환가액의 80% 이상으로 한다(단, 조정일 전에 신주의 할인 발행 등의 사유로 전환가액을 이미 조정한 경우에는 이를 감안하여 산정한다). 위 항목에 따라 산정한 시가산정액이 해당 조정일 직전일의 전환가액보다 높은 경우에는 시가산정액을 새로운 전환가액으로 한다. 단, 본 목에 따른 조정 후 전환가액은 최초 전환가액(조정일 전에 신주의 할인발행 등 또는 감자 등의 사유로 전환가액을 이미 하향 또는 상향 조정한 경우에는 이를 감안하여 산정한 가액)을 상한으로 한다. 2) 조정방법 가. 1개월 가중산술평균주가 : (거래정지) 나. 1주일 가중산술평균주가 : (거래정지) 다. 최근일 가중산술평균주가 : 22,027원 라. "가, 나, 다"를 산술평균한 가격 : 22,027원 마. 기준주가(MAX(다,라)) : 22,027원 바. 조정 전 전환가액 : 33,633원 사. 조정가액(MIN(마,바)) : 22,027원 아. 최저 조정한도 : 26,907원(최초 전환가액의 80%) 자. 조정 후 전환가액 : 26,907원(원 단위 미만 절상) | 
+
+
+5. 조정가액 적용일 | 
+2026-09-27 | 
+
+
+6. 이사회결의일(결정일) | 
+- | 
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+- 감사(사외이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+- 당사는 현재 거래정지 중으로 거래정지 전 가격을 최근일 가중산술평균주가로 산정하였습니다 | 
+
+
+※ 관련공시 | 
+2026-04-07 자기 전환사채 만기전 취득 결정(제1회차) 2026-02-19 전환사채권발행결정(제1회차) |

@@ -1,0 +1,177 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+KBI메탈/전환청구권행사/(2026.10.20)전환청구권행사 
+
+
+
+
+
+
+
+전환청구권 행사 
+
+
+
+
+
+
+1. 전환청구권 행사주식수 누계 (주) (기 신고된 주식수량 제외) | 
+505,864 | 
+
+
+-발행주식총수(주) | 
+43,159,888 | 
+
+
+-발행주식총수 대비(%) | 
+1.17 | 
+
+
+2. 공정거래위원회 신고대상 여부 | 
+미해당 | 
+
+
+3. 기타 투자판단에 참고할 사항 | 
+- 상기 '발행주식총수'는 금번 '전환청구권 행사주식수 누계' 수량이 포함되지 않은 '발행주식총수'입니다. | 
+
+
+※관련공시 | 
+2024-06-19 전환사채권발행결정(제4회차) 2026-04-22 전환청구권행사 2026-04-23 전환청구권행사 2026-04-27 전환청구권행사 2026-04-29 전환청구권행사 2026-04-29 전환청구권행사 2026-04-29 전환청구권행사 2026-04-30 전환청구권행사 2026-04-30 전환청구권행사 2026-05-04 전환청구권행사 2026-05-04 전환청구권행사 2026-05-06 전환청구권행사 2026-05-21 전환청구권행사 2026-06-30 전환청구권행사 | 
+
+
+
+일별 전환청구내역 
+
+
+
+청구일자 | 
+사채의 명칭 | 
+청구금액 | 
+전환가액 | 
+발행한 주식수 | 
+상장일 또는 예정일 | 
+
+
+회차 | 
+종류 | 
+
+
+2026-08-10 | 
+4 | 
+무기명식 무이권부 무보증 사모 전환사채 | 
+300,000,000원 | 
+2,284 | 
+131,348 | 
+2026-08-28 | 
+
+
+2026-08-31 | 
+4 | 
+무기명식 무이권부 무보증 사모 전환사채 | 
+400,000,000원 | 
+2,284 | 
+175,131 | 
+2026-09-21 | 
+
+
+2026-09-22 | 
+4 | 
+무기명식 무이권부 무보증 사모 전환사채 | 
+255,398,166원 | 
+2,284 | 
+111,820 | 
+2026-10-19 | 
+
+
+2026-10-20 | 
+4 | 
+무기명식 무이권부 무보증 사모 전환사채 | 
+200,000,000원 | 
+2,284 | 
+87,565 | 
+2026-11-09 | 
+
+
+
+전환사채 잔액 
+
+
+
+회차 | 
+발행당시 사채의 권면(전자등록)총액(통화단위) | 
+신고일 현재 미전환사채 잔액 (통화단위) | 
+전환가액(원) | 
+전환가능 주식수 | 
+
+
+4 | 
+20,000,000,000 | 
+KRW : South-Korean Won | 
+0 | 
+KRW : South-Korean Won | 
+2,284 | 
+0 |

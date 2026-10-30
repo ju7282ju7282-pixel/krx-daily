@@ -1,0 +1,133 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+버킷스튜디오/기타 주요경영사항/(2026.08.26)기타 주요경영사항(제3자 배정 유상증자 결정 철회) 
+
+
+
+
+
+
+
+기타 주요경영사항 
+
+
+
+
+
+
+1. 제출사유 | 
+제3자 배정 유상증자 결정 철회 | 
+
+
+2. 주요내용 | 
+1. 개요 당사는 2025년12월 24일 최초 이사회 결의로 제3자배정 유상증자를 결정한 바 있습니다. 2. 철회 내용 1) 유상증자 결정 철회 
+
+
+
+가. 이사회 결의일 
+
+- 최초: 2025년 12월 24일 
+
+- 정정: 2026년 02월 27일(1차) 
+
+- 정정: 2026년 03월 30일(2차) 
+
+- 정정: 2026년 04월 20일(3차) 
+
+나. 발행예정주식수 : 보통주 4,084,968주 
+
+다. 발행예정금액 : 20,000,003,328원 
+
+라. 신주발행가액 : 4,896원 
+
+마. 납입일 
+
+- 최초: 2026년 02월 27일 
+
+- 정정: 2026년 03월 31일 
+
+- 정정: 2026년 04월 20일 
+
+- 정정: 2026년 08월 26일 
+
+
+
+바. 자금조달 목적 : 운영자금 
+
+사. 신주의 배정대상자 
+
+- 주식회사 와비사비홀딩스 : 총 4,084,968주 3. 철회 사유 
+
+- 그간의 진행 경과 및 제반 여건 등을 종합적으로 고려하여 본 유상증자를 계속 추진하기 어렵다고 판단하여 유상 증자 결정을 철회함 4. 철회 결정 이사회결의일 : 2026년 08월 26일 | 
+
+
+3. 결정(발생)일자 | 
+2026-08-26 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+1. 관련공시 - 2025.12.29 주요사항보고서(유상증자결정) - 2026.02.27 [정정]주요사항보고서(유상증자결정) - 2026.03.30 [정정]주요사항보고서(유상증자결정) - 2026.04.20 [정정]주요사항보고서(유상증자결정) |
