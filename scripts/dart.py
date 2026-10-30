@@ -245,3 +245,21 @@ if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "body":
         full = rc.endswith("*"); rc = rc.rstrip("*")   # 끝에 * 붙이면 목차 칸 전부(세부변동내역 같은 뒤쪽 표까지) 받음
         try: open(f"data/dart/body/{rc}.txt", "w").write(body_all(rc) if full else body(rc)); print("받음", rc, "전부" if full else "")
         except Exception as e: print("실패", rc, e)
+
+# ── 시장 전체 기간 목록(본문 없이): python scripts/dart.py events 20260701 20261020 — 10/30 주말 정리용
+#  반기보고서(6/30) 뒤에 생긴 물량 공시가 있는 회사를 고르려고, 공시 이름별로 그 기간 전 종목 목록만 받음 → data/dart/events_<시작>_<끝>.json
+if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "events":
+    s_, e_ = sys.argv[2], sys.argv[3]; out = []; seen = set()
+    for rn in ["전환사채권발행결정", "신주인수권부사채권발행결정", "교환사채권발행결정", "유상증자결정", "감자결정", "주식병합결정", "전환가액의조정",
+               "신주인수권행사가액의조정", "교환가액의조정", "증권발행결과", "전환청구권행사", "자기전환사채", "만기전사채취득", "추가상장", "회사합병결정", "회사분할결정"]:
+        try: rows = search(startDate=s_, endDate=e_, reportName=rn)
+        except Exception as ex: print("실패", rn, repr(ex)[:80]); continue
+        n = 0
+        for r in rows:
+            if r["market"] not in ("KOSPI", "KOSDAQ") or r["rcpNo"] in seen: continue
+            seen.add(r["rcpNo"]); r["q"] = rn; out.append(r); n += 1
+        print(rn, n, flush=True)
+    N, nz = codes_by_name()
+    for r in out: r["code"] = N.get(nz(r["corp"]), "")
+    json.dump(out, open(f"data/dart/events_{s_}_{e_}.json", "w"), ensure_ascii=False, indent=0)
+    print("모두", len(out), "회사", len({r['corp'] for r in out}))
