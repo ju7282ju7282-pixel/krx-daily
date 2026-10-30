@@ -1,0 +1,223 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+딥커머스/주식병합결정/(2026.08.25)주식병합결정 
+
+
+
+
+
+
+
+정정신고(보고) 
+
+
+
+정정일자 | 
+2026-08-25 | 
+
+
+
+
+
+
+1. 정정관련 공시서류 | 
+주식병합 결정 | 
+
+
+2. 정정관련 공시서류제출일 | 
+2026-06-26 | 
+
+
+3. 정정사유 | 
+제3자배정 유상증자에 따른 발행주식총수 증가 | 
+
+
+4. 정정사항 | 
+
+
+정정항목 | 
+정정전 | 
+정정후 | 
+
+
+1. 주식병합 내용 1주당 가액(원) | 
+병합전: 17,769 병합후: 88,848 | 
+병합전: 12,244 병합후: 61,222 | 
+
+
+1. 주식병합 내용 발행주식총수 | 
+병합전: 12,291,581 병합후: 2,458,316 | 
+병합전: 18,437,131 병합후: 3,687,426 | 
+
+
+
+
+
+
+- | 
+
+
+
+
+
+
+
+
+주식병합 결정 
+
+
+
+
+
+1. 주식병합 내용 | 
+구분 | 
+병합전 | 
+병합후 | 
+
+
+1주당 가액 (원) | 
+12,244 | 
+61,222 | 
+
+
+발행주식총수 | 
+보통주식(주) | 
+18,437,131 | 
+3,687,426 | 
+
+
+종류주식(주) | 
+- | 
+- | 
+
+
+2. 주식병합 일정 | 
+주주총회예정일 | 
+2026-08-12 | 
+
+
+구주권제출기간 | 
+시작일 | 
+- | 
+
+
+종료일 | 
+- | 
+
+
+신주의 효력발생일 | 
+2026-08-28 | 
+
+
+매매거래정지예정기간 | 
+시작일 | 
+2026-08-26 | 
+
+
+종료일 | 
+2026-09-17 | 
+
+
+명의개서정지기간 | 
+- | 
+
+
+신주권교부예정일 | 
+- | 
+
+
+신주권상장예정일 | 
+2026-09-18 | 
+
+
+3. 주식병합목적 | 
+적정 유통주식수 유지를 통한 주가 안정화 및 기업가치 제고 | 
+
+
+4. 이사회결의일 | 
+2026-06-26 | 
+
+
+-사외이사 참석여부 | 
+참석(명) | 
+1 | 
+
+
+불참(명) | 
+- | 
+
+
+-감사(사외이사가 아닌 감사위원) 참석여부 | 
+참석 | 
+
+
+5. 기타 투자판단에 참고할 사항 | 
+- 본 건은 기업가치가 유지되는 '주식병합'으로 자본금이 감소되는 '감자'에 해당되지 않습니다. - 본 주식병합 건의 병합 비율은 5:1 입니다. - 당사는 홍콩법인으로 홍콩 회사조례에 따라 발행한 주식은 무액면 주식입니다. 상기 '1주당 가액'은 1주당 자본금을 기재하였습니다. 1주당 자본금은 서울외국환중개 2026년 6월 26일 고시환율 1RMB=227.17원을 적용하였습니다. - 주식의 병합으로 발생하는 1주 미만의 단수주는 신주상장 초일의 종가를 기준으로 현금지급 예정입니다. - 상기 1.주식병합 내용 중 병합후 발행주식총수는 1주 미만의 단수주에 따라 변경될 수 있습니다. - 본 주식병합 결정은 정기주주총회 의안으로 주주총회 결과에 따라 변경될 수 있음. - 상기 일정 및 세부내용은 관계기관과의 협의 및 처리과정에서 변경될 수 있습니다. | 
+
+
+※관련공시 | 
+- |

@@ -1,0 +1,143 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+해성옵틱스/전환가액의조정/(2026.09.21)전환가액의조정 
+
+
+
+
+
+
+
+전환가액의 조정 
+
+
+
+
+
+
+1. 조정에 관한 사항 | 
+회차 | 
+상장여부 | 
+조정전 전환가액 (원) | 
+조정후 전환가액 (원) | 
+
+
+12 | 
+비상장 | 
+619 | 
+1,251 | 
+
+
+2. 전환가능주식수 변동 | 
+회차 | 
+미전환사채의 권면(전자등록)총액 (통화단위) | 
+조정전 전환가능 주식수 (주) | 
+조정후 전환가능 주식수 (주) | 
+
+
+12 | 
+2,500,000,000 | 
+KRW : South-Korean Won | 
+4,038,772 | 
+1,998,401 | 
+
+
+3. 조정사유 | 
+시가하락에 따른 전환가액 조정 | 
+
+
+4. 조정근거 및 방법 | 
+본 사채 발행일로부터 매 7개월이 되는 날을 전환가격 조정일로 하고, 각 전환가격 조정일 전일을 기산일로 하여 그 기산일로부터 소급한 1개월 가중산술평균주가, 1주일 가중산술평균주가 및 기산일 가중산술평균주가를 산술평균한 가액과 기산일 가중산술평균주가 중 높은 가격이 해당 조정일 직전일 현재의 전환가격보다 낮은 경우 동 낮은 가격을 새로운 전환가격으로 한다. 단, 전환가격의 최저 조정한도는 액면가까지로 한다(단, 조정일 전에 신주의 할인발행 등 또는 감자 등의 사유로 전환가격을 이미 조정한 경우에는 이를 감안하여 산정한다). 조정방법 a. 1개월 가중산술평균주가 : 1,305.48원 b. 1주일 가중산술평균 주가 : 1,265,72원 c. 최근일 전일 가중산술평균주가:1,180.20원 e. 산술평균가액(A+B+C)/3 : 1,250.5원 F. 조정일 전일(기산일) 가중산술평균주가 : 1,180.2원 G. 전환가액 산정 : 1,251원 H. 최종 전환가액 : 1,251원(단, 전환가격의 최저 조정한도는 액면가까지로 한다.) | 
+
+
+5. 조정가액 적용일 | 
+2026-09-21 | 
+
+
+6. 이사회결의일(결정일) | 
+- | 
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+- 감사(사외이사가 아닌 감사위원) 참석여부 | 
+참석 | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+- 상기 '2.전환가능주식수 변동'에서 '미전환사채의 권면(전자등록)총액(통화단위)'과 관련하여, 해당 전환사채의 최초 발행 당시 권면총액은 5,000,000,000원이였으며, 이 중 2,500,000,000원 소각되었습니다. 이에 따라 현재 미전환사채의 권면총액은 2,500,000,000원이며, 해당 전환사채는 현재 당사가 보유하고 있습니다. | 
+
+
+※ 관련공시 | 
+2024-05-21 전환사채권발행결정(제12회차) 2024-12-23 전환가액의조정 2025-07-21 전환가액의조정 |

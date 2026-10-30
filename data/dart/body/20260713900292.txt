@@ -1,0 +1,161 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+옵트론텍/전환가액의조정/(2026.07.13)전환가액의조정(제17회차) 
+
+
+
+
+
+
+
+전환가액의 조정 
+
+
+
+
+
+
+1. 조정에 관한 사항 | 
+회차 | 
+상장여부 | 
+조정전 전환가액 (원) | 
+조정후 전환가액 (원) | 
+
+
+17 | 
+비상장 | 
+1,694 | 
+1,928 | 
+
+
+2. 전환가능주식수 변동 | 
+회차 | 
+미전환사채의 권면(전자등록)총액 (통화단위) | 
+조정전 전환가능 주식수 (주) | 
+조정후 전환가능 주식수 (주) | 
+
+
+17 | 
+5,000,000,000 | 
+KRW : South-Korean Won | 
+2,951,593 | 
+2,593,360 | 
+
+
+3. 조정사유 | 
+시가상승에 따른 전환가액의 조정 | 
+
+
+4. 조정근거 및 방법 | 
+1. 조정근거 - 본 사채 발행일로부터 매 7개월이 되는 날을 전환가액 조정일로 하고, 각 전환가액 조정일 전일을 기산일로 하여 그 기산일로부터 소급하여 산정한 1개월 가중산술평균주가, 1주일 가중산술평균주가, 최근일 가중산술평균주가를 산술평균한 가격과 최근일 가중산술평균주가 중 높은 가액이 직전일 현재의 전환가액보다 높을 경우에는 그 높은 가액을 새로운 전환가액으로 상향조정한다. 단, 전환가액을 상향조정하는 경우 조정 후 전환가액은 발행 당시 전환가격 이내로 하며, 원단위 미만은 원단위로 절상한다. 2. 조정방법 (1) 제17회차 전환사채권 
+
+1) 1개월 가중산술 평균주가 : 1,659.70원 
+
+2) 1주일 가중산술 평균주가 : 1,816.47원 
+
+3) 최근일 가중산술 평균주가 : 1,927.91원 
+
+4) 산술평균가격 [(1)+(2)+(3)/3] : 1,801.36원 
+
+5) 3),4) 중 높은가격 : 1,927.91원 
+
+6) 리픽싱 (하향)한도가격 : 1,547원 
+
+7) 5),6) 중 높은가격 : 1,927.91원 
+
+8) 조정전 행사가격 : 1,694원 
+
+9) 조정후 행사가격 : 1,928원(원단위 미만 절상) | 
+
+
+5. 조정가액 적용일 | 
+2026-07-11 | 
+
+
+6. 이사회결의일(결정일) | 
+- | 
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+- 감사(사외이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+7. 기타 투자판단에 참고할 사항 | 
+상기사항은 시가상승에 의한 전환가액 조정으로 별도의 이사회결의를 하지 않았습니다. | 
+
+
+※ 관련공시 | 
+2026-03-24 전환청구권행사(제17회차) 2025-12-11 전환가액의조정(제17회차) 2025-05-12 전환가액의조정(제17회차) 2024-09-23 전환사채권발행결정(제17회차) |

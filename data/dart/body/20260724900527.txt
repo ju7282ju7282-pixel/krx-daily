@@ -1,0 +1,136 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+엔피/감자완료/(2026.07.24)감자완료 
+
+
+
+
+
+
+
+감자완료 
+
+
+
+
+
+1. 감자 완료일 | 
+2026-07-24 | 
+
+
+2. 감자 완료된 주식의 종류와 수 | 
+보통주식(주) | 
+9,140,776 | 
+
+
+종류주식(주) | 
+- | 
+
+
+3. 발행주식총수의 변동 | 
+감자전 | 
+감자후 | 
+
+
+-보통주식(주) | 
+129,196,935 | 
+120,056,159 | 
+
+
+-종류주식(주) | 
+- | 
+- | 
+
+
+4. 자본금 변동(원) | 
+12,919,693,500 | 
+12,005,615,900 | 
+
+
+5. 주당 액면가액(원) | 
+100 | 
+
+
+6. 감자비율(%) | 
+대주주 | 
+7.08 | 
+
+
+소액주주 | 
+7.08 | 
+
+
+7. 감자결정 이사회결의일 | 
+2026-04-08 | 
+
+
+8. 기타 투자판단에 참고할 사항 | 
+- (주)엔피는 (주)위지윅스튜디오를 흡수합병함에 따라 합병신주 85,101,160주를 발행하였습니다. 이에 따라 (주)엔피의 발행주식 총수는 44,095,775주에서 129,196,935주로 증가하였습니다. 또한, 소멸회사인 (주)위지윅스튜디오가 보유하고 있던 (주)엔피 보통주 9,140,776주를 자기주식으로 취득하였습니다. (주)엔피가 2026년 07월 14일을 합병기일로 하여 (주)위지윅스튜디오를 흡수합병 함에 따라 취득하게된 자기주식 9,140,776주를 전량 소각합니다. - 상기 1. 감자완료일은 자본금 감소로 인한 변경등기가 완료되어 법인등기부등본을 수령한 날입니다. - 감자기준일은 2026년 07월 14일이며, 효력발생일은 2026년 07월 15일입니다. - 본 감자로 인한 변경 상장예정일은 2026년 08월 14일입니다. | 
+
+
+※관련공시 | 
+2026-07-15 증권발행실적보고서(합병등) 2026-05-14 감자결정 2026-05-14 회사합병 결정 2026-04-08 주주총회소집결의(임시주주총회) |

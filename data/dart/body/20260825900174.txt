@@ -1,0 +1,155 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+특수건설/기타 경영사항(자율공시)/(2026.08.25)기타 경영사항(자율공시)(제5회 무기명식 이권부 무보증 사모 전환사채 소각 결정의 건) 
+
+
+
+
+
+
+
+정정신고(보고) 
+
+
+
+정정일자 | 
+2026-08-25 | 
+
+
+
+
+
+
+1. 정정관련 공시서류 | 
+기타경영사항(자율공시) (제5회 무기명식 이권부 무보증 사모 전환사채 소각 결정의 건) | 
+
+
+2. 정정관련 공시서류제출일 | 
+2026-08-25 | 
+
+
+3. 정정사유 | 
+전자등록기관의 업무 처리 일정에 따른 사채 소각 예정일 변경 | 
+
+
+4. 정정사항 | 
+
+
+정정항목 | 
+정정전 | 
+정정후 | 
+
+
+2. 주요내용 | 
+당사는 2026년 8월 21일 이사회결의를 통해 다음과 같이 제5회 무기명식 이권부 무보증 사모 전환사채의 소각을 결정하였습니다. 1. 소각 대상 사채의 명칭: 제5회 무기명식 이권부 무보증 사모 전환사채 2. 소각 전환사채의 권면금액: 3,600,000,000원 3. 사채 소각 예정일: 2026년 8월 31일 | 
+당사는 2026년 8월 21일 이사회결의를 통해 제5회 무기명식 이권부 무보증 사모 전환사채의 소각을 결정하였으며, 2026년 8월 25일 이사회결의를 통해 소각 예정일을 변경하였습니다. 1. 소각 대상 사채의 명칭: 제5회 무기명식 이권부 무보증 사모 전환사채 2. 소각 전환사채의 권면금액: 3,600,000,000원 3. 사채 소각 예정일: 2026년 9월 1일 | 
+
+
+
+
+
+
+- | 
+
+
+
+
+
+
+
+
+기타 경영사항(자율공시) 
+
+
+
+
+
+
+1. 제목 | 
+주식회사 특수건설 제5회 무기명식 이권부 무보증 사모 전환사채 소각 결정의 건 | 
+
+
+2. 주요내용 | 
+당사는 2026년 8월 21일 이사회결의를 통해 제5회 무기명식 이권부 무보증 사모 전환사채의 소각을 결정하였으며, 2026년 8월 25일 이사회결의를 통해 소각 예정일을 변경하였습니다. 1. 소각 대상 사채의 명칭: 제5회 무기명식 이권부 무보증 사모 전환사채 
+
+2. 소각 전환사채의 권면금액: 3,600,000,000원 
+
+3. 사채 소각 예정일: 2026년 9월 1일 | 
+
+
+3. 결정(확인)일자 | 
+2026-08-21 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+
+
+- 상기 '2. 주요내용'의 '3. 사채소각 예정일'은 관계기관의 일정에 따라 변경될 수 있습니다. - 상기 '3. 결정(확인)일자'는 이사회 결의일입니다. - 당사는 전환사채를 발행회사 콜옵션 행사에 따라 2026년 6월 1일 만기전 취득하였습니다. - 금번 소각은 상기 취득한 전환사채 전액을 소각하는 것으로, 본 소각 완료 후 회사가 보유한 자기전환사채는 없습니다. | 
+
+
+※ 관련공시 | 
+2026-06-01 전환사채(해외전환사채포함)발행후만기전사채취득 |
