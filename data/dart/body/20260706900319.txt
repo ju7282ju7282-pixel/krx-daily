@@ -1,0 +1,124 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+세니젠/증권 발행결과(자율공시)/(2026.07.06)증권 발행결과(자율공시)(제3자배정 유상증자) 
+
+
+
+
+
+
+
+증권 발행결과(자율공시) 
+
+
+
+
+
+
+1. 증권의 종류 | 
+(주)세니젠 기명식 보통주 | 
+
+
+2. 발행방법 | 
+제3자배정 유상증자 | 
+
+
+3. 발행내역 | 
+발행예정주식수(주) | 
+637,845 | 
+
+
+발행예정금액(원) | 
+899,999,295 | 
+
+
+발행결정 최초 이사회결의일 | 
+2026-04-15 | 
+
+
+실제발행주식수(주) | 
+637,845 | 
+
+
+실제발행금액(원) | 
+899,999,295 | 
+
+
+납입일 | 
+2026-07-06 | 
+
+
+4. 상장예정 여부 | 
+예 | 
+
+
+5. 기타 투자판단에 참고할 사항 | 
+- 금번 제3자배정 유상증자로 발행되는 주식 전량은 주식교부일로부터 1년간 보호예수 됩니다. | 
+
+
+※관련공시 | 
+2026-04-15 유상증자결정(제3자배정) 2026-05-13 유상증자결정(제3자배정) 2026-06-22 유상증자결정(제3자배정) |

@@ -1,0 +1,99 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+크라우드웍스/기타 주요경영사항/(2026.08.21)기타 주요경영사항(제3자배정 유상증자결정 철회) 
+
+
+
+
+
+
+
+기타 주요경영사항 
+
+
+
+
+
+
+1. 제출사유 | 
+제3자배정 유상증자결정 철회 | 
+
+
+2. 주요내용 | 
+1. 개요 당사는 2025.12.16.자 이사회 결의로 제3자배정 유상증자를 결정하여 동일 관련 공시 및 2026.02.27.자로 정정공시를 진행한 바 있으며, 해당 유상증자에 대하여 아래와 같이 결정을 철회합니다. 2. 철회 내용 　　1) 신주의 종류와 수: 보통주식 1,754,385주 　　2) 발행예정금액: 7,999,995,600원 　　3) 증자방식: 제3자배정증자 　　4) 최초납입일: 2026년 3월 3일 
+
+5) 최종납입일: 2026년 9월 2일 　　6) 신주 발행가액(최종): 4,560원 　　7) 자금조달 목적: 운영자금, 타법인증권 취득자금 　　8) 최초 이사회 결의일: 2025년 12월 16일 
+
+(최종 변경 2026년 2월 27일) 　　9) 제3자배정 대상자 및 배정주식수: 　　　　바이오폴리머(주), 1,754,385주 3. 철회 사유 당사는 기존 배정자인 바이오폴리머(주)가 상법 제520조의2 제1항에 따라 해산간주되었다는 사실을 확인후 해당 법인의 실제 영업진행여부와 납입가능 여부를 확인하였으나, 결국 납입이 불가하다는 판단을 하였습니다. 이에 대체납입자를 선정하고자 하였으나, 당사가 공시한 유상증자 대금 전액을 온전히 납입할 능력이 있는 납입자를 찾지 못함에 따라 본 유상증자의 철회를 결정하게 되었습니다. | 
+
+
+3. 결정(발생)일자 | 
+2026-08-21 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+- |
