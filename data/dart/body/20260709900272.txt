@@ -1,0 +1,105 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+씨유메디칼/기타 경영사항(자율공시)/(2026.07.09)기타 경영사항(자율공시)(제 11회차 무기명식 이권부 무보증 전환사채 소각 결정의 건) 
+
+
+
+
+
+
+
+기타 경영사항(자율공시) 
+
+
+
+
+
+
+1. 제목 | 
+주식회사 씨유메디칼시스템 제11회 무기명식 이권부 무보증 전환사채 소각(말소) 결정의 건 | 
+
+
+2. 주요내용 | 
+당사는 2026년 07월 08일 이사회결의를 통해 다음과 같이 주식회사 씨유메디칼시스템 제11회 무기명식 이권부 무보증 전환사채 자기보유분에 대해 소각(말소)을 결정하였습니다. 1. 소각 대상 사채: 주식회사 씨유메디칼시스템 제11회 무기명식 이권부 무보증 전환사채 2. 소각 전환사채의 권면금액: 2,000,000,000원 3. 사채소각 목적: 주식가치 희석 요인 제거를 통한 주주가치 제고 4. 사채 말소 예정일: 2026년 07월 10일 | 
+
+
+3. 결정(확인)일자 | 
+2026-07-08 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+
+
+- 상기 3.결정(확인)일자는 이사회 결의일입니다. - 당사는 2026년 3월 30일 발행한 제11회 전환사채 권면금액 7,000,000,000원 중 2,000,000,000원에 대하여 중도상환청구권(Call-Option)행사에 따라 만기전 취득하여 자기 사채로 보유하였습니다. - 제11회 전환사채와 관련 내용은 아래와 같습니다. 
+
+1) 전환사채 발행총액 : 7,000,000,000원 
+
+2) 금번 소각 할 총액 : 2,000,000,000원 - 상기 '2.주요내용의 5.사채 말소 예정일'은 관계기관의 일정에 따라 변경될 수 있습니다. | 
+
+
+※ 관련공시 | 
+2026-03-17 전환사채권발행결정(제11회차) 2026-03-30 증권 발행결과(자율공시) 2026-07-06 자기 전환사채 만기전 취득 결정(제11회차) |

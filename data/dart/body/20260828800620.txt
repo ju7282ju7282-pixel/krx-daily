@@ -1,0 +1,168 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+KR모터스/전환청구권·신주인수권·교환청구권 행사/(2026.08.28)전환청구권·신주인수권·교환청구권 행사 
+
+
+
+
+
+전환청구권·신주인수권·교환청구권 행사 
+
+
+
+
+
+1. 구분 | 
+전환사채권의 전환청구권 행사 | 
+
+
+2. 행사주식수 누계(주) (기 신고된 주식수량 제외) | 
+2,400,000 | 
+
+
+- 발행주식총수(주) | 
+17,275,036 | 
+
+
+- 발행주식총수 대비(%) | 
+13.9 | 
+
+
+3. 공정거래위원회 신고대상 여부 | 
+미해당 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+- | 
+
+
+※ 관련공시 | 
+2025-08-28 전환사채권발행결정 2025-08-21 유상증자 또는 주식관련사채 등의 발행결과(자율공시) 2026-02-20 전환가액ㆍ신주인수권행사가액ㆍ교환가액의 조정(안내공시) | 
+
+
+
+
+
+
+
+
+
+일별 전환청구내역 | 
+(단위 : 원, 주) | 
+
+
+
+
+
+
+청구일자 | 
+사채의 명칭 | 
+청구금액 | 
+전환가액 | 
+발행한 주식수(주) | 
+상장일 또는 예정일 | 
+
+
+회차 | 
+종류 | 
+
+
+2026-08-28 | 
+53 | 
+무기명식 사모 전환사채 | 
+6,000,000,000 | 
+2,500 | 
+2,400,000 | 
+2026-09-11 | 
+
+
+
+
+
+
+전환사채 잔액 | 
+(단위 : 원, 주) | 
+
+
+
+
+
+
+회차 | 
+발행당시 사채의 권면(전자등록)총액 | 
+신고일 현재 미전환사채 잔액 | 
+전환가액(원) | 
+전환가능 주식수(주) | 
+
+
+53 | 
+6,000,000,000 | 
+KRW : South-Korean Won | 
+- | 
+KRW : South-Korean Won | 
+2,500 | 
+- |

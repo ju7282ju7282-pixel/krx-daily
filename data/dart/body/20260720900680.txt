@@ -1,0 +1,95 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+에스아이리소스/기타 주요경영사항/(2026.07.20)기타 주요경영사항(소액공모 제3자배정 유상증자 결정 철회) 
+
+
+
+
+
+
+
+기타 주요경영사항 
+
+
+
+
+
+
+1. 제출사유 | 
+제3자배정 유상증자 결정 철회 | 
+
+
+2. 주요내용 | 
+1. 개요 당사는 2026년 05월 06일 최초 이사회 결의로 제3자배정 유상증자를 결정하여 관련 공시를 진행한 바 있습니다. 2. 철회 내용 (1)신주의 종류 및 주식수 : 주식회사 에스아이리소스 기명식 보통주 3,300,330주 (2)신주의 발행 방법 : 제3자배정 유상증자 (3)자금조달 목적 : 운영자금 (4)배정금액 : 999,999,990원 (5)발행가액 : 303원 (6)납입일 : 2026년 06월 15일 (7)신주 배정대상자 : 골든파크파트너스 3,300,330주 3. 철회사유 2026년 5월 6일 당시 이사회의 결의에 따른 운영자금 조달 목적 제3자배정 유상증자 결정은, 서울서부지방법원 2026가합50269 신주발행금지가처분 결정에 따라 소집 권한 없는 자에 의한 임시주주총회 개최 등 중대한 하자에 기초한 이사회 결의로 법률상 무효/하자가 존재하므로, 사법적 판단을 수용하고 그 절차적 하자를 해소하기 위하여 철회하기로 결의하였음. | 
+
+
+3. 결정(발생)일자 | 
+2026-07-20 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+2026.05.07 주요사항보고서(유상증자결정) 2026.05.14 [정정]주요사항보고서(유상증자결정) 2026.07.20 [정정]주요사항보고서(유상증자결정) |

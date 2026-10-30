@@ -1,0 +1,172 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+인지디스플레/주식병합결정/(2026.07.28)주식병합결정 
+
+
+
+
+
+
+
+주식병합 결정 
+
+
+
+
+
+1. 주식병합 내용 | 
+구분 | 
+병합전 | 
+병합후 | 
+
+
+1주당 가액 (원) | 
+500 | 
+2,500 | 
+
+
+발행주식총수 | 
+보통주식(주) | 
+43,885,224 | 
+8,777,044 | 
+
+
+종류주식(주) | 
+- | 
+- | 
+
+
+2. 주식병합 일정 | 
+주주총회예정일 | 
+2026-09-04 | 
+
+
+구주권제출기간 | 
+시작일 | 
+- | 
+
+
+종료일 | 
+- | 
+
+
+신주의 효력발생일 | 
+2026-09-22 | 
+
+
+매매거래정지예정기간 | 
+시작일 | 
+2026-09-18 | 
+
+
+종료일 | 
+2026-10-15 | 
+
+
+명의개서정지기간 | 
+- | 
+
+
+신주권교부예정일 | 
+- | 
+
+
+신주권상장예정일 | 
+2026-10-16 | 
+
+
+3. 주식병합목적 | 
+기업가치제고 및 주가안정 | 
+
+
+4. 이사회결의일 | 
+2026-07-28 | 
+
+
+-사외이사 참석여부 | 
+참석(명) | 
+1 | 
+
+
+불참(명) | 
+- | 
+
+
+-감사(사외이사가 아닌 감사위원) 참석여부 | 
+불참 | 
+
+
+5. 기타 투자판단에 참고할 사항 | 
+1) 본 건은 기업가치가 유지되는 주식병합(액면)으로 자본금 감소를 목적으로 하는 '감자'에 해당하지 않으나, 단수주 처리 과정에서 자본금 2,000원이 감소하게 됩니다. ※주식병합 전/후 자본금 ·병합전: 21,942,612,000원 ·병합후: 21,942,610,000원 
+
+(2,000원 감소) 
+
+2) 주식병합으로 발생하는 1주 미만의 단수주는 신주상장 초일의 종가를 기준으로 현금지급 예정입니다. 3) 상기 결정사항은 당사의 임시주주총회 승인의 건으로 상정될 예정이며, 주주총회 결과에 따라 변경될 수 있습니다. 4) 전자증권제도 시행에 따라 구주권제출기간, 명의개서정지기간, 신주권교부예정일 작성은 생략하였습니다. 5) 상기 일정 및 세부내용은 유관기관과의 협의 및 관련 절차 진행과정에서 변경될 수 있습니다. | 
+
+
+※관련공시 | 
+- |
