@@ -1,0 +1,168 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+캠시스/주식병합결정/(2026.07.01)주식병합결정 
+
+
+
+
+
+
+
+주식병합 결정 
+
+
+
+
+
+1. 주식병합 내용 | 
+구분 | 
+병합전 | 
+병합후 | 
+
+
+1주당 가액 (원) | 
+500 | 
+2,500 | 
+
+
+발행주식총수 | 
+보통주식(주) | 
+29,224,823 | 
+5,844,964 | 
+
+
+종류주식(주) | 
+- | 
+- | 
+
+
+2. 주식병합 일정 | 
+주주총회예정일 | 
+2026-08-13 | 
+
+
+구주권제출기간 | 
+시작일 | 
+- | 
+
+
+종료일 | 
+- | 
+
+
+신주의 효력발생일 | 
+2026-09-15 | 
+
+
+매매거래정지예정기간 | 
+시작일 | 
+2026-09-11 | 
+
+
+종료일 | 
+2026-10-06 | 
+
+
+명의개서정지기간 | 
+- | 
+
+
+신주권교부예정일 | 
+- | 
+
+
+신주권상장예정일 | 
+2026-10-07 | 
+
+
+3. 주식병합목적 | 
+주식거래 안정화 및 기업가치 제고 | 
+
+
+4. 이사회결의일 | 
+2026-07-01 | 
+
+
+-사외이사 참석여부 | 
+참석(명) | 
+4 | 
+
+
+불참(명) | 
+0 | 
+
+
+-감사(사외이사가 아닌 감사위원) 참석여부 | 
+참석 | 
+
+
+5. 기타 투자판단에 참고할 사항 | 
+- 본 건은 기업가치가 유지되는 주식병합이나, 단수주식(0.6주) 처리에 따라 자본금은 1,500원 감소합니다. (병합 전 자본금: 14,612,411,500원, 병합 후 자본금: 14,612,410,000원) - 주식 병합으로 인해 발생하는 1주 미만 단수주식은 신주상장 초일의 종가를 기준으로 계산하여 현금 지급합니다. - 본 주식병합 결정은 주주총회 특별결의 사항으로 주주총회 결과에 따라 변경될 수 있습니다. - 상기 내용 및 일정은 유관기관과의 협의 과정 및 임시주주총회 결의 결과에 따라서 변경될 수 있습니다. | 
+
+
+※관련공시 | 
+- |

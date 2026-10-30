@@ -1,0 +1,158 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+깨끗한나라/전환가액ㆍ신주인수권행사가액ㆍ교환가액의 조정(안내공시)/(2026.09.29)전환가액ㆍ신주인수권행사가액ㆍ교환가액의 조정(안내공시) 
+
+
+
+
+
+
+
+전환가액ㆍ신주인수권행사가액ㆍ교환가액의 조정(안내공시) 
+
+
+
+
+
+
+1. 구분 | 
+전환가액의 조정 | 
+
+
+2. 증권의 종류 | 
+제131회 무기명식 이권부 무보증 사모 전환사채 | 
+
+
+
+
+- 신주인수권증권의 상장여부 | 
+해당사항없음 | 
+
+
+3. 조정에 관한 사항 | 
+회차 | 
+조정전 가액(원) | 
+조정후 가액(원) | 
+
+
+2 | 
+2,092 | 
+1,554 | 
+
+
+4. 전환ㆍ행사ㆍ교환가능 주식수 변동 | 
+회차 | 
+미행사증권의 권면(전자등록)총액(원) | 
+조정전 전환ㆍ행사ㆍ교환 가능주식수 (주) | 
+조정후 전환ㆍ행사ㆍ교환 가능주식수 (주) | 
+
+
+2 | 
+12,000,000,000 | 
+5,736,137 | 
+7,722,007 | 
+
+
+5. 조정사유 | 
+시가하락에 따른 전환가액 조정 | 
+
+
+6. 조정근거 및 방법 | 
+가. 조정근거 본 사채 발행 후 매 7개월이 되는 날을 전환가액 조정일로 하고, 각 전환가액 조정일 전일을 기산일로 하여 기산일로부터 소급한 1개월 가중산술평균주가, 1주일 가중산술평균주가, 최근일 가중산술평균주가를 산술평균한 가액과 최근일 가중산술평균주가 중 높은 가액이 직전 전환가액보다 낮은 경우에는 그 가액을 새로운 전환가액으로 하향조정한다. 단, 전환가액의 최저 조정한도는 최초 전환가액(단, 조정일 전에 신주의 할인발행 등 또는 감자 등의 사유로 전환가액을 이미 조정한 경우에는 이를 감안하여 산정한 가액)의 100분의 70에 해당하는 가액으로 한다. 나. 조정내용 ① 1개월 가중산술평균주가 : 1,225.34원 ② 1주일 가중산술평균주가 : 1,213.30원 ③ 최근일 가중산술평균주가 : 1,211.76원 ④ 산술평균가액(①+②+③)/3 : 1,216.80원 ⑤ 기준주가(Max(③,④) : 1,216.80원 ⑥ 최저 조정가액 : 1,554원 ⑦ 조정전 전환가액 : 2,092원 ⑧ 조정후 전환가액(Max⑤,⑥): 1,554원 | 
+
+
+7. 조정가액 적용일 | 
+2026-09-29 | 
+
+
+8. 이사회결의일(결정일) | 
+- | 
+
+
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+
+
+- 감사(사외이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+9. 기타 투자판단과 관련한 중요사항 | 
+- 상기사항은 시가하락에 따른 전환가액 조정으로 별도의 이사회 결의를 하지 않습니다. | 
+
+
+※관련공시 | 
+2026-03-05 전환가액ㆍ신주인수권행사가액ㆍ교환가액의 조정(안내공시) 2025-07-21 전환사채권발행결정 |
