@@ -1,0 +1,124 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+제일엠앤에스/증권 발행결과(자율공시)/(2026.10.14)증권 발행결과(자율공시)(제3자배정 유상증자) 
+
+
+
+
+
+
+
+증권 발행결과(자율공시) 
+
+
+
+
+
+
+1. 증권의 종류 | 
+보통주식 | 
+
+
+2. 발행방법 | 
+제3자배정 유상증자 | 
+
+
+3. 발행내역 | 
+발행예정주식수(주) | 
+31,000,000 | 
+
+
+발행예정금액(원) | 
+15,500,000,000 | 
+
+
+발행결정 최초 이사회결의일 | 
+2026-10-08 | 
+
+
+실제발행주식수(주) | 
+31,000,000 | 
+
+
+실제발행금액(원) | 
+15,500,000,000 | 
+
+
+납입일 | 
+2026-10-14 | 
+
+
+4. 상장예정 여부 | 
+예 | 
+
+
+5. 기타 투자판단에 참고할 사항 | 
+- 상기 유상증자는 2026년 10월 8일 수원회생법원의 회생계획인가결정에 따른 제3자배정 유상증자입니다. - 상기 발행결정 최초 이사회결의일은 수원회생법원으로부터 회생계획안 인가일 입니다. | 
+
+
+※관련공시 | 
+2026-10-13 유상증자결정(제3자배정) 2026-10-12 회생계획 인가 2026-04-24 회생절차개시결정 2026-03-26 회생절차개시결정 2025-12-16 회생절차개시결정 2025-12-02 회생절차개시신청 |

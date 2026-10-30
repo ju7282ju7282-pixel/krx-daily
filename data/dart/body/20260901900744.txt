@@ -1,0 +1,170 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+탑코미디어/교환청구권행사/(2026.09.01)교환청구권행사 
+
+
+
+
+
+
+
+교환청구권 행사 
+
+
+
+
+
+
+1. 교환청구권 행사주식수 누계 (주) (기 신고된 주식수량 제외) | 
+230,768 | 
+
+
+-총발행주식수 (주) | 
+49,294,149 | 
+
+
+-발행주식총수 대비 (%) | 
+0.47 | 
+
+
+2. 공정거래위원회 신고대상 여부 | 
+미해당 | 
+
+
+3. 기타 투자판단에 참고할 사항 | 
+1.상기 내용은 당사의 최대주주인 (주)엔키홀딩스가 보유한 당사의 주식을 대상으로 발행한 제2회 교환사채의교환청구권행사에 대한 내용입니다. 2. 본건 교환청구권 행사와 관련하여 교부될 주식은 한국예탁결제원에 예탁되어 있는 (주)엔키홀딩스 소유주식으로, 신주발행은 없습니다. | 
+
+
+※관련공시 | 
+2026-08-28 교환청구권행사 2026-08-26 교환청구권행사 2026-08-25 교환청구권행사 2025-10-29 임원ㆍ주요주주특정증권등거래계획보고서 2025-10-29 주식등의대량보유상황보고서(일반) | 
+
+
+
+
+
+
+일별 교환권청구 내역 | 
+(단위 : 원, 주) | 
+
+
+
+
+
+
+청구일자 | 
+사채의 종류 | 
+청구금액 | 
+교환가액 | 
+교환 주식수 | 
+
+
+회차 | 
+종류 | 
+
+
+2026-08-31 | 
+2 | 
+무기명식 무보증 사모 교환사채 | 
+300,000,000 | 
+2,600 | 
+115,384 | 
+
+
+2026-09-01 | 
+2 | 
+무기명식 무보증 사모 교환사채 | 
+300,000,000 | 
+2,600 | 
+115,384 | 
+
+
+
+
+
+
+교환사채 잔액 | 
+(단위 : 주) | 
+
+
+
+
+
+
+회차 | 
+발행당시 사채의 권면(전자등록)총액(통화단위) | 
+신고일 현재 미교환사채 잔액(통화단위) | 
+교환가액(원) | 
+교환가능 주식수 | 
+
+
+2 | 
+13,000,000,000 | 
+KRW : South-Korean Won | 
+10,950,000,000 | 
+KRW : South-Korean Won | 
+2,600 | 
+4,211,543 |
