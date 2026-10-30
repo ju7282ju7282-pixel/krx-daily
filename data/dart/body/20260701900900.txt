@@ -1,0 +1,178 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+심텍홀딩스/교환청구권행사/(2026.07.01)교환청구권행사 
+
+
+
+
+
+
+
+교환청구권 행사 
+
+
+
+
+
+
+1. 교환청구권 행사주식수 누계 (주) (기 신고된 주식수량 제외) | 
+383,385 | 
+
+
+-총발행주식수 (주) | 
+37,463,931 | 
+
+
+-발행주식총수 대비 (%) | 
+1.02 | 
+
+
+2. 공정거래위원회 신고대상 여부 | 
+미해당 | 
+
+
+3. 기타 투자판단에 참고할 사항 | 
+1. 상기 내용은 당사가 발행한 '제2회차 무기명식 이권부 무보증 사모 교환사채'의 교환청구권 행사에 관한 사항입니다. 2. 본 건 제2회차 교환청구권 행사와 관련하여 교부된 주식은 한국예탁결제원에 예탁되어 있는 자회사인 (주)심텍 주식으로, 신주발행은 없습니다. 3. 상기 '총발행주식수(주)'는 본 교환청구권의 교환대상 주식인 (주)심텍의 발생주식총수 입니다. | 
+
+
+※관련공시 | 
+2026-04-10 교환사채권발행결정(제2회차) 2026-04-22 증권 발행결과(자율공시)(제2회차 EB) | 
+
+
+
+
+
+
+일별 교환권청구 내역 | 
+(단위 : 원, 주) | 
+
+
+
+
+
+
+청구일자 | 
+사채의 종류 | 
+청구금액 | 
+교환가액 | 
+교환 주식수 | 
+
+
+회차 | 
+종류 | 
+
+
+2026-05-22 | 
+2 | 
+무기명식 무보증 사모 교환사채 | 
+12,000,000,000 | 
+73,555 | 
+163,143 | 
+
+
+2026-06-11 | 
+2 | 
+무기명식 무보증 사모 교환사채 | 
+6,200,000,000 | 
+73,555 | 
+84,290 | 
+
+
+2026-07-01 | 
+2 | 
+무기명식 무보증 사모 교환사채 | 
+10,000,000,000 | 
+73,555 | 
+135,952 | 
+
+
+
+
+
+
+교환사채 잔액 | 
+(단위 : 주) | 
+
+
+
+
+
+
+회차 | 
+발행당시 사채의 권면(전자등록)총액(통화단위) | 
+신고일 현재 미교환사채 잔액(통화단위) | 
+교환가액(원) | 
+교환가능 주식수 | 
+
+
+2 | 
+46,200,000,000 | 
+KRW : South-Korean Won | 
+18,000,000,000 | 
+KRW : South-Korean Won | 
+73,555 | 
+244,716 |

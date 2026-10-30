@@ -1,0 +1,116 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+핀텔/유상증자최종발행가액확정/(2026.09.03)유상증자최종발행가액확정(일반공모증자-소액공모) 
+
+
+
+
+
+
+
+유상증자 최종발행가액 확정 
+
+
+
+
+
+1. 발행예정내역 | 
+가. 주식의 종류 | 
+기명식 보통주 | 
+
+
+나. 주식수(주) | 
+2,657,218 | 
+
+
+2. 확정발행가액(1주당) | 
+가. 확정가액(원) | 
+1,129 | 
+
+
+나. 1차발행가(원) | 
+- | 
+
+
+다. 2차발행가(원) | 
+- | 
+
+
+3. 액면가(원) | 
+500 | 
+
+
+4. 확정일 | 
+2026-09-02 | 
+
+
+5. 기타 투자판단에 참고할 사항 | 
+확정 발행가액은「증권의 발행 및 공시 등에 관한 규정」제5-18조(유상증자의 발행가액 결정) 제1항에 의거하여, 청약일전 제3거래일부터 제5거래일까지의 가중산술평균주가를 기준주가로 하여, 10% 할인된 금액을 확정 발행가액으로 합니다. 단, 호가단위 미만은 호가단위로 절상하며, 그 가액이 액면가액 미만일 경우에는 액면가액을 발행가액으로 합니다. | 
+
+
+※관련공시 | 
+2026-09-03 유상증자결정(일반공모증자-소액공모) 2026-09-01 유상증자결정(일반공모증자-소액공모) |

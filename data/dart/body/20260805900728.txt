@@ -1,0 +1,97 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+썸에이지/기타 주요경영사항/(2026.08.05)기타 주요경영사항(유상증자결정(주주배정 후 실권주 일반공모) 철회) 
+
+
+
+
+
+
+
+기타 주요경영사항 
+
+
+
+
+
+
+1. 제출사유 | 
+주요사항보고서(유상증자)철회 | 
+
+
+2. 주요내용 | 
+1. 철회내용 가.신주의 종류와 수 : 보통주 9,800,000주 나.신주의 발행 방법 : 주주배정 후 실권주 일반공모 다.자금조달의 목적 : 운영자금 라. 확정발행가액 및 모집총액 : 1주당 688원, 금 6,742,400,000원 마.최초 이사회결의일 : 2026년 4월 10일 바.최초 증권신고서 제출일 : 2026년 4월 30일 2. 철회사유 당사는 2026년 04월 10일 최초 이사회 결의를 통해 운영자금의 조달을 목적으로 주주배정 후 실권주 일반공모 방식의 유상증자를 추진하고자 증권신고서를 제출하였습니다. 이후 공모 절차 진행 과정에서 금융감독원의 정정신고서 제출요구에 따른 정정 2회 및 자진정정 2회를 통해 효력이 발생하였으나, 유상증자 기간이 장기화됨에 따라 회사의 재무적 여건, 시장상황등이 변화하였습니다. 이에 당사는 대표주관회사와 협의하여 유상증자 기간의 장기화에 따른 회사 주권의 상장 규정에 의거한 관리종목 지정 우려로 기존 주주 및 신규 투자자에게 혼란을 초래할 우려가 있다고 판단하여, 부득이하게 금번 유상증자를 철회하기로 결정하였습니다. 
+
+
+
+
+3. 결정(발생)일자 | 
+2026-08-05 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+- |

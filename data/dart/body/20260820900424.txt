@@ -1,0 +1,202 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+에스에이엠티/무상증자결정(종속회사의 주요경영사항)/(2026.08.20)무상증자결정(종속회사의 주요경영사항) 
+
+
+
+
+
+
+
+무상증자결정(종속회사의 주요경영사항) 
+
+
+
+
+
+종속회사인 | 
+SAMT AMERICA LLC | 
+의 주요경영사항 신고 | 
+
+
+
+
+
+
+1. 신주의 종류와 수 | 
+보통주식(주) | 
+- | 
+
+
+종류주식(주) | 
+- | 
+
+
+2. 1주당 액면가액(원) | 
+- | 
+
+
+3. 증자전 발행주식총수 | 
+보통주식(주) | 
+- | 
+
+
+종류주식(주) | 
+- | 
+
+
+4. 신주배정기준일 | 
+- | 
+
+
+5. 1주당 신주배정 주식수 | 
+보통주식(주) | 
+- | 
+
+
+종류주식(주) | 
+- | 
+
+
+6. 신주의 배당기산일 | 
+- | 
+
+
+7. 신주권교부예정일 | 
+- | 
+
+
+8. 이사회결의일(결정일) | 
+2026-08-20 | 
+
+
+-사외이사 참석여부 | 
+참석(명) | 
+1 | 
+
+
+불참(명) | 
+0 | 
+
+
+-감사(사외이사가 아닌 감사위원) 참석여부 | 
+참석 | 
+
+
+9. 기타 투자판단에 참고할 사항 | 
+본 건은 당사가 출자지분 100%를 보유한 종속회사 SAMT AMERICA LLC가 이익잉여금 USD 37,000,000을 자본금으로 전입하는 무상증자에 대한 건으로, 2026년 8월 20일 당사 이사회에서 승인되었습니다. 1.신주의 재원: 이익잉여금 USD 37,000,000 전액이며, 대상회사의 2026년 반기 재무제표를 기초로 산정하였습니다. 원화환산 금액은 약 519억원(적용환율 2026-08-20 매매기준율 1,402.50원/USD)입니다. 2.자본금 변동: 
+
+- USD 1,000,000 → USD 38,000,000. 
+
+- 지분율 변동: 100% → 100%(변동 없음) 3.효력발생일: 2026년 8월 31일 4. 대상회사는 주식을 발행하지 아니하고 출자지분을 지분율(%) 방식으로만 보유하는 유한책임회사로서, 신주의 종류와 수, 1주당 액면가액, 증자전 발행주식총수, 1주당 신주배정 주식수, 신주의 배당기산일 및 신주권교부예정일은 해당사항이 없습니다. 5. 본 건은 신규 출자금 납입 없이 대상회사 내 자본계정 간 대체로 이루어지며, 현금 또는 자산의 사외 유출은 없습니다. 
+
+
+
+
+※ 관련공시 | 
+- | 
+
+
+
+[종속회사에 관한 사항] 
+
+
+
+종속회사명 | 
+SAMT AMERICA LLC | 
+영문 | 
+SAMT AMERICA LLC | 
+
+
+
+
+- 대표자 | 
+Kevin Laewan Lee | 
+
+
+
+
+- 주요사업 | 
+반도체 및 IT부품 유통업 | 
+
+
+
+
+- 주요종속회사 여부 | 
+미해당 | 
+
+
+종속회사의 자산총액(원) | 
+113,774,000,000 | 
+
+
+지배회사의 연결 자산총액(원) | 
+1,376,246,122,799 | 
+
+
+지배회사의 연결 자산총액 대비(%) | 
+8.27 |

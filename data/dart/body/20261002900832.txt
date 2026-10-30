@@ -1,0 +1,95 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+스코넥/기타 주요경영사항/(2026.10.02)기타 주요경영사항(주요사항보고서(유상증자)철회) 
+
+
+
+
+
+
+
+기타 주요경영사항 
+
+
+
+
+
+
+1. 제출사유 | 
+주요사항보고서(유상증자)철회 | 
+
+
+2. 주요내용 | 
+1. 철회내용 가. 신주의 종류와 수: 기명식 보통주식 6,000,000주 　 (최초 4,354,136주) 나. 신주의 발행방법: 제3자배정증자 다. 발행예정금액: 3,000,000,000원 　 (최초 2,999,999,704원) 라. 자금조달의 목적: 운영자금 마. 최초 이사회결의일: 2026년 03월 24일 바. 배정 대상자: ㈜글로메타(최대주주) 사. 철회 전 최종 납입예정일: 2026년 10월 06일 2. 철회사유 당사는 2026년 3월 24일 이사회에서 최대주주인 ㈜글로메타를 대상으로 운영자금 조달을 위한 제3자배정 유상증자를 결정하였습니다. 그러나 최초 납입예정일인 2026년 4월 7일부터 약 6개월에 걸쳐 납입일이 연기되었음에도 배정 대상자의 증자대금 납입이 이루어지지 않았습니다. 또한, 당사는 2026년 7월 7일 공문을 통해 납입 여부 및 일정에 대한 회신을 요청하였으나, 회신기한인 2026년 7월 17일 이후에도 회신을 받지 못하였습니다. 이에 배정 대상자의 정상적인 납입 이행을 기대하기 어렵다고 판단하였으며, 2026년 9월 23일 회생절차개시신청에 따른 자금조달 여건 변화도 함께 고려하여 본 유상증자를 철회하기로 결정하였습니다. 이를 통해 장기간 지속된 유상증자 진행 여부에 관한 시장의 불확실성을 해소하고자 합니다. | 
+
+
+3. 결정(발생)일자 | 
+2026-10-02 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+가. 상기 결정(발생)일자는 본 유상증자 철회를 결의한 이사회 결의일입니다. 나. 본 유상증자의 철회로 기존에 공시한 신주 발행, 자금조달 및 신주 상장 계획은 취소됩니다. |

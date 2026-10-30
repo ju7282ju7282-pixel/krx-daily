@@ -1,0 +1,119 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+바른손이앤에이/기타 주요경영사항/(2026.09.15)기타 주요경영사항(제3자 배정 유상증자 결정 철회) 
+
+
+
+
+
+
+
+기타 주요경영사항 
+
+
+
+
+
+
+1. 제출사유 | 
+제3자 배정 유상증자 결정 철회 | 
+
+
+2. 주요내용 | 
+1. 개요 
+
+당사는 2026년 9월 9일 이사회결의를 통하여 "유상증자 결정(제3자배정)"공시를 진행하였습니다. 2. 철회내용 
+
+1) 공시서류 최초 제출일 : 2026년 9월 9일 
+
+2) 발행주식수 : 4,241,933주 
+
+3) 발행가액 :620원 
+
+4) 발행예정금액 : 2,629,998,460원 
+
+5) 배정대상자 :(주)엠아이컴퍼니 
+
+(주)카우즈앤호시즈 
+
+이국진 
+
+박진홍 
+
+최지욱 
+
+6) 납입일 : 2026년 9월 17일 3. 철회사유 
+
+- 일부 배정대상자의 청약 철회 | 
+
+
+3. 결정(발생)일자 | 
+2026-09-15 | 
+
+
+4. 기타 투자판단에 참고할 사항 | 
+- 관련 공시- 2026.09.09 주요사항보고서(유상증자결정) |
