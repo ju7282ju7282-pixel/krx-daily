@@ -1,0 +1,22 @@
+name: section-bulk
+# 10/31: 전 종목 반기보고서 한 부분 받기(밸류체인 매출처 등) — info-daily 와 줄을 따로 써서 10년 기록 받기와 동시에 돌게
+on:
+  workflow_dispatch:
+    inputs:
+      args: { description: "코드,코드… 보고서이름 키워드|키워드 일수", default: "" }
+permissions:
+  contents: write
+concurrency: { group: section-bulk, cancel-in-progress: false }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: 받기
+        run: timeout 160m python scripts/dart.py section ${{ github.event.inputs.args }} || echo "중간에 멈춤 — 받은 것까지 올림"
+      - run: |
+          git config user.name "krx-bot"; git config user.email "krx-bot@users.noreply.github.com"
+          git add data && git commit -q -m "반기보고서 부분 $(date +%F)" && (git pull --rebase -q -X ours || git pull --rebase -q) && git push || echo "올릴 것 없음"
