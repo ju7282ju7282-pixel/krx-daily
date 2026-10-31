@@ -128,6 +128,16 @@ def daily(days=4):
         f = f"data/dart/{d}.json"; old = json.load(open(f)) if os.path.exists(f) else []
         json.dump(old + xs, open(f, "w"), ensure_ascii=False, indent=0)
         print(d, "더함", len(xs), "본문", sum(1 for x in xs if x.get("body")))
+def srch(name, start, end):   # 10/31: DART 검색은 한 번에 10년까지만 → 긴 기간은 10년씩 나눠 받아 합침(27년 받기가 0건이던 일)
+    rows, e = [], end
+    while e > start:
+        s0 = max(start, e - dt.timedelta(days=365 * 10 - 5))
+        rows += search(textCrpNm=name, startDate=s0.strftime("%Y%m%d"), endDate=e.strftime("%Y%m%d"))
+        e = s0 - dt.timedelta(days=1)
+    seen = set(); out = []
+    for r in rows:
+        if r["rcpNo"] not in seen: seen.add(r["rcpNo"]); out.append(r)
+    return out
 def company(names, years=10):   # 10/26 현주님 "3년이 없으면 5년으로도 찾아봐야지" — 처음부터 10년 치
     N, nz = codes_by_name(); C = {c: n for n, c in N.items()}
     f = sorted(glob.glob("data/naver/????-??-??.json.gz"))[-1]; R = json.load(gzip.open(f))["rows"]
@@ -135,7 +145,7 @@ def company(names, years=10):   # 10/26 현주님 "3년이 없으면 5년으로�
     for a in names:
         code = a if re.fullmatch(r"[0-9A-Z]{6}", a) and re.search(r"\d", a) else N.get(nz(a), "")
         name = R.get(code, {}).get("name", a) if code else a
-        rows = search(textCrpNm=name, startDate=start.strftime("%Y%m%d"), endDate=end.strftime("%Y%m%d"))
+        rows = srch(name, start, end)
         rows = [r for r in rows if nz(r["corp"]) == nz(name)] or rows
         if not rows and code:   # 10/29: KRX 이름(THE E&M)과 DART 이름(더이앤엠)이 다르면 0건 → 날마다 받은 공시 파일에서 그 코드의 DART 이름을 찾아 다시
             dn = ""
@@ -145,8 +155,13 @@ def company(names, years=10):   # 10/26 현주님 "3년이 없으면 5년으로�
                 if dn: break
             if dn and nz(dn) != nz(name):
                 print("DART 이름으로 다시", name, "→", dn); name = dn
-                rows = search(textCrpNm=name, startDate=start.strftime("%Y%m%d"), endDate=end.strftime("%Y%m%d"))
+                rows = srch(name, start, end)
                 rows = [r for r in rows if nz(r["corp"]) == nz(name)] or rows
+        if not rows and code:   # 10/31: 이름 별칭표(name_alias.json 등)로 한 번 더
+            dn = dart_name(code)
+            if dn and nz(dn) != nz(name):
+                print("별칭으로 다시", name, "→", dn); name = dn
+                rows = [r for r in srch(name, start, end) if nz(r["corp"]) == nz(name)]
         old = {}   # 10/26: 전에 받아 둔 본문은 다시 받지 않음(10년 치로 늘려도 시간이 덜 걸리게)
         fo = f"data/dart/company/{code or nz(name)}.json"
         if os.path.exists(fo):
@@ -160,6 +175,8 @@ def company(names, years=10):   # 10/26 현주님 "3년이 없으면 5년으로�
             if getb and r["kind"] == "over":   # 회사별 3년은 오버행 공시 본문만(시간 아끼기) — 중요 공시는 제목만
                 try: r["body"] = body(r["rcpNo"])
                 except Exception as e: r["body_error"] = repr(e)[:200]
+        if not rows and os.path.exists(fo):   # 10/31: 0건이면 전에 받은 목록을 덮어쓰지 않음(27년 받기가 10년 목록을 지운 일)
+            print("0건 — 전 목록 그대로 둠", name, code); continue
         json.dump({"code": code, "name": name, "from": start.isoformat(), "to": dt.date.today().isoformat(), "rows": rows},
                   open(f"data/dart/company/{code or nz(name)}.json", "w"), ensure_ascii=False, indent=0)
         print(name, code, "목록", len(rows), "본문", sum(1 for r in rows if r.get("body")))
