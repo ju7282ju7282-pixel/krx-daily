@@ -310,3 +310,36 @@ if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "events":
     for r in out: r["code"] = N.get(nz(r["corp"]), "")
     json.dump(out, open(f"data/dart/events_{s_}_{e_}.json", "w"), ensure_ascii=False, indent=0)
     print("모두", len(out), "회사", len({r['corp'] for r in out}))
+
+# ── 큰 손 지분 보고(대량보유) 모으기: python scripts/dart.py holders 20261001 20261020 — 10/31 현주님(국민연금 등 지분 변동)
+#  날짜 2일씩 전체 목록을 받아 '주식등의대량보유상황보고서'만 거르고 본문(요약 칸)을 받음 → data/dart/holders/<시작>_<끝>.json
+#  이미 받은 파일이 있으면 본문 없는 것만 이어서 받음(시간 한도 DART_BUDGET_MIN).
+if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "holders":
+    s_, e_ = sys.argv[2], sys.argv[3]; os.makedirs("data/dart/holders", exist_ok=True)
+    fo = f"data/dart/holders/{s_}_{e_}.json"
+    if os.path.exists(fo): out = json.load(open(fo))
+    else:
+        out = []; seen = set()
+        d0 = dt.date(int(s_[:4]), int(s_[4:6]), int(s_[6:])); d1 = dt.date(int(e_[:4]), int(e_[4:6]), int(e_[6:]))
+        while d0 <= d1:
+            dz = min(d1, d0 + dt.timedelta(days=1))
+            try: rows = search(startDate=d0.strftime("%Y%m%d"), endDate=dz.strftime("%Y%m%d"))
+            except Exception as ex: print("실패", d0, repr(ex)[:80]); rows = []
+            n = 0
+            for r in rows:
+                if r["market"] not in ("KOSPI", "KOSDAQ") or r["rcpNo"] in seen or "대량보유" not in r["title"]: continue
+                seen.add(r["rcpNo"]); out.append(r); n += 1
+            print(d0, "~", dz, "목록", len(rows), "대량보유", n, flush=True)
+            d0 = dz + dt.timedelta(days=1)
+        N, nz = codes_by_name()
+        for r in out: r["code"] = N.get(nz(r["corp"]), "")
+        json.dump(out, open(fo, "w"), ensure_ascii=False, indent=0)
+    nb = 0
+    for r in out:
+        if r.get("body"): continue
+        try: r["body"] = body(r["rcpNo"])[:6000]; r.pop("body_error", None); nb += 1
+        except TimeoutError: break
+        except Exception as ex: r["body_error"] = repr(ex)[:200]
+        if nb % 50 == 0: print("… 본문", nb, flush=True); json.dump(out, open(fo, "w"), ensure_ascii=False, indent=0)
+    json.dump(out, open(fo, "w"), ensure_ascii=False, indent=0)
+    print("모두", len(out), "본문 있음", sum(1 for r in out if r.get("body")), "이번에 받음", nb)

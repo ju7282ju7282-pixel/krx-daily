@@ -29,6 +29,7 @@ jobs:
           elif [ "$M" = "body" ]; then python scripts/dart.py body $A
           elif [ "$M" = "probe" ]; then python scripts/probe_price.py $A
           elif [ "$M" = "events" ]; then python scripts/dart.py events $A
+          elif [ "$M" = "holders" ]; then DART_BUDGET_MIN=60 python scripts/dart.py holders $A
           elif [ "$M" = "conv" ]; then DART_BUDGET_MIN=130 python scripts/dart.py conv ${A:-36 80}
           elif [ "$M" = "quick" ]; then python scripts/company_info.py $A; python scripts/dart.py company $A
           else python scripts/dart.py daily 2 || echo "공시 실패"; python scripts/company_info.py new || echo "기업정보 실패"; fi
