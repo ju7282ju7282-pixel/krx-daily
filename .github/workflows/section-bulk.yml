@@ -16,7 +16,8 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
       - name: 받기
-        run: timeout 160m python scripts/dart.py section ${{ github.event.inputs.args }} || echo "중간에 멈춤 — 받은 것까지 올림"
+        env: { A: "${{ github.event.inputs.args }}" }
+        run: timeout 160m python scripts/dart.py section $A || echo "중간에 멈춤 — 받은 것까지 올림"   # 10/31: 인자를 글자로 바로 넣으면 '|'가 파이프로 읽혀 0건 → 변수로
       - run: |
           git config user.name "krx-bot"; git config user.email "krx-bot@users.noreply.github.com"
           git add data && git commit -q -m "반기보고서 부분 $(date +%F)" && (git pull --rebase -q -X ours || git pull --rebase -q) && git push || echo "올릴 것 없음"
