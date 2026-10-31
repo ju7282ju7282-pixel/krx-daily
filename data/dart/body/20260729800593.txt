@@ -1,0 +1,158 @@
+.xforms * { font-family: 돋움체;}
+.xforms_title * { font-size: 13pt; padding : 0 0 10 0;}
+
+.xforms table {
+font-size: 10px;
+padding:0px;
+border-collapse:collapse;
+color: #3D3D3D;
+}
+.xforms td {
+padding-left:0px;
+padding-top:0px;
+border-collapse:collapse;
+line-height:22px;
+color: #3D3D3D;
+/*text-align:right;*/
+vertical-align:middle;
+border: 1px solid #7f7f7f;
+}
+
+.xforms span {
+/*display: inline-block;*/
+padding-left:3px;
+padding-right: 1px;
+line-height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+vertical-align:middle;
+border: 0px solid #DBDBDB;
+}
+
+.xforms.img{
+border : 0px;
+}
+
+.xforms a:link {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:active {
+
+color: #194866;
+text-decoration: none;
+}
+.xforms a:visited {
+color: #194866;
+text-decoration: none;
+}
+
+.xforms A:hover {
+color:008BE3;
+text-decoration: none;
+}
+
+.xforms_input{
+border: 0px solid #DBDBDB;
+padding-left:3px;
+padding-right: 1px;
+height:22px;
+padding-top:0px;
+padding-bottom:0px;
+text-align:left;
+}
+
+케이씨씨/전환가액ㆍ신주인수권행사가액ㆍ교환가액의 조정(안내공시)/(2026.07.29)전환가액ㆍ신주인수권행사가액ㆍ교환가액의 조정(안내공시) 
+
+
+
+
+
+
+
+전환가액ㆍ신주인수권행사가액ㆍ교환가액의 조정(안내공시) 
+
+
+
+
+
+
+1. 구분 | 
+교환가액의 조정 | 
+
+
+2. 증권의 종류 | 
+제79회 기명식 무담보 선순위 외화표시 해외교환사채 | 
+
+
+
+
+- 신주인수권증권의 상장여부 | 
+해당사항없음 | 
+
+
+3. 조정에 관한 사항 | 
+회차 | 
+조정전 가액(원) | 
+조정후 가액(원) | 
+
+
+79 | 
+416,462 | 
+408,770 | 
+
+
+4. 전환ㆍ행사ㆍ교환가능 주식수 변동 | 
+회차 | 
+미행사증권의 권면(전자등록)총액(원) | 
+조정전 전환ㆍ행사ㆍ교환 가능주식수 (주) | 
+조정후 전환ㆍ행사ㆍ교환 가능주식수 (주) | 
+
+
+79 | 
+882,765,000,000 | 
+2,119,677 | 
+2,159,564 | 
+
+
+5. 조정사유 | 
+에이치디한국조선해양(주)의 현금배당에 따른 교환가액 조정 | 
+
+
+6. 조정근거 및 방법 | 
+1) 조정근거 : 주식의 병합, 분할, 종류 변경, 자본감소, 주식배당, 준비금의 자본전입, 이익배당, 주주배정증자, 주주에 대한 옵션, 워런트 기타 권리 부여 등 교환가액 조정사유 발생시 사채조건에서 정한 바에 따라 조정 2) 조정방법 : 조정 후 교환가액 = 조정 전 교환가액 × [(주당 분기배당 기준금액-주당 분기배당액)/주당 분기배당 기준금액] | 
+
+
+7. 조정가액 적용일 | 
+2026-08-12 | 
+
+
+8. 이사회결의일(결정일) | 
+- | 
+
+
+
+
+- 사외이사 참석여부 | 
+참석(명) | 
+- | 
+
+
+불참(명) | 
+- | 
+
+
+
+
+- 감사(사외이사가 아닌 감사위원) 참석여부 | 
+- | 
+
+
+9. 기타 투자판단과 관련한 중요사항 | 
+-상기 '4. 미행사증권의 권면(전자등록)총액(원)'은 기준 환율(Bloomberg에 고시된 2025년 7월 3일 서울외국환중개(주) 고시 종가 환율(1,358.10원/USD)을 적용하여 원화로 환산한 금액임 -상기 '5. 조정사유'에서 현금배당은 에이치디한국조선해양(주)의 분기배당(공시일 : 2026-07-29)을 의미함. -상기 '6.2) 조정방법'에서, '주당 분기배당 기준금액'은 분기배당에 관한 최초 공시일의 직전 20 연속 거래일 동안의 주식 종가를 산술평균한 금액임 -상기 '7. 조정가액 적용일'은 배당기준일의 직전 거래일인 2026-08-12로 소급적용됨 | 
+
+
+※관련공시 | 
+2025-07-04 교환사채권발행결정 2026-03-31 전환가액ㆍ신주인수권행사가액ㆍ교환가액의 조정(안내공시) |
